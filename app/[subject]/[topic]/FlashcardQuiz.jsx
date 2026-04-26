@@ -32,12 +32,21 @@ export default function FlashcardQuiz({ subject, topic, blockNumber, cards }) {
   const gotCount = results.filter((r) => r.gotIt).length
   const isDefinitionFirst = mode === 'definition-first'
 
+  const speak = useCallback((text) => {
+    if (typeof window === 'undefined' || !window.speechSynthesis) return
+    window.speechSynthesis.cancel()
+    const utterance = new SpeechSynthesisUtterance(text)
+    utterance.lang = 'en-GB'
+    window.speechSynthesis.speak(utterance)
+  }, [])
+
   const handleFlip = useCallback(() => {
     setFlipped(true)
   }, [])
 
   const handleAnswer = useCallback(
     (gotIt) => {
+      window.speechSynthesis?.cancel()
       const next = [...results, { card: current, gotIt }]
       setResults(next)
       if (index + 1 >= cards.length) {
@@ -51,6 +60,7 @@ export default function FlashcardQuiz({ subject, topic, blockNumber, cards }) {
   )
 
   const handleRetry = useCallback(() => {
+    window.speechSynthesis?.cancel()
     setIndex(0)
     setFlipped(false)
     setResults([])
@@ -193,9 +203,18 @@ export default function FlashcardQuiz({ subject, topic, blockNumber, cards }) {
           <p className={`text-xs font-bold uppercase tracking-widest mb-3 ${isDefinitionFirst ? 'text-emerald-400' : 'text-indigo-400'}`}>
             {isDefinitionFirst ? 'Definition' : 'Keyword'}
           </p>
-          <p className="text-white font-semibold text-lg leading-snug mb-2">
-            {isDefinitionFirst ? current.definition : current.keyword}
-          </p>
+          <div className="flex items-start justify-between gap-3 mb-2">
+            <p className="text-white font-semibold text-lg leading-snug">
+              {isDefinitionFirst ? current.definition : current.keyword}
+            </p>
+            <button
+              onClick={() => speak(isDefinitionFirst ? current.definition : current.keyword)}
+              className="flex-shrink-0 text-gray-500 hover:text-gray-300 active:scale-95 transition-colors mt-0.5"
+              aria-label="Read aloud"
+            >
+              🔊
+            </button>
+          </div>
 
           {/* Reveal — shown after flip */}
           {flipped && (
@@ -203,9 +222,18 @@ export default function FlashcardQuiz({ subject, topic, blockNumber, cards }) {
               <p className={`text-xs font-bold uppercase tracking-widest mb-2 ${isDefinitionFirst ? 'text-indigo-400' : 'text-emerald-400'}`}>
                 {isDefinitionFirst ? 'Keyword' : 'Definition'}
               </p>
-              <p className="text-gray-200 text-sm leading-relaxed">
-                {isDefinitionFirst ? current.keyword : current.definition}
-              </p>
+              <div className="flex items-start justify-between gap-3">
+                <p className="text-gray-200 text-sm leading-relaxed">
+                  {isDefinitionFirst ? current.keyword : current.definition}
+                </p>
+                <button
+                  onClick={() => speak(isDefinitionFirst ? current.keyword : current.definition)}
+                  className="flex-shrink-0 text-gray-500 hover:text-gray-300 active:scale-95 transition-colors mt-0.5"
+                  aria-label="Read aloud"
+                >
+                  🔊
+                </button>
+              </div>
             </div>
           )}
         </div>
