@@ -1,0 +1,305 @@
+{
+  "subject": {
+    "name": "Biology",
+    "slug": "biology",
+    "colour": "#22c55e"
+  },
+  "topics": [
+    {
+      "name": "Cell Biology",
+      "paper": "Paper 1",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Cell Biology (1)",
+          "cards": [
+            { "keyword": "Nucleus", "definition": "The part of a cell that contains genetic information and controls the cell.", "display_order": 1 },
+            { "keyword": "Ribosome", "definition": "The part of a cell that makes protein.", "display_order": 2 },
+            { "keyword": "Mitochondria", "definition": "The part of a cell that releases energy.", "display_order": 3 },
+            { "keyword": "1x10⁻⁵", "definition": "The bigger of the two numbers 1x10⁻⁵ and 1x10⁻⁶ — a larger negative exponent means a smaller number.", "display_order": 4 },
+            { "keyword": "Light microscope", "definition": "The type of microscope with the lowest magnification.", "display_order": 5 },
+            { "keyword": "Resolution", "definition": "The clarity of a microscope image — how much detail can be seen.", "display_order": 6 },
+            { "keyword": "Magnification", "definition": "The amount an object has been made bigger by a microscope.", "display_order": 7 },
+            { "keyword": "Prokaryotes", "definition": "Primitive cells that have no nucleus, e.g. bacteria.", "display_order": 8 },
+            { "keyword": "Eukaryotes", "definition": "More advanced cells that contain a nucleus, e.g. animal and plant cells.", "display_order": 9 },
+            { "keyword": "Electron microscope", "definition": "A microscope not used in school because it is too expensive and requires too much training — but gives much higher magnification than a light microscope.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Cell Biology (2)",
+          "cards": [
+            { "keyword": "Differentiation", "definition": "The process in which cells become specialised for a particular function.", "display_order": 1 },
+            { "keyword": "Stem cells", "definition": "Undifferentiated cells that have not yet become specialised.", "display_order": 2 },
+            { "keyword": "Stem cell banks", "definition": "Where stem cells are stored for use in medical research.", "display_order": 3 },
+            { "keyword": "Malignant", "definition": "The type of tumour that can spread to other parts of the body.", "display_order": 4 },
+            { "keyword": "Benign", "definition": "The type of tumour that remains encapsulated and does not spread.", "display_order": 5 },
+            { "keyword": "Mitosis", "definition": "The process in which cells make copies of themselves to produce body cells.", "display_order": 6 },
+            { "keyword": "Meiosis", "definition": "The process in which sex cells (gametes) are created.", "display_order": 7 },
+            { "keyword": "Aerobic respiration", "definition": "The process of releasing energy from glucose using oxygen.", "display_order": 8 },
+            { "keyword": "Anaerobic respiration", "definition": "The process of releasing energy from glucose without using oxygen; also used to make beer and bread.", "display_order": 9 },
+            { "keyword": "Fermentation", "definition": "The anaerobic process used by yeast to produce alcohol and carbon dioxide, used in making beer and bread.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Photosynthesis",
+      "paper": "Paper 1",
+      "display_order": 2,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Photosynthesis (1)",
+          "cards": [
+            { "keyword": "Reactants of photosynthesis", "definition": "Carbon dioxide and water are the two reactants needed for photosynthesis.", "display_order": 1 },
+            { "keyword": "Products of photosynthesis", "definition": "Glucose and oxygen are the two products of photosynthesis.", "display_order": 2 },
+            { "keyword": "Diffusion", "definition": "The process by which particles move from an area of high concentration to an area of low concentration.", "display_order": 3 },
+            { "keyword": "Endothermic", "definition": "Photosynthesis is an endothermic reaction — it takes in energy from light.", "display_order": 4 },
+            { "keyword": "Fat (in plants)", "definition": "One of the four substances glucose can be converted into in plants; used for storage of energy.", "display_order": 5 },
+            { "keyword": "Cellulose (in plants)", "definition": "One of the four substances glucose can be converted into; used to make cell walls.", "display_order": 6 },
+            { "keyword": "Starch (in plants)", "definition": "One of the four substances glucose can be converted into; used for storage of energy in plants.", "display_order": 7 },
+            { "keyword": "Protein (in plants)", "definition": "One of the four substances glucose can be converted into; used for growth and repair of cells.", "display_order": 8 },
+            { "keyword": "Iodine test", "definition": "The test for starch — iodine solution turns from orange to blue-black in the presence of starch.", "display_order": 9 },
+            { "keyword": "Chloroplast", "definition": "The organelle inside plant cells that carries out photosynthesis, containing the pigment chlorophyll.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Photosynthesis (2)",
+          "cards": [
+            { "keyword": "Chlorophyll", "definition": "The green chemical inside chloroplasts that absorbs light energy for photosynthesis.", "display_order": 1 },
+            { "keyword": "Stomata", "definition": "The small holes in the bottom of a leaf through which gases enter and leave.", "display_order": 2 },
+            { "keyword": "Guard cells", "definition": "The cells on either side of a stoma that control whether it opens or closes.", "display_order": 3 },
+            { "keyword": "Palisade cells", "definition": "The top layer of cells in a leaf, packed with chloroplasts for maximum photosynthesis.", "display_order": 4 },
+            { "keyword": "Rate of photosynthesis", "definition": "How fast photosynthesis is happening in a plant at any given moment.", "display_order": 5 },
+            { "keyword": "Measuring photosynthesis", "definition": "The rate of photosynthesis can be measured by counting bubbles of oxygen produced or measuring the volume of oxygen.", "display_order": 6 },
+            { "keyword": "Transpiration", "definition": "The movement of water through a plant from roots to leaves, where it evaporates.", "display_order": 7 },
+            { "keyword": "Xylem", "definition": "The tube that carries water and minerals up through a plant from roots to leaves.", "display_order": 8 },
+            { "keyword": "Phloem", "definition": "The tube that carries sugary water (glucose solution) around a plant.", "display_order": 9 },
+            { "keyword": "Limiting factor", "definition": "A factor such as light intensity, CO₂ concentration or temperature that limits the rate of photosynthesis.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moving and Changing Materials",
+      "paper": "Paper 1",
+      "display_order": 3,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Moving and Changing Materials (1)",
+          "cards": [
+            { "keyword": "Osmosis", "definition": "The movement of water molecules from a high water concentration to a low water concentration through a partially permeable membrane.", "display_order": 1 },
+            { "keyword": "Diffusion direction", "definition": "During diffusion, particles move from high concentration to low concentration — down the concentration gradient.", "display_order": 2 },
+            { "keyword": "Active transport", "definition": "The movement of particles against the concentration gradient, which requires energy.", "display_order": 3 },
+            { "keyword": "Circulatory system", "definition": "The system that transports substances such as oxygen, glucose and carbon dioxide around the body.", "display_order": 4 },
+            { "keyword": "Respiratory system", "definition": "The system that exchanges gases (oxygen in, carbon dioxide out) in the body.", "display_order": 5 },
+            { "keyword": "Digestive system", "definition": "The system that moves and breaks down nutrients through the body for absorption.", "display_order": 6 },
+            { "keyword": "Enzymes", "definition": "Biological catalysts that speed up digestion and other chemical reactions in the body.", "display_order": 7 },
+            { "keyword": "Benedict's test", "definition": "The test for glucose — Benedict's solution turns from blue to orange/red in the presence of glucose.", "display_order": 8 },
+            { "keyword": "Biuret test", "definition": "The test for protein — Biuret solution turns from blue to purple/lilac in the presence of protein.", "display_order": 9 },
+            { "keyword": "Iodine test (starch)", "definition": "Iodine solution turns from orange to blue-black in the presence of starch.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Moving and Changing Materials (2)",
+          "cards": [
+            { "keyword": "Arteries", "definition": "Blood vessels that carry blood away from the heart to the body.", "display_order": 1 },
+            { "keyword": "Veins", "definition": "Blood vessels that carry blood back into the heart from the body.", "display_order": 2 },
+            { "keyword": "Atria", "definition": "The two top chambers of the heart that receive blood.", "display_order": 3 },
+            { "keyword": "Ventricles", "definition": "The two bottom chambers of the heart that pump blood out.", "display_order": 4 },
+            { "keyword": "Deoxygenated blood", "definition": "Blood that has had its oxygen removed by the body's cells; found on the right side of the heart.", "display_order": 5 },
+            { "keyword": "Plasma", "definition": "The liquid part of blood that carries dissolved substances including carbon dioxide, glucose and urea.", "display_order": 6 },
+            { "keyword": "Stent", "definition": "A small tube inserted into a blocked blood vessel to keep it open.", "display_order": 7 },
+            { "keyword": "Haemoglobin", "definition": "The chemical in red blood cells that carries oxygen around the body.", "display_order": 8 },
+            { "keyword": "Capillaries", "definition": "The smallest blood vessels where substances are exchanged between blood and body cells.", "display_order": 9 },
+            { "keyword": "Valves (heart)", "definition": "Structures in the heart and veins that prevent blood from flowing backwards.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Health Matters",
+      "paper": "Paper 1",
+      "display_order": 4,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Health Matters (1)",
+          "cards": [
+            { "keyword": "Non-communicable disease", "definition": "A disease that cannot be passed on to other people, e.g. cancer, diabetes.", "display_order": 1 },
+            { "keyword": "Communicable disease", "definition": "A disease that can be passed on to other people, e.g. flu, HIV.", "display_order": 2 },
+            { "keyword": "Malignant tumour", "definition": "A cancerous tumour that can spread to other parts of the body.", "display_order": 3 },
+            { "keyword": "Benign tumour", "definition": "A non-cancerous tumour that remains in one place and does not spread.", "display_order": 4 },
+            { "keyword": "Bacteria", "definition": "Single-celled microorganisms that can cause diseases such as gonorrhoea and food poisoning.", "display_order": 5 },
+            { "keyword": "Virus", "definition": "A non-living pathogen that causes diseases such as HIV and influenza.", "display_order": 6 },
+            { "keyword": "Fungi", "definition": "A type of microorganism responsible for diseases such as athlete's foot.", "display_order": 7 },
+            { "keyword": "Protozoa", "definition": "A type of microorganism responsible for diseases such as malaria.", "display_order": 8 },
+            { "keyword": "HIV", "definition": "A virus that attacks the immune system; spread through bodily fluids.", "display_order": 9 },
+            { "keyword": "Malaria", "definition": "A communicable disease caused by a protozoan pathogen, spread by mosquitoes.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Health Matters (2)",
+          "cards": [
+            { "keyword": "Barriers to infection", "definition": "Physical defences that stop pathogens entering the body, including skin, scabs, tears, nose hairs and mucus.", "display_order": 1 },
+            { "keyword": "White blood cells", "definition": "The cells of the immune system that fight off infections.", "display_order": 2 },
+            { "keyword": "Antibodies", "definition": "Proteins produced by white blood cells that target and destroy specific pathogens.", "display_order": 3 },
+            { "keyword": "Antitoxins", "definition": "Chemicals produced by white blood cells that neutralise toxins released by pathogens.", "display_order": 4 },
+            { "keyword": "Toxin", "definition": "A poison released by a microbe that harms the body.", "display_order": 5 },
+            { "keyword": "Pathogen", "definition": "A microorganism that has infected the body and causes disease.", "display_order": 6 },
+            { "keyword": "Immune", "definition": "The state of being able to defend against reinfection by a specific pathogen.", "display_order": 7 },
+            { "keyword": "Vaccine", "definition": "A preparation containing dead or weakened pathogens that stimulates the immune system to produce antibodies.", "display_order": 8 },
+            { "keyword": "Antibiotics", "definition": "Drugs used to kill bacterial infections; they do not work against viruses.", "display_order": 9 },
+            { "keyword": "Double blind trial", "definition": "The gold standard in drug trials — neither the patient nor the doctor knows who receives the drug or the placebo.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coordination & Control",
+      "paper": "Paper 2",
+      "display_order": 5,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Coordination & Control (1)",
+          "cards": [
+            { "keyword": "Homeostasis", "definition": "The process of controlling the body's internal environment to maintain stable conditions.", "display_order": 1 },
+            { "keyword": "Internal conditions", "definition": "Three internal conditions that must be controlled are temperature, water levels and blood glucose.", "display_order": 2 },
+            { "keyword": "Nervous response", "definition": "A response that is fast and specific to a particular stimulus.", "display_order": 3 },
+            { "keyword": "Hormonal response", "definition": "A response that is slower and affects the whole body via chemicals in the blood.", "display_order": 4 },
+            { "keyword": "Central Nervous System (CNS)", "definition": "Made up of the brain and spinal cord; coordinates the body's responses.", "display_order": 5 },
+            { "keyword": "Receptors", "definition": "The part of the nervous system that detects changes in the environment (stimuli).", "display_order": 6 },
+            { "keyword": "Effectors", "definition": "The two types of effector are muscles (which contract) and glands (which secrete hormones).", "display_order": 7 },
+            { "keyword": "Motor neurone", "definition": "The neurone that sends signals from the CNS to effectors.", "display_order": 8 },
+            { "keyword": "Sensory neurone", "definition": "The neurone that sends signals from receptors to the CNS.", "display_order": 9 },
+            { "keyword": "Relay neurone", "definition": "The neurone that connects the sensory neurone to the motor neurone in reflex actions.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Coordination & Control (2)",
+          "cards": [
+            { "keyword": "Synapse", "definition": "The junction between two neurones where signals are passed using chemicals.", "display_order": 1 },
+            { "keyword": "Neurotransmitter", "definition": "The chemical that moves across a synapse to pass a signal from one neurone to the next.", "display_order": 2 },
+            { "keyword": "Gland", "definition": "The organ that releases hormones into the bloodstream.", "display_order": 3 },
+            { "keyword": "Glycogen", "definition": "The chemical form in which glucose is stored in the liver and muscles in humans.", "display_order": 4 },
+            { "keyword": "Insulin and glucagon", "definition": "The two hormones involved in controlling blood glucose levels.", "display_order": 5 },
+            { "keyword": "Diabetes", "definition": "The condition that prevents people from controlling their blood glucose levels.", "display_order": 6 },
+            { "keyword": "LH (Luteinising Hormone)", "definition": "The hormone that stimulates the release of an egg from the ovary.", "display_order": 7 },
+            { "keyword": "Oestrogen", "definition": "The hormone that causes the uterus lining to thicken in preparation for pregnancy.", "display_order": 8 },
+            { "keyword": "FSH (Follicle Stimulating Hormone)", "definition": "The hormone that stimulates an egg to mature in the ovary.", "display_order": 9 },
+            { "keyword": "IVF (In Vitro Fertilisation)", "definition": "A treatment for fertility problems where eggs are fertilised outside the body.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genetics",
+      "paper": "Paper 2",
+      "display_order": 6,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Genetics",
+          "cards": [
+            { "keyword": "Nucleus", "definition": "The organelle that controls the cell and contains genetic information in the form of chromosomes.", "display_order": 1 },
+            { "keyword": "Chromosome", "definition": "A thread-like package of DNA found in the nucleus of a cell.", "display_order": 2 },
+            { "keyword": "Mitosis", "definition": "The type of cell division that makes identical body cells.", "display_order": 3 },
+            { "keyword": "Meiosis", "definition": "The type of cell division that makes sex cells (gametes) with half the normal number of chromosomes.", "display_order": 4 },
+            { "keyword": "Parent cell", "definition": "The first cell before cell division takes place.", "display_order": 5 },
+            { "keyword": "Daughter cells", "definition": "The cells produced as a result of cell division.", "display_order": 6 },
+            { "keyword": "23 chromosomes", "definition": "The number of chromosomes found in a human sex cell (gamete).", "display_order": 7 },
+            { "keyword": "46 chromosomes", "definition": "The number of chromosomes found in a human body cell.", "display_order": 8 },
+            { "keyword": "Gametes", "definition": "The name for sperm and egg cells — the sex cells used in reproduction.", "display_order": 9 },
+            { "keyword": "Zygote", "definition": "The cell formed through fertilisation when a sperm and egg cell fuse.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evolution and Variation",
+      "paper": "Paper 2",
+      "display_order": 7,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Evolution and Variation (1)",
+          "cards": [
+            { "keyword": "Inherited characteristics", "definition": "Characteristics caused by genes passed on from parents, e.g. eye colour.", "display_order": 1 },
+            { "keyword": "Environmental characteristics", "definition": "Characteristics caused by the world around us rather than by genes.", "display_order": 2 },
+            { "keyword": "Evolution", "definition": "The process of the development of new species over many generations through natural selection.", "display_order": 3 },
+            { "keyword": "Mutations", "definition": "Random changes to DNA that can produce new characteristics.", "display_order": 4 },
+            { "keyword": "Adaptations", "definition": "The specific characteristics that help an organism to survive in its environment.", "display_order": 5 },
+            { "keyword": "Survival of the fittest", "definition": "The continued existence of organisms that are best suited to their environment.", "display_order": 6 },
+            { "keyword": "Charles Darwin", "definition": "The scientist who developed the theory of evolution by natural selection.", "display_order": 7 },
+            { "keyword": "Fossils", "definition": "The remains or evidence of the existence of dead organisms preserved in rock.", "display_order": 8 },
+            { "keyword": "Decompose", "definition": "What happens to most organisms when they die — broken down by microorganisms.", "display_order": 9 },
+            { "keyword": "MRSA", "definition": "An example of a bacterium that has evolved to be resistant to antibiotics through natural selection.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Evolution and Variation (2)",
+          "cards": [
+            { "keyword": "Selective breeding", "definition": "The process by which humans choose organisms to breed based upon their desirable characteristics.", "display_order": 1 },
+            { "keyword": "Desirable traits", "definition": "The characteristics that humans want an organism to have when selectively breeding.", "display_order": 2 },
+            { "keyword": "Genetic variation", "definition": "The differences between organisms caused by differences in their DNA.", "display_order": 3 },
+            { "keyword": "Insect resistant crops", "definition": "Crops that have been genetically modified to be toxic to pests.", "display_order": 4 },
+            { "keyword": "Genetic engineering", "definition": "The manipulation of an organism's genes to give it new characteristics.", "display_order": 5 },
+            { "keyword": "Plasmid", "definition": "A circular strand of DNA found in bacteria, used as a vector in genetic engineering.", "display_order": 6 },
+            { "keyword": "Gene", "definition": "A small section of DNA that codes for a specific characteristic or protein.", "display_order": 7 },
+            { "keyword": "Protein", "definition": "Chains of amino acids coded for by genes; all enzymes are proteins.", "display_order": 8 },
+            { "keyword": "Classification", "definition": "The grouping of organisms based on their shared characteristics.", "display_order": 9 },
+            { "keyword": "Extinction", "definition": "When there are none of a species left alive anywhere on Earth.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ecology in Action",
+      "paper": "Paper 2",
+      "display_order": 8,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Ecology in Action (1)",
+          "cards": [
+            { "keyword": "Biodiversity", "definition": "The variety of all the different species on Earth or within a particular ecosystem.", "display_order": 1 },
+            { "keyword": "Ecosystem", "definition": "A community of living organisms and the non-living environment they interact with.", "display_order": 2 },
+            { "keyword": "Habitat", "definition": "The natural home of an organism — the place where it lives.", "display_order": 3 },
+            { "keyword": "Population", "definition": "The number of organisms of a particular species living in a given area.", "display_order": 4 },
+            { "keyword": "Interdependence", "definition": "The mutual reliance between two or more groups of organisms on each other.", "display_order": 5 },
+            { "keyword": "Abiotic factors", "definition": "Physical (non-living) factors such as temperature and light intensity that affect population size.", "display_order": 6 },
+            { "keyword": "Biotic factors", "definition": "Living factors such as predation and disease that affect population size.", "display_order": 7 },
+            { "keyword": "Niche", "definition": "The place or role of an organism within its ecosystem.", "display_order": 8 },
+            { "keyword": "Adaptation", "definition": "The process by which an organism becomes better suited to its environment over time.", "display_order": 9 },
+            { "keyword": "Extremophile", "definition": "An organism that thrives in physically extreme conditions such as very high temperatures or acidity.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Ecology in Action (2)",
+          "cards": [
+            { "keyword": "Carbon cycle", "definition": "The process by which carbon moves through the environment between living organisms and the atmosphere.", "display_order": 1 },
+            { "keyword": "Photosynthesis (carbon cycle)", "definition": "The process by which plants remove carbon dioxide from the atmosphere to make glucose.", "display_order": 2 },
+            { "keyword": "Respiration (carbon cycle)", "definition": "The process by which organisms release carbon dioxide back into the atmosphere when releasing energy.", "display_order": 3 },
+            { "keyword": "Combustion", "definition": "The process by which energy and carbon dioxide are released through burning fuels.", "display_order": 4 },
+            { "keyword": "Decomposers", "definition": "Organisms such as bacteria and fungi that break down dead living material, releasing carbon.", "display_order": 5 },
+            { "keyword": "Fossil fuels", "definition": "Fuels made from dead organisms over millions of years, e.g. coal, oil and natural gas.", "display_order": 6 },
+            { "keyword": "Greenhouse gases", "definition": "The two main gases responsible for global warming are carbon dioxide and methane.", "display_order": 7 },
+            { "keyword": "Deforestation", "definition": "The process of cutting down large areas of trees, reducing CO₂ absorption and biodiversity.", "display_order": 8 },
+            { "keyword": "Waste management", "definition": "The process of dealing with pollution in the air, water and on land.", "display_order": 9 },
+            { "keyword": "Indicator species", "definition": "Organisms that show whether an area is polluted by their presence or absence.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

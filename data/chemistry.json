@@ -1,0 +1,335 @@
+{
+  "subject": {
+    "name": "Chemistry",
+    "slug": "chemistry",
+    "colour": "#a855f7"
+  },
+  "topics": [
+    {
+      "name": "Atomic Structure",
+      "paper": "Paper 1",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Atomic Structure (1)",
+          "cards": [
+            { "keyword": "Element", "definition": "A pure substance made of only one type of atom.", "display_order": 1 },
+            { "keyword": "Compound", "definition": "Two or more different types of atom chemically joined together.", "display_order": 2 },
+            { "keyword": "Mixture", "definition": "Two or more substances together but not chemically joined.", "display_order": 3 },
+            { "keyword": "Molecule", "definition": "More than two atoms joined together.", "display_order": 4 },
+            { "keyword": "Plum Pudding model", "definition": "An early model for the structure of the atom, proposed before the nucleus was discovered.", "display_order": 5 },
+            { "keyword": "Proton", "definition": "A particle in the nucleus of an atom with a charge of +1 and a mass of 1.", "display_order": 6 },
+            { "keyword": "Neutron", "definition": "A particle in the nucleus of an atom with no charge and a mass of 1.", "display_order": 7 },
+            { "keyword": "Electron", "definition": "A particle orbiting the nucleus of an atom with a charge of -1 and negligible mass.", "display_order": 8 },
+            { "keyword": "Electron shells", "definition": "The energy levels that electrons occupy around the nucleus; the first three hold 2, 8 and 8 electrons.", "display_order": 9 },
+            { "keyword": "Mixtures (separation)", "definition": "The type of substance that can be separated by physical methods such as filtration or distillation.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Atomic Structure (2)",
+          "cards": [
+            { "keyword": "Number of electrons", "definition": "In a neutral atom, the number of electrons is equal to the number of protons.", "display_order": 1 },
+            { "keyword": "Group (periodic table)", "definition": "Elements in the same group have the same number of electrons in their outer shell.", "display_order": 2 },
+            { "keyword": "Group 1 reactivity", "definition": "Reactivity increases as you go down Group 1 — outer electron is further from the nucleus.", "display_order": 3 },
+            { "keyword": "Group 7 reactivity", "definition": "Reactivity decreases as you go down Group 7 — harder to gain an electron.", "display_order": 4 },
+            { "keyword": "Group 0 (noble gases)", "definition": "Group 0 elements are unreactive because they have a full outer electron shell.", "display_order": 5 },
+            { "keyword": "Mendeleev", "definition": "The scientist who developed the periodic table by arranging elements in order of atomic mass.", "display_order": 6 },
+            { "keyword": "Period (periodic table)", "definition": "Each period of the periodic table contains elements with the same number of electron shells.", "display_order": 7 },
+            { "keyword": "Properties of metals", "definition": "Metals are usually hard, shiny, good conductors of heat and electricity, sonorous, and solid at room temperature.", "display_order": 8 },
+            { "keyword": "Free electrons (metals)", "definition": "The reason metals are good conductors — they have free electrons that can move and carry charge.", "display_order": 9 },
+            { "keyword": "Outer shell electrons", "definition": "The electrons involved in chemical reactions are those in the outer shell.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Structures and Bonding",
+      "paper": "Paper 1",
+      "display_order": 2,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Structures and Bonding (1)",
+          "cards": [
+            { "keyword": "Ion", "definition": "An atom with a positive or negative charge, formed by gaining or losing electrons.", "display_order": 1 },
+            { "keyword": "Ionic bonding", "definition": "A type of bonding between metals and non-metals where electrons are donated and received.", "display_order": 2 },
+            { "keyword": "Covalent bonding", "definition": "A type of bonding between two non-metals where electrons are shared.", "display_order": 3 },
+            { "keyword": "Metallic bonding", "definition": "A type of bonding between metals only, involving free electrons.", "display_order": 4 },
+            { "keyword": "Three states of matter", "definition": "Solid, liquid and gas — the three states in which matter can exist.", "display_order": 5 },
+            { "keyword": "Gas (energy)", "definition": "The state of matter that has the most energy — particles move fastest and are furthest apart.", "display_order": 6 },
+            { "keyword": "Small molecules", "definition": "Covalent structures with low melting and boiling points that are non-conductors of electricity.", "display_order": 7 },
+            { "keyword": "Giant covalent structures", "definition": "Structures such as diamond and graphite with very high melting and boiling points.", "display_order": 8 },
+            { "keyword": "Carbon (allotropes)", "definition": "The element that makes both diamond and graphite — two different forms of the same element.", "display_order": 9 },
+            { "keyword": "Alloy", "definition": "A mixture of metals; used because alloys are cheaper, stronger, better conductors or more corrosion resistant.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Structures and Bonding (2)",
+          "cards": [
+            { "keyword": "Diamond", "definition": "A giant covalent structure of carbon with a tetrahedral arrangement making it very hard.", "display_order": 1 },
+            { "keyword": "Graphite", "definition": "A giant covalent structure of carbon made of layers that can slide over each other, making it soft.", "display_order": 2 },
+            { "keyword": "Graphene", "definition": "A single layer of graphite — an extremely strong, conductive material with many potential uses.", "display_order": 3 },
+            { "keyword": "Fullerenes", "definition": "Hollow cage-like molecules of carbon used in drug delivery, lubricants and reinforcing structures.", "display_order": 4 },
+            { "keyword": "Polymer", "definition": "A long chain molecule made up of many repeating units joined together.", "display_order": 5 },
+            { "keyword": "Ionic structure properties", "definition": "Ionic compounds have high melting points, dissolve in water and conduct electricity when molten or dissolved.", "display_order": 6 },
+            { "keyword": "Metallic structure", "definition": "A structure of positive metal ions surrounded by a sea of delocalised electrons.", "display_order": 7 },
+            { "keyword": "Intermolecular forces", "definition": "The weak forces between molecules in a simple covalent structure that give it a low melting point.", "display_order": 8 },
+            { "keyword": "Solid state", "definition": "In a solid, particles are closely packed in an ordered arrangement and vibrate in fixed positions.", "display_order": 9 },
+            { "keyword": "Liquid state", "definition": "In a liquid, particles touch but are randomly arranged and can flow past each other.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical Quantities",
+      "paper": "Paper 1",
+      "display_order": 3,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Chemical Quantities",
+          "cards": [
+            { "keyword": "Reactants", "definition": "The chemicals at the start of a reaction that are used up.", "display_order": 1 },
+            { "keyword": "Products", "definition": "The chemicals made at the end of a reaction.", "display_order": 2 },
+            { "keyword": "Law of Conservation of Mass", "definition": "The law stating that the mass of reactants always equals the mass of products in a reaction.", "display_order": 3 },
+            { "keyword": "Relative Atomic Mass (RAM)", "definition": "The mass of one atom of an element, found on the periodic table.", "display_order": 4 },
+            { "keyword": "Relative Molecular Mass (RMM)", "definition": "The total mass of one molecule, found by adding up the relative atomic masses of all its atoms.", "display_order": 5 },
+            { "keyword": "Mole", "definition": "The measurement of the amount of a substance present; 1 mole = 6.02 × 10²³ particles.", "display_order": 6 },
+            { "keyword": "Mass loss in gas-producing reactions", "definition": "When a gas is produced in an open container, the recorded mass decreases as gas escapes.", "display_order": 7 },
+            { "keyword": "Range", "definition": "The difference between the smallest and biggest result in a set of data.", "display_order": 8 },
+            { "keyword": "Balanced equation", "definition": "A chemical equation where the number of atoms of each element is the same on both sides.", "display_order": 9 },
+            { "keyword": "Concentration", "definition": "The amount of solute dissolved in a given volume of solution, measured in mol/dm³.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical Changes",
+      "paper": "Paper 1",
+      "display_order": 4,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Chemical Changes",
+          "cards": [
+            { "keyword": "Oxidation", "definition": "A reaction involving the addition of oxygen, or the loss of electrons (OIL RIG).", "display_order": 1 },
+            { "keyword": "Reduction", "definition": "A reaction involving the loss of oxygen, or the gain of electrons (OIL RIG).", "display_order": 2 },
+            { "keyword": "Metal oxides (pH)", "definition": "Metal oxides have a pH of 8 to 14 — they are alkaline.", "display_order": 3 },
+            { "keyword": "OILRIG", "definition": "A mnemonic for redox reactions: Oxidation Is Loss (of electrons), Reduction Is Gain (of electrons).", "display_order": 4 },
+            { "keyword": "Neutralisation", "definition": "The type of reaction between an acid and an alkali that produces a salt and water.", "display_order": 5 },
+            { "keyword": "Electrolysis", "definition": "The method used to separate ionic compounds by passing an electric current through them when molten or dissolved.", "display_order": 6 },
+            { "keyword": "Electrolysis of aluminium oxide", "definition": "Produces aluminium at the cathode and oxygen at the anode.", "display_order": 7 },
+            { "keyword": "Electrolysis of copper sulphate", "definition": "Produces copper at the cathode and oxygen at the anode.", "display_order": 8 },
+            { "keyword": "Acid pH", "definition": "Acids have a pH below 7; the lower the pH, the stronger the acid.", "display_order": 9 },
+            { "keyword": "Alkali pH", "definition": "Alkalis have a pH above 7; the higher the pH, the stronger the alkali.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Energy Changes",
+      "paper": "Paper 1",
+      "display_order": 5,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Energy Changes",
+          "cards": [
+            { "keyword": "Exothermic reaction", "definition": "A chemical reaction that gives out heat energy to the surroundings, e.g. oxidation and neutralisation.", "display_order": 1 },
+            { "keyword": "Endothermic reaction", "definition": "A chemical reaction that takes in heat energy from the surroundings, e.g. thermal decomposition.", "display_order": 2 },
+            { "keyword": "Reaction profile", "definition": "A graph that shows the energy changes during a chemical reaction, including activation energy.", "display_order": 3 },
+            { "keyword": "Exothermic uses", "definition": "Exothermic reactions are used in self-heating cans and hand warmers.", "display_order": 4 },
+            { "keyword": "Endothermic uses", "definition": "Endothermic reactions are used in sports injury packs.", "display_order": 5 },
+            { "keyword": "Thermal decomposition", "definition": "An endothermic reaction where a compound breaks down when heated.", "display_order": 6 },
+            { "keyword": "Temperature change", "definition": "A measurement made during an experiment to identify whether a reaction is exothermic or endothermic.", "display_order": 7 },
+            { "keyword": "Activation energy", "definition": "The minimum amount of energy needed to start a chemical reaction.", "display_order": 8 },
+            { "keyword": "Bond energy", "definition": "The amount of chemical energy stored in the bonds between atoms; breaking bonds requires energy, forming bonds releases energy.", "display_order": 9 },
+            { "keyword": "Catalyst (energy)", "definition": "A substance that lowers the activation energy of a reaction, increasing the rate without being used up.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rate and Extent of Chemical Change",
+      "paper": "Paper 2",
+      "display_order": 6,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Rate and Extent of Chemical Change (1)",
+          "cards": [
+            { "keyword": "Rate of reaction", "definition": "The speed at which chemicals react, measured in g/s or cm³/s.", "display_order": 1 },
+            { "keyword": "Reactant", "definition": "The chemicals that are reacting together at the start of a reaction.", "display_order": 2 },
+            { "keyword": "Product", "definition": "The chemicals that are being made or produced during a reaction.", "display_order": 3 },
+            { "keyword": "Dependent variable (rates)", "definition": "The variable measured during rates of reaction investigations — mass lost or volume of gas produced.", "display_order": 4 },
+            { "keyword": "Factors affecting rate", "definition": "Concentration, pressure, surface area, temperature and catalysts all affect the rate of a reaction.", "display_order": 5 },
+            { "keyword": "Collision theory", "definition": "The idea that explains how various factors affect rates of reactions — more collisions = faster reaction.", "display_order": 6 },
+            { "keyword": "Successful collision", "definition": "Particles must collide with sufficient energy to cause a chemical reaction to take place.", "display_order": 7 },
+            { "keyword": "Catalyst", "definition": "A substance that changes the rate of a reaction without being chemically changed itself.", "display_order": 8 },
+            { "keyword": "Enzyme", "definition": "A biological catalyst that speeds up chemical reactions in living organisms.", "display_order": 9 },
+            { "keyword": "Surface area", "definition": "Increasing surface area increases the rate of reaction by exposing more particles to collide.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Rate and Extent of Chemical Change (2)",
+          "cards": [
+            { "keyword": "Reversible reaction", "definition": "A chemical reaction in which the products can react together to produce the original reactants.", "display_order": 1 },
+            { "keyword": "Equilibrium symbol (⇌)", "definition": "The symbol used to represent a reversible reaction.", "display_order": 2 },
+            { "keyword": "Equilibrium", "definition": "When both reactants and products are present in concentrations where no further net change occurs.", "display_order": 3 },
+            { "keyword": "Le Chatelier's Principle", "definition": "The way of predicting how a change in conditions will affect a system in equilibrium.", "display_order": 4 },
+            { "keyword": "Factors affecting equilibrium", "definition": "Concentration, temperature and pressure can all shift the position of equilibrium.", "display_order": 5 },
+            { "keyword": "Haber Process", "definition": "A reversible industrial process for producing ammonia from nitrogen and hydrogen.", "display_order": 6 },
+            { "keyword": "Activation energy (rates)", "definition": "The minimum amount of energy needed for a collision to result in a reaction.", "display_order": 7 },
+            { "keyword": "Extent of reaction", "definition": "The degree to which a reaction proceeds towards products.", "display_order": 8 },
+            { "keyword": "Concentration (rate)", "definition": "Increasing concentration increases the rate of reaction by increasing the frequency of collisions.", "display_order": 9 },
+            { "keyword": "Temperature (rate)", "definition": "Increasing temperature increases the rate of reaction by giving particles more energy and causing more frequent, energetic collisions.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Organic Chemistry",
+      "paper": "Paper 2",
+      "display_order": 7,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Organic Chemistry (1)",
+          "cards": [
+            { "keyword": "Fossil fuels", "definition": "A group of fuels made from dead organisms over millions of years, e.g. coal, oil and gas.", "display_order": 1 },
+            { "keyword": "Crude oil", "definition": "A liquid fossil fuel found in rocks, made of a mixture of hydrocarbons.", "display_order": 2 },
+            { "keyword": "Hydrocarbons", "definition": "A group of chemicals made from hydrogen and carbon only.", "display_order": 3 },
+            { "keyword": "Alkanes", "definition": "Hydrocarbons with all single bonds between carbon atoms; general formula CₙH₂ₙ₊₂.", "display_order": 4 },
+            { "keyword": "First four alkanes", "definition": "Methane (CH₄), ethane (C₂H₆), propane (C₃H₈) and butane (C₄H₁₀).", "display_order": 5 },
+            { "keyword": "Covalent bonds (hydrocarbons)", "definition": "The type of bond between atoms in hydrocarbon molecules.", "display_order": 6 },
+            { "keyword": "Saturated molecule", "definition": "A molecule that has no carbon-carbon double bonds and cannot bond to any more atoms.", "display_order": 7 },
+            { "keyword": "Chemical formula", "definition": "A way of representing molecules using chemical symbols, e.g. H₂O.", "display_order": 8 },
+            { "keyword": "Structural formula", "definition": "A graphical representation showing how atoms are arranged and bonded in a molecule.", "display_order": 9 },
+            { "keyword": "Alkenes", "definition": "Hydrocarbons with a carbon-carbon double bond; general formula CₙH₂ₙ.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Organic Chemistry (2)",
+          "cards": [
+            { "keyword": "Fractional distillation", "definition": "The process used to separate crude oil into fractions based on different boiling points.", "display_order": 1 },
+            { "keyword": "Uses of crude oil fractions", "definition": "Fractions are used as fuels, solvents and lubricants.", "display_order": 2 },
+            { "keyword": "Boiling point (fractions)", "definition": "The physical property that allows crude oil fractions to be separated by fractional distillation.", "display_order": 3 },
+            { "keyword": "Viscosity", "definition": "A measurement of how thick or runny a substance is.", "display_order": 4 },
+            { "keyword": "Flammability (fractions)", "definition": "Shorter chain hydrocarbons are the most flammable fractions.", "display_order": 5 },
+            { "keyword": "Cracking", "definition": "The process of splitting long chain hydrocarbons into shorter, more useful ones.", "display_order": 6 },
+            { "keyword": "Bromine water test", "definition": "Bromine water turns from brown/yellow to colourless in the presence of alkenes (unsaturated molecules).", "display_order": 7 },
+            { "keyword": "Polymer", "definition": "A simple large chemical made of many repeating units joined together, e.g. polythene.", "display_order": 8 },
+            { "keyword": "Polymerisation", "definition": "The reaction in which many small monomer molecules join together to form a polymer.", "display_order": 9 },
+            { "keyword": "Unsaturated molecule", "definition": "A molecule containing a carbon-carbon double bond, e.g. alkenes, which can undergo addition reactions.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical Analysis",
+      "paper": "Paper 2",
+      "display_order": 8,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Chemical Analysis",
+          "cards": [
+            { "keyword": "Pure substance", "definition": "A substance made of a single element or compound with nothing added to it.", "display_order": 1 },
+            { "keyword": "Formulation", "definition": "A mixture that has been deliberately designed as a useful product, e.g. medicines, paints.", "display_order": 2 },
+            { "keyword": "Chromatography", "definition": "A technique used to separate substances — usually different colours — based on how far they travel.", "display_order": 3 },
+            { "keyword": "Stationary phase", "definition": "The solid part of chromatography — usually paper — that does not move.", "display_order": 4 },
+            { "keyword": "Mobile phase", "definition": "The fluid (solvent) part of chromatography that moves through the stationary phase.", "display_order": 5 },
+            { "keyword": "Rf value", "definition": "The ratio of the distance moved by a compound to the distance moved by the solvent front.", "display_order": 6 },
+            { "keyword": "Hydrogen gas test", "definition": "Hold a lit splint at the end of a test tube — hydrogen makes a squeaky pop.", "display_order": 7 },
+            { "keyword": "Oxygen gas test", "definition": "Insert a glowing splint into the gas — oxygen relights the splint.", "display_order": 8 },
+            { "keyword": "Carbon dioxide test", "definition": "Bubble the gas through limewater — carbon dioxide turns it cloudy/milky.", "display_order": 9 },
+            { "keyword": "Chlorine gas test", "definition": "Put damp litmus paper into the gas — chlorine bleaches it white.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemistry of the Atmosphere",
+      "paper": "Paper 2",
+      "display_order": 9,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Chemistry of the Atmosphere (1)",
+          "cards": [
+            { "keyword": "Nitrogen (atmosphere)", "definition": "Makes up approximately 80% of the Earth's atmosphere.", "display_order": 1 },
+            { "keyword": "Oxygen (atmosphere)", "definition": "Makes up approximately 20% of the Earth's atmosphere.", "display_order": 2 },
+            { "keyword": "Other atmospheric gases", "definition": "Less than 1% of the atmosphere consists of carbon dioxide, water vapour and noble gases.", "display_order": 3 },
+            { "keyword": "Age of the Earth", "definition": "The Earth is approximately 4.6 billion years old.", "display_order": 4 },
+            { "keyword": "Early atmosphere (planets)", "definition": "Mars and Venus have a similar atmosphere to Earth's early atmosphere — mostly carbon dioxide.", "display_order": 5 },
+            { "keyword": "Early atmosphere (gases)", "definition": "Earth's early atmosphere was made up of carbon dioxide, methane and ammonia.", "display_order": 6 },
+            { "keyword": "Photosynthesis (atmosphere)", "definition": "The process that put oxygen into Earth's atmosphere, carried out by early algae.", "display_order": 7 },
+            { "keyword": "Algae and oxygen", "definition": "Algae first started producing oxygen approximately 2.7 billion years ago.", "display_order": 8 },
+            { "keyword": "CO₂ removal (three ways)", "definition": "Carbon dioxide was removed from the early atmosphere by dissolving into oceans, forming fossil fuels and forming sedimentary rocks.", "display_order": 9 },
+            { "keyword": "Greenhouse gases", "definition": "The group of gases trapping heat in the atmosphere and causing global warming, mainly CO₂ and methane.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Chemistry of the Atmosphere (2)",
+          "cards": [
+            { "keyword": "Main greenhouse gases", "definition": "The two main greenhouse gases are carbon dioxide and methane.", "display_order": 1 },
+            { "keyword": "Human activities (greenhouse gases)", "definition": "Burning fossil fuels and cattle farming are two human activities that increase greenhouse gas levels.", "display_order": 2 },
+            { "keyword": "Effects of climate change", "definition": "Potential effects include rising temperatures, melting ice caps, rising sea levels and more extreme weather.", "display_order": 3 },
+            { "keyword": "Carbon monoxide", "definition": "A toxic, colourless and odourless gas produced by incomplete combustion of fuels.", "display_order": 4 },
+            { "keyword": "Nitrogen oxides", "definition": "Pollutants formed at high temperatures when nitrogen in the air reacts with oxygen.", "display_order": 5 },
+            { "keyword": "Sulfur dioxide", "definition": "A pollutant formed when sulfur impurities in fossil fuels are burned.", "display_order": 6 },
+            { "keyword": "Carbon particulates", "definition": "Tiny particles formed by the incomplete combustion of fuels; cause global dimming and health problems.", "display_order": 7 },
+            { "keyword": "Acid rain", "definition": "Caused by sulfur dioxide and nitrogen oxides dissolving in rainwater; damages ecosystems and buildings.", "display_order": 8 },
+            { "keyword": "Global dimming", "definition": "The effect of carbon particulates in the atmosphere reducing the amount of sunlight reaching Earth.", "display_order": 9 },
+            { "keyword": "Pollutant", "definition": "A substance introduced into the environment that has an undesired harmful effect.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Using Resources",
+      "paper": "Paper 2",
+      "display_order": 10,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Using Resources (1)",
+          "cards": [
+            { "keyword": "Natural resources (uses)", "definition": "Earth's natural resources are used for warmth, shelter, food and transport.", "display_order": 1 },
+            { "keyword": "Natural products", "definition": "Products that are created by nature, e.g. wood, cotton.", "display_order": 2 },
+            { "keyword": "Synthetic products", "definition": "Products that are created using chemistry, e.g. plastics, medicines.", "display_order": 3 },
+            { "keyword": "Potable water", "definition": "Water that is safe for drinking — low levels of micro-organisms and dissolved salts.", "display_order": 4 },
+            { "keyword": "Filtration", "definition": "The way large particulates are removed from water during treatment.", "display_order": 5 },
+            { "keyword": "Sterilisation", "definition": "The way micro-organisms are removed from water; methods include chlorine, ozone and ultraviolet light.", "display_order": 6 },
+            { "keyword": "Desalination", "definition": "The process of removing salt from seawater to make it potable; uses distillation or reverse osmosis.", "display_order": 7 },
+            { "keyword": "Sewage", "definition": "Wastewater produced by people that must be treated before being released back into the environment.", "display_order": 8 },
+            { "keyword": "Metal ore", "definition": "A rock that contains a metal compound in sufficient quantities to make extraction worthwhile.", "display_order": 9 },
+            { "keyword": "Mining and quarrying", "definition": "The way of obtaining raw materials from the ground.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Using Resources (2)",
+          "cards": [
+            { "keyword": "Phytomining", "definition": "Using plants to absorb and accumulate metal compounds from the soil for extraction.", "display_order": 1 },
+            { "keyword": "Bioleaching", "definition": "Using bacteria to extract metal compounds from low-grade ores.", "display_order": 2 },
+            { "keyword": "Displacement (copper)", "definition": "A method of extracting pure copper using a more reactive metal such as iron.", "display_order": 3 },
+            { "keyword": "Electrolysis (copper)", "definition": "A method of purifying copper using electricity.", "display_order": 4 },
+            { "keyword": "Life Cycle Assessment (LCA)", "definition": "A method of assessing the environmental impact of a product throughout its lifetime.", "display_order": 5 },
+            { "keyword": "Four stages of an LCA", "definition": "Extraction of raw materials, manufacturing, use, and disposal.", "display_order": 6 },
+            { "keyword": "Reduce, reuse, recycle", "definition": "Three ways of decreasing the amount of natural resources consumed.", "display_order": 7 },
+            { "keyword": "Corrosion", "definition": "The gradual destruction of a metal by chemical reactions with its environment, e.g. rusting.", "display_order": 8 },
+            { "keyword": "Alloys (uses)", "definition": "Alloys are used because they can be cheaper, stronger, better conductors or more corrosion resistant than pure metals.", "display_order": 9 },
+            { "keyword": "Reverse osmosis", "definition": "A method of desalination that forces water through a membrane, leaving dissolved salts behind.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

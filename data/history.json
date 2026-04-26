@@ -1,0 +1,229 @@
+{
+  "subject": {
+    "name": "History",
+    "slug": "history",
+    "colour": "#f59e0b"
+  },
+  "topics": [
+    {
+      "name": "Medicine Through Time",
+      "paper": "Paper 1",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Medieval Medicine (c.1250–c.1500)",
+          "cards": [
+            { "keyword": "Four Humours", "definition": "The ancient Greek theory that the body contained four fluids — blood, phlegm, yellow bile and black bile — and that illness was caused by an imbalance of these.", "display_order": 1 },
+            { "keyword": "Miasma theory", "definition": "The belief that disease was caused by breathing in 'bad air' from rotting matter; widely accepted in the medieval period.", "display_order": 2 },
+            { "keyword": "Galen", "definition": "A Roman physician whose ideas about anatomy and the four humours dominated medical thinking for over 1,000 years.", "display_order": 3 },
+            { "keyword": "Hippocrates", "definition": "Ancient Greek doctor known as the 'Father of Medicine' who promoted observation of symptoms and natural rather than supernatural causes of disease.", "display_order": 4 },
+            { "keyword": "Bloodletting", "definition": "A common medieval treatment involving removing blood from the patient to restore the balance of humours.", "display_order": 5 },
+            { "keyword": "Apothecary", "definition": "A medieval tradesperson who made and sold herbal remedies and medicines.", "display_order": 6 },
+            { "keyword": "Physician", "definition": "A trained, university-educated doctor in the medieval period who diagnosed illness using theory rather than surgery.", "display_order": 7 },
+            { "keyword": "Barber surgeon", "definition": "A practitioner in the medieval period who performed practical procedures such as tooth-pulling, wound dressing and amputation.", "display_order": 8 },
+            { "keyword": "Black Death", "definition": "The devastating plague of 1348–49 that killed around a third of England's population; its cause was not understood and responses were ineffective.", "display_order": 9 },
+            { "keyword": "Supernatural explanation", "definition": "The belief that illness was caused by God as a punishment for sin, or by the influence of planets and astrology.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Renaissance Medicine (c.1500–c.1700)",
+          "cards": [
+            { "keyword": "Andreas Vesalius", "definition": "16th-century Flemish anatomist who proved Galen wrong by dissecting human corpses and publishing accurate anatomical drawings in 'On the Fabric of the Human Body' (1543).", "display_order": 1 },
+            { "keyword": "William Harvey", "definition": "English physician who proved in 1628 that blood circulates around the body, pumped by the heart, overturning Galen's theory.", "display_order": 2 },
+            { "keyword": "Thomas Sydenham", "definition": "17th-century doctor who promoted careful observation and recording of symptoms to identify and categorise diseases.", "display_order": 3 },
+            { "keyword": "Ambroise Paré", "definition": "French surgeon who improved wound treatment by using ligatures to tie blood vessels instead of cauterisation, and developed prosthetic limbs.", "display_order": 4 },
+            { "keyword": "Printing press", "definition": "Gutenberg's invention (c.1440) that allowed medical ideas and anatomical illustrations to spread rapidly across Europe.", "display_order": 5 },
+            { "keyword": "Dissection", "definition": "The cutting open and examination of a dead body to study anatomy; became increasingly acceptable and important in Renaissance medicine.", "display_order": 6 },
+            { "keyword": "Great Plague of London", "definition": "The 1665 outbreak of bubonic plague in London that killed around 100,000 people; responses remained limited as the cause was still unknown.", "display_order": 7 },
+            { "keyword": "Ligature", "definition": "A thread used to tie off a blood vessel during surgery to prevent bleeding, introduced by Paré as an alternative to cauterisation.", "display_order": 8 },
+            { "keyword": "Cauterisation", "definition": "The medieval practice of sealing wounds by burning them with hot irons to stop bleeding; painful and often fatal.", "display_order": 9 },
+            { "keyword": "Royal Society", "definition": "A scientific institution founded in 1660 that encouraged the sharing of new discoveries and experimental evidence.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Industrial Medicine (c.1700–c.1900)",
+          "cards": [
+            { "keyword": "Edward Jenner", "definition": "English doctor who developed the world's first vaccine in 1796, using cowpox to protect against the deadly disease smallpox.", "display_order": 1 },
+            { "keyword": "Vaccination", "definition": "The introduction of a weakened or related pathogen into the body to stimulate immunity against a disease.", "display_order": 2 },
+            { "keyword": "Louis Pasteur", "definition": "French scientist who proved in the 1850s–60s that microbes (germs) cause disease, establishing Germ Theory.", "display_order": 3 },
+            { "keyword": "Germ Theory", "definition": "The scientific understanding, proven by Pasteur and Koch, that specific microorganisms cause specific diseases.", "display_order": 4 },
+            { "keyword": "Robert Koch", "definition": "German scientist who identified the specific bacteria causing tuberculosis (1882) and cholera (1883), advancing Germ Theory.", "display_order": 5 },
+            { "keyword": "John Snow", "definition": "A doctor who traced the 1854 Soho cholera outbreak to a contaminated water pump, providing key evidence against miasma theory.", "display_order": 6 },
+            { "keyword": "Cholera", "definition": "A waterborne disease that caused major epidemics in 19th-century Britain, driving improvements in public health and sanitation.", "display_order": 7 },
+            { "keyword": "Public Health Act 1875", "definition": "Legislation that compelled local councils to provide clean water, sewers, street lighting and refuse collection across Britain.", "display_order": 8 },
+            { "keyword": "Joseph Lister", "definition": "Surgeon who introduced antiseptic carbolic acid spray into operating theatres in the 1860s, dramatically reducing post-operative infection.", "display_order": 9 },
+            { "keyword": "Anaesthetic", "definition": "A substance that removes sensation or consciousness during surgery; ether and chloroform were introduced in the 1840s.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 4,
+          "block_name": "Modern Medicine (c.1900–present)",
+          "cards": [
+            { "keyword": "Alexander Fleming", "definition": "Scottish scientist who discovered in 1928 that the Penicillium mould killed bacteria, leading to the development of penicillin.", "display_order": 1 },
+            { "keyword": "Penicillin", "definition": "The world's first antibiotic, developed by Florey and Chain from Fleming's discovery and mass-produced from 1943 onwards.", "display_order": 2 },
+            { "keyword": "Antibiotic", "definition": "A medicine that kills or inhibits the growth of bacteria, revolutionising the treatment of previously fatal infections.", "display_order": 3 },
+            { "keyword": "Clinical trial", "definition": "A controlled experiment testing a new treatment on human patients to assess its safety and effectiveness before widespread use.", "display_order": 4 },
+            { "keyword": "DNA (double helix)", "definition": "The structure of DNA, discovered by Watson and Crick in 1953, opening the way for genetic medicine and understanding hereditary disease.", "display_order": 5 },
+            { "keyword": "National Health Service (NHS)", "definition": "Founded in 1948 by Aneurin Bevan, providing free healthcare for all at the point of use, funded through taxation.", "display_order": 6 },
+            { "keyword": "Lifestyle factor", "definition": "A behaviour or habit — such as smoking, diet or exercise — that increases or decreases a person's risk of disease.", "display_order": 7 },
+            { "keyword": "Lung cancer and smoking", "definition": "In the 1950s, Doll and Hill proved the statistical link between smoking tobacco and lung cancer, eventually leading to public health campaigns.", "display_order": 8 },
+            { "keyword": "Magic bullet", "definition": "A term used by Paul Ehrlich to describe a chemical that targets a specific pathogen without harming the patient; Salvarsan 606 (1909) was the first.", "display_order": 9 },
+            { "keyword": "Immunisation programme", "definition": "A government-organised schedule of vaccines given to children to prevent the spread of infectious diseases across the population.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 5,
+          "block_name": "Western Front: Injuries & Treatment (c.1914–18)",
+          "cards": [
+            { "keyword": "Trench warfare", "definition": "The system of defensive trenches used in World War One that caused specific injury patterns, including shrapnel wounds, gas injuries and trench foot.", "display_order": 1 },
+            { "keyword": "Shell shock", "definition": "A psychological condition caused by the trauma of warfare, characterised by tremors, anxiety and mental breakdown; poorly understood at the time.", "display_order": 2 },
+            { "keyword": "FANY (First Aid Nursing Yeomanry)", "definition": "Women's voluntary organisation that drove ambulances and staffed field hospitals on the Western Front.", "display_order": 3 },
+            { "keyword": "Triage", "definition": "The process of sorting casualties by the severity of their wounds to prioritise treatment and make the best use of medical resources.", "display_order": 4 },
+            { "keyword": "Casualty Clearing Station (CCS)", "definition": "A medical facility located just behind the front line where soldiers received more advanced treatment before being evacuated further.", "display_order": 5 },
+            { "keyword": "Blood transfusion", "definition": "The transfer of blood from a donor to a patient; refrigerated blood banks developed during WWI made this practical for the first time.", "display_order": 6 },
+            { "keyword": "X-ray", "definition": "Used in WWI field hospitals to locate bullets and shrapnel inside the body; Marie Curie helped equip mobile X-ray units.", "display_order": 7 },
+            { "keyword": "Antiseptic vs aseptic surgery", "definition": "Antiseptic kills germs with chemicals; aseptic surgery prevents germs entering the wound through sterile conditions — both developed in WWI hospitals.", "display_order": 8 },
+            { "keyword": "Plastic surgery", "definition": "Reconstructive surgery to repair facial and other injuries; pioneered by Harold Gillies at Sidcup during WWI.", "display_order": 9 },
+            { "keyword": "Gas gangrene", "definition": "A deadly bacterial infection of wounds that thrived in the muddy, contaminated conditions of the trenches and was extremely difficult to treat.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Early Elizabethan England",
+      "paper": "Paper 2",
+      "display_order": 2,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Elizabeth I: Government & Religion",
+          "cards": [
+            { "keyword": "Elizabeth I", "definition": "Queen of England from 1558 to 1603; navigated religious division, foreign threats and court politics to establish a stable reign.", "display_order": 1 },
+            { "keyword": "Privy Council", "definition": "The monarch's advisory body of senior councillors who helped govern England; Elizabeth used it to balance different factions.", "display_order": 2 },
+            { "keyword": "Religious Settlement (1559)", "definition": "Elizabeth's compromise that made England Protestant again, establishing the Church of England with the monarch as Supreme Governor.", "display_order": 3 },
+            { "keyword": "Act of Supremacy (1559)", "definition": "Restored royal control over the Church of England, making Elizabeth Supreme Governor rather than Supreme Head.", "display_order": 4 },
+            { "keyword": "Act of Uniformity (1559)", "definition": "Required all churches to use the Protestant Book of Common Prayer and all people to attend church on Sundays.", "display_order": 5 },
+            { "keyword": "Puritan", "definition": "A Protestant who wanted to 'purify' the Church of England of all remaining Catholic elements and ceremonies.", "display_order": 6 },
+            { "keyword": "Catholic threat", "definition": "The danger posed to Elizabeth by Catholics at home and abroad who believed Mary Queen of Scots had a stronger claim to the throne.", "display_order": 7 },
+            { "keyword": "Mary Queen of Scots", "definition": "Catholic cousin of Elizabeth who was a focal point for plots against the queen; held captive from 1568 and executed in 1587.", "display_order": 8 },
+            { "keyword": "Excommunication (1570)", "definition": "Pope Pius V's papal bull declaring Elizabeth a heretic and releasing Catholics from loyalty to her, intensifying the Catholic threat.", "display_order": 9 },
+            { "keyword": "Parliament", "definition": "The body that granted taxes and passed laws; Elizabeth managed it carefully, keeping MPs' interference in policy to a minimum.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Elizabethan Society & the Spanish Armada",
+          "cards": [
+            { "keyword": "Elizabethan Poor Law (1601)", "definition": "Legislation that distinguished between the 'deserving' poor (ill/elderly) and 'idle' poor (able-bodied), providing different responses to poverty.", "display_order": 1 },
+            { "keyword": "Vagabondage", "definition": "The act of wandering without work; vagabonds were feared and punished harshly in Elizabethan England as a threat to social order.", "display_order": 2 },
+            { "keyword": "Enclosure", "definition": "The process of landowners fencing off common land, driving many rural workers off the land and contributing to poverty and vagrancy.", "display_order": 3 },
+            { "keyword": "Spanish Armada (1588)", "definition": "A fleet of 130 Spanish ships sent by Philip II to invade England; defeated by a combination of English tactics and storms.", "display_order": 4 },
+            { "keyword": "Philip II of Spain", "definition": "Catholic king of Spain who launched the Armada against England, motivated by religion, politics and England's support for Dutch rebels.", "display_order": 5 },
+            { "keyword": "Francis Drake", "definition": "English privateer and naval commander who raided Spanish ports and helped defeat the Armada; second-in-command of the English fleet.", "display_order": 6 },
+            { "keyword": "Privateers", "definition": "State-approved pirates licensed by Elizabeth to attack Spanish ships and steal treasure, damaging Spanish wealth without open war.", "display_order": 7 },
+            { "keyword": "Dutch Revolt", "definition": "The rebellion of the Protestant Netherlands against Spanish Catholic rule; Elizabeth provided troops and funds, angering Philip II.", "display_order": 8 },
+            { "keyword": "Tilbury speech (1588)", "definition": "Elizabeth's famous speech to troops before the Armada battle, declaring she had 'the heart and stomach of a king', boosting morale.", "display_order": 9 },
+            { "keyword": "Gloriana", "definition": "A symbolic image of Elizabeth as the ideal, glorious queen used in portraits and propaganda to project power and inspire loyalty.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conflict & Tension: The First World War",
+      "paper": "Paper 2",
+      "display_order": 3,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Causes of WWI",
+          "cards": [
+            { "keyword": "MAIN (causes acronym)", "definition": "The four long-term causes of WWI: Militarism, Alliance systems, Imperialism and Nationalism.", "display_order": 1 },
+            { "keyword": "Alliance system", "definition": "A network of agreements between nations that meant a conflict between two countries could rapidly drag in many others.", "display_order": 2 },
+            { "keyword": "Triple Entente", "definition": "The alliance between Britain, France and Russia that formed one side of the conflict in WWI.", "display_order": 3 },
+            { "keyword": "Triple Alliance", "definition": "The pre-war alliance between Germany, Austria-Hungary and Italy (though Italy did not fight for them in 1914).", "display_order": 4 },
+            { "keyword": "Militarism", "definition": "The policy of building up large armed forces and glorifying military power, contributing to an arms race before 1914.", "display_order": 5 },
+            { "keyword": "Nationalism", "definition": "Strong pride in one's nation or ethnic group; in the Balkans it fuelled demands for independence from Austria-Hungary.", "display_order": 6 },
+            { "keyword": "Assassination of Franz Ferdinand", "definition": "The murder of the heir to the Austro-Hungarian throne in Sarajevo on 28 June 1914 by Gavrilo Princip, triggering the July Crisis.", "display_order": 7 },
+            { "keyword": "Schlieffen Plan", "definition": "Germany's pre-war strategy to defeat France quickly via Belgium before turning to face Russia, bringing Britain into the war.", "display_order": 8 },
+            { "keyword": "July Crisis (1914)", "definition": "The escalating sequence of ultimatums, mobilisations and declarations of war in July–August 1914 that turned the assassination into a world war.", "display_order": 9 },
+            { "keyword": "Imperialism", "definition": "Competition between European powers for overseas colonies and global influence, creating tensions and rivalries before 1914.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "The War & the Peace Settlement",
+          "cards": [
+            { "keyword": "Stalemate", "definition": "The military deadlock on the Western Front where neither side could advance, leading to years of trench warfare.", "display_order": 1 },
+            { "keyword": "Battle of the Somme (1916)", "definition": "A major WWI offensive in which British forces suffered 57,000 casualties on the first day; intended to relieve pressure on Verdun.", "display_order": 2 },
+            { "keyword": "Conscription", "definition": "Compulsory military service introduced in Britain in 1916 when voluntary recruitment was no longer sufficient.", "display_order": 3 },
+            { "keyword": "Propaganda", "definition": "Information designed to promote a particular viewpoint; used by all sides to encourage recruitment and maintain morale.", "display_order": 4 },
+            { "keyword": "USA entering the war (1917)", "definition": "America joined the Allies in April 1917 after German unrestricted submarine warfare and the Zimmermann Telegram shifted US opinion.", "display_order": 5 },
+            { "keyword": "Armistice (11 November 1918)", "definition": "The agreement to stop fighting that ended WWI at 11am on 11 November 1918.", "display_order": 6 },
+            { "keyword": "Treaty of Versailles (1919)", "definition": "The peace settlement that ended WWI, imposing harsh terms on Germany including reparations, territorial losses and the War Guilt Clause.", "display_order": 7 },
+            { "keyword": "War Guilt Clause (Article 231)", "definition": "The clause in the Treaty of Versailles that forced Germany to accept full blame for starting the war.", "display_order": 8 },
+            { "keyword": "Reparations", "definition": "Financial compensation Germany was ordered to pay the Allies under the Treaty of Versailles, eventually set at £6.6 billion.", "display_order": 9 },
+            { "keyword": "League of Nations", "definition": "An international organisation established after WWI to resolve disputes peacefully and prevent future wars, but weakened by the USA's absence.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Germany 1890–1945: Democracy & Dictatorship",
+      "paper": "Paper 3",
+      "display_order": 4,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Weimar Germany (1919–1933)",
+          "cards": [
+            { "keyword": "Weimar Republic", "definition": "The democratic government established in Germany after WWI in 1919, named after the city where its constitution was written.", "display_order": 1 },
+            { "keyword": "Proportional representation", "definition": "The Weimar voting system where parties gained seats in proportion to their share of votes, leading to coalition governments and instability.", "display_order": 2 },
+            { "keyword": "Article 48", "definition": "A clause in the Weimar Constitution allowing the president to rule by emergency decree without consulting the Reichstag.", "display_order": 3 },
+            { "keyword": "Hyperinflation (1923)", "definition": "A catastrophic rise in prices in Germany in 1923, caused by the government printing money to pay reparations; savings became worthless.", "display_order": 4 },
+            { "keyword": "Ruhr Crisis (1923)", "definition": "France and Belgium occupied the Ruhr industrial region when Germany defaulted on reparations payments, triggering the economic crisis.", "display_order": 5 },
+            { "keyword": "Stresemann era (1924–29)", "definition": "A period of relative stability under Foreign Minister Gustav Stresemann, with economic recovery (Dawes Plan), cultural flourishing and international acceptance.", "display_order": 6 },
+            { "keyword": "Wall Street Crash (1929)", "definition": "The collapse of the American stock market in October 1929 that triggered a global depression, causing mass unemployment in Germany.", "display_order": 7 },
+            { "keyword": "Munich Putsch (1923)", "definition": "Hitler's failed attempt to seize power by force in Munich; his subsequent trial gave him national publicity.", "display_order": 8 },
+            { "keyword": "Dawes Plan (1924)", "definition": "An American-backed agreement that restructured German reparations payments and provided US loans to stabilise the German economy.", "display_order": 9 },
+            { "keyword": "Reichstag", "definition": "The German parliament in the Weimar Republic; its inability to form stable majorities weakened democracy.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Rise of the Nazis",
+          "cards": [
+            { "keyword": "NSDAP (Nazi Party)", "definition": "The National Socialist German Workers' Party, led by Adolf Hitler; rose to power by exploiting economic crisis and political instability.", "display_order": 1 },
+            { "keyword": "Adolf Hitler", "definition": "Austrian-born leader of the Nazi Party who became Chancellor of Germany in January 1933 and established a totalitarian dictatorship.", "display_order": 2 },
+            { "keyword": "Propaganda", "definition": "Controlled information used by the Nazis to spread their ideology; Joseph Goebbels ran the Ministry of Propaganda from 1933.", "display_order": 3 },
+            { "keyword": "SA (Stormtroopers/Brownshirts)", "definition": "The Nazi paramilitary force used to intimidate political opponents and protect party meetings during the rise to power.", "display_order": 4 },
+            { "keyword": "Enabling Act (1933)", "definition": "Law passed after the Reichstag fire that gave Hitler the power to govern by decree for four years, bypassing parliament.", "display_order": 5 },
+            { "keyword": "Reichstag Fire (February 1933)", "definition": "The burning of the German parliament building; the Nazis blamed the Communists and used it to justify emergency powers.", "display_order": 6 },
+            { "keyword": "Night of the Long Knives (1934)", "definition": "Hitler's purge of SA leaders and political rivals in June 1934, consolidating his power and reassuring the army.", "display_order": 7 },
+            { "keyword": "Führer", "definition": "The title meaning 'leader' adopted by Hitler when he merged the roles of Chancellor and President after Hindenburg's death in 1934.", "display_order": 8 },
+            { "keyword": "Gestapo", "definition": "The Nazi secret police, used to monitor, arrest and terrorise political opponents and anyone seen as a threat to the regime.", "display_order": 9 },
+            { "keyword": "SS (Schutzstaffel)", "definition": "Hitler's elite personal bodyguard and security organisation, later responsible for running concentration camps.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Life in Nazi Germany",
+          "cards": [
+            { "keyword": "Volksgemeinschaft", "definition": "The Nazi ideal of a 'people's community' — a racially pure, unified German society in which everyone worked for the nation.", "display_order": 1 },
+            { "keyword": "Hitler Youth", "definition": "The Nazi organisation for boys aged 14–18 that trained them in military skills and indoctrinated them in Nazi ideology.", "display_order": 2 },
+            { "keyword": "League of German Maidens (BDM)", "definition": "The female equivalent of Hitler Youth, which trained girls to become healthy mothers and homemakers for the Nazi state.", "display_order": 3 },
+            { "keyword": "Nuremberg Laws (1935)", "definition": "Laws that stripped Jewish people of German citizenship and banned marriage between Jews and non-Jews.", "display_order": 4 },
+            { "keyword": "Kristallnacht (1938)", "definition": "The 'Night of Broken Glass' — a nationwide pogrom on 9–10 November 1938 in which Jewish businesses, synagogues and homes were attacked.", "display_order": 5 },
+            { "keyword": "Concentration camp", "definition": "Prison camps where political opponents, Jewish people and others were detained, forced to work or murdered by the Nazi regime.", "display_order": 6 },
+            { "keyword": "The Holocaust", "definition": "The systematic genocide of six million Jewish people and millions of others (Roma, disabled people, etc.) by the Nazi regime.", "display_order": 7 },
+            { "keyword": "Autobahn", "definition": "The motorway network built by the Nazis, used as evidence of economic recovery and presented as a symbol of Nazi modernisation.", "display_order": 8 },
+            { "keyword": "Rearmament", "definition": "Germany's rapid build-up of its armed forces from 1933, in secret at first and then openly from 1935, in violation of the Treaty of Versailles.", "display_order": 9 },
+            { "keyword": "Opposition in Nazi Germany", "definition": "Resistance to the Nazi regime, including the White Rose group, Swing Youth and individuals such as Dietrich Bonhoeffer, was rare and dangerous.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

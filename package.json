@@ -1,0 +1,23 @@
+{
+  "name": "the-revision-hub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "next": "15.5.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "dotenv": "^16.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}

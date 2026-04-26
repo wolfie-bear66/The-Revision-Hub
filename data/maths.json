@@ -1,0 +1,323 @@
+{
+  "subject": {
+    "name": "Maths",
+    "slug": "maths",
+    "colour": "#10b981"
+  },
+  "topics": [
+    {
+      "name": "Number",
+      "paper": "Paper 1, 2 & 3",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Types of Number & Factors",
+          "cards": [
+            { "keyword": "Integer", "definition": "A whole number that can be positive, negative or zero, e.g. -3, 0, 7.", "display_order": 1 },
+            { "keyword": "Factor", "definition": "A whole number that divides exactly into another number with no remainder.", "display_order": 2 },
+            { "keyword": "Multiple", "definition": "The result of multiplying a number by a positive integer, e.g. multiples of 4 are 4, 8, 12…", "display_order": 3 },
+            { "keyword": "Prime number", "definition": "A number greater than 1 that has exactly two factors: 1 and itself.", "display_order": 4 },
+            { "keyword": "Prime factor", "definition": "A factor of a number that is also a prime number.", "display_order": 5 },
+            { "keyword": "HCF (Highest Common Factor)", "definition": "The largest number that is a factor of two or more given numbers.", "display_order": 6 },
+            { "keyword": "LCM (Lowest Common Multiple)", "definition": "The smallest number that is a multiple of two or more given numbers.", "display_order": 7 },
+            { "keyword": "Square number", "definition": "The result of multiplying a whole number by itself, e.g. 25 = 5 × 5.", "display_order": 8 },
+            { "keyword": "Cube number", "definition": "The result of multiplying a whole number by itself twice, e.g. 27 = 3 × 3 × 3.", "display_order": 9 },
+            { "keyword": "Index (power/exponent)", "definition": "The small raised number showing how many times a base is multiplied by itself, e.g. 2³ means 2 × 2 × 2.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Fractions, Decimals & Percentages",
+          "cards": [
+            { "keyword": "Fraction", "definition": "A number written as one integer divided by another, representing a part of a whole, e.g. ¾.", "display_order": 1 },
+            { "keyword": "Numerator", "definition": "The top number in a fraction, representing how many parts are taken.", "display_order": 2 },
+            { "keyword": "Denominator", "definition": "The bottom number in a fraction, representing the total number of equal parts.", "display_order": 3 },
+            { "keyword": "Equivalent fraction", "definition": "Fractions that represent the same value, e.g. ½ and 4/8.", "display_order": 4 },
+            { "keyword": "Improper fraction", "definition": "A fraction where the numerator is greater than the denominator, e.g. 7/4.", "display_order": 5 },
+            { "keyword": "Mixed number", "definition": "A number written as a whole number and a proper fraction, e.g. 1¾.", "display_order": 6 },
+            { "keyword": "Percentage", "definition": "A number or ratio expressed as a fraction of 100, denoted by the symbol %.", "display_order": 7 },
+            { "keyword": "Percentage change", "definition": "The change in a value expressed as a percentage of the original: (change ÷ original) × 100.", "display_order": 8 },
+            { "keyword": "Recurring decimal", "definition": "A decimal in which one or more digits repeat infinitely, e.g. 0.333… = ⅓.", "display_order": 9 },
+            { "keyword": "Terminating decimal", "definition": "A decimal that has a finite number of digits after the decimal point, e.g. 0.75.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Rounding, Estimation & Surds",
+          "cards": [
+            { "keyword": "Rounding", "definition": "Reducing a number to a given number of decimal places or significant figures to make it simpler.", "display_order": 1 },
+            { "keyword": "Significant figures", "definition": "The meaningful digits in a number, starting from the first non-zero digit.", "display_order": 2 },
+            { "keyword": "Decimal places", "definition": "The number of digits after the decimal point in a rounded value.", "display_order": 3 },
+            { "keyword": "Estimation", "definition": "Finding an approximate answer by rounding values to easy numbers before calculating.", "display_order": 4 },
+            { "keyword": "Upper bound", "definition": "The highest value a rounded number could have been before rounding.", "display_order": 5 },
+            { "keyword": "Lower bound", "definition": "The lowest value a rounded number could have been before rounding.", "display_order": 6 },
+            { "keyword": "Error interval", "definition": "The range of values a number could take, written as lower bound ≤ x < upper bound.", "display_order": 7 },
+            { "keyword": "Surd", "definition": "An irrational root that cannot be expressed exactly as a decimal, e.g. √2 or √5.", "display_order": 8 },
+            { "keyword": "Rationalise the denominator", "definition": "Rewriting a fraction so there is no surd in the denominator, e.g. 1/√3 becomes √3/3.", "display_order": 9 },
+            { "keyword": "Standard form", "definition": "A way of writing very large or small numbers as A × 10ⁿ, where 1 ≤ A < 10.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Algebra",
+      "paper": "Paper 1, 2 & 3",
+      "display_order": 2,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Expressions & Equations",
+          "cards": [
+            { "keyword": "Expression", "definition": "A mathematical phrase containing numbers, variables and operations, but no equals sign, e.g. 3x + 2.", "display_order": 1 },
+            { "keyword": "Equation", "definition": "A mathematical statement that two expressions are equal, containing an equals sign, e.g. 3x + 2 = 11.", "display_order": 2 },
+            { "keyword": "Formula", "definition": "A rule written with mathematical symbols that describes a relationship between quantities.", "display_order": 3 },
+            { "keyword": "Identity", "definition": "An equation that is true for all values of the variable, shown by the ≡ symbol.", "display_order": 4 },
+            { "keyword": "Simplify", "definition": "To collect like terms or reduce an expression to its simplest equivalent form.", "display_order": 5 },
+            { "keyword": "Expand", "definition": "To multiply out brackets so every term inside is multiplied by the term outside.", "display_order": 6 },
+            { "keyword": "Factorise", "definition": "To write an expression as a product of its factors by taking common factors outside brackets.", "display_order": 7 },
+            { "keyword": "Like terms", "definition": "Terms in an expression that have the same variable and power and can be combined.", "display_order": 8 },
+            { "keyword": "Coefficient", "definition": "The numerical value multiplying a variable in a term, e.g. in 5x, the coefficient is 5.", "display_order": 9 },
+            { "keyword": "Substitution", "definition": "Replacing variables in an expression or formula with given numerical values.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Solving & Inequalities",
+          "cards": [
+            { "keyword": "Linear equation", "definition": "An equation where the highest power of the variable is 1, producing a straight-line graph.", "display_order": 1 },
+            { "keyword": "Quadratic equation", "definition": "An equation where the highest power of the variable is 2, in the form ax² + bx + c = 0.", "display_order": 2 },
+            { "keyword": "Solving by factorising", "definition": "Finding solutions to a quadratic by writing it as a product of two brackets and setting each to zero.", "display_order": 3 },
+            { "keyword": "Quadratic formula", "definition": "A formula used to solve any quadratic: x = (−b ± √(b²−4ac)) / 2a.", "display_order": 4 },
+            { "keyword": "Completing the square", "definition": "Rewriting a quadratic in the form (x + p)² + q to find its vertex or solve the equation.", "display_order": 5 },
+            { "keyword": "Inequality", "definition": "A statement showing that one expression is greater than, less than, or not equal to another.", "display_order": 6 },
+            { "keyword": "Simultaneous equations", "definition": "A set of two or more equations with the same variables that are solved together.", "display_order": 7 },
+            { "keyword": "Elimination method", "definition": "Solving simultaneous equations by adding or subtracting equations to remove one variable.", "display_order": 8 },
+            { "keyword": "Substitution method", "definition": "Solving simultaneous equations by expressing one variable in terms of the other and substituting.", "display_order": 9 },
+            { "keyword": "Discriminant", "definition": "The value b²−4ac in the quadratic formula; determines the number of real solutions.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Sequences & Functions",
+          "cards": [
+            { "keyword": "Sequence", "definition": "An ordered list of numbers or terms that follow a rule or pattern.", "display_order": 1 },
+            { "keyword": "Term", "definition": "Each individual number or expression in a sequence.", "display_order": 2 },
+            { "keyword": "nth term", "definition": "A formula in terms of n that gives the value of any term in a sequence.", "display_order": 3 },
+            { "keyword": "Arithmetic sequence", "definition": "A sequence with a constant difference between consecutive terms, e.g. 3, 7, 11, 15…", "display_order": 4 },
+            { "keyword": "Geometric sequence", "definition": "A sequence where each term is multiplied by a constant ratio to get the next term.", "display_order": 5 },
+            { "keyword": "Fibonacci sequence", "definition": "A sequence where each term is the sum of the two preceding terms: 1, 1, 2, 3, 5, 8…", "display_order": 6 },
+            { "keyword": "Function", "definition": "A rule that assigns exactly one output to each input, written as f(x).", "display_order": 7 },
+            { "keyword": "Inverse function", "definition": "A function that reverses the effect of another function, written as f⁻¹(x).", "display_order": 8 },
+            { "keyword": "Composite function", "definition": "Applying one function to the result of another, written as f(g(x)) or fg(x).", "display_order": 9 },
+            { "keyword": "Domain", "definition": "The set of all possible input values for a function.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 4,
+          "block_name": "Graphs",
+          "cards": [
+            { "keyword": "Gradient", "definition": "The steepness of a line, calculated as rise ÷ run or (y₂−y₁)/(x₂−x₁).", "display_order": 1 },
+            { "keyword": "y-intercept", "definition": "The point where a graph crosses the y-axis, where x = 0.", "display_order": 2 },
+            { "keyword": "y = mx + c", "definition": "The equation of a straight line where m is the gradient and c is the y-intercept.", "display_order": 3 },
+            { "keyword": "Parallel lines", "definition": "Lines with the same gradient that never meet.", "display_order": 4 },
+            { "keyword": "Perpendicular lines", "definition": "Lines that meet at 90°; their gradients multiply to give −1.", "display_order": 5 },
+            { "keyword": "Quadratic graph", "definition": "A curved U-shaped (or ∩-shaped) graph of a quadratic function, called a parabola.", "display_order": 6 },
+            { "keyword": "Turning point (vertex)", "definition": "The maximum or minimum point of a parabola where the curve changes direction.", "display_order": 7 },
+            { "keyword": "Real roots", "definition": "The x-values where a graph crosses or touches the x-axis (where y = 0).", "display_order": 8 },
+            { "keyword": "Translation of a graph", "definition": "Shifting a graph horizontally or vertically using vector notation, e.g. f(x + a) or f(x) + a.", "display_order": 9 },
+            { "keyword": "Reflection of a graph", "definition": "Flipping a graph in an axis: f(−x) reflects in the y-axis; −f(x) reflects in the x-axis.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ratio, Proportion & Rates of Change",
+      "paper": "Paper 1, 2 & 3",
+      "display_order": 3,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Ratio & Proportion",
+          "cards": [
+            { "keyword": "Ratio", "definition": "A comparison of two or more quantities showing their relative sizes, written with a colon, e.g. 3:5.", "display_order": 1 },
+            { "keyword": "Simplifying a ratio", "definition": "Dividing all parts of a ratio by their highest common factor to give the simplest form.", "display_order": 2 },
+            { "keyword": "Dividing in a ratio", "definition": "Sharing a quantity into parts according to a given ratio by finding the value of one part first.", "display_order": 3 },
+            { "keyword": "Direct proportion", "definition": "A relationship where two quantities increase or decrease at the same rate; y = kx.", "display_order": 4 },
+            { "keyword": "Inverse proportion", "definition": "A relationship where as one quantity increases the other decreases proportionally; y = k/x.", "display_order": 5 },
+            { "keyword": "Unitary method", "definition": "Finding the value of one unit first, then multiplying to find any other amount.", "display_order": 6 },
+            { "keyword": "Scale factor", "definition": "The ratio by which all lengths of a shape are multiplied when enlarging or reducing it.", "display_order": 7 },
+            { "keyword": "Best buy", "definition": "Comparing value for money by calculating the cost per unit for each option.", "display_order": 8 },
+            { "keyword": "Exchange rate", "definition": "The rate at which one currency can be converted into another.", "display_order": 9 },
+            { "keyword": "Proportionality constant (k)", "definition": "The fixed multiplier in a proportion relationship, e.g. in y = kx, k = y/x.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Rates of Change & Compound Measures",
+          "cards": [
+            { "keyword": "Rate of change", "definition": "How quickly one quantity changes relative to another, e.g. speed is the rate of change of distance.", "display_order": 1 },
+            { "keyword": "Speed", "definition": "The distance travelled per unit of time; Speed = Distance ÷ Time.", "display_order": 2 },
+            { "keyword": "Density", "definition": "Mass per unit volume; Density = Mass ÷ Volume.", "display_order": 3 },
+            { "keyword": "Pressure", "definition": "Force per unit area; Pressure = Force ÷ Area.", "display_order": 4 },
+            { "keyword": "Compound interest", "definition": "Interest calculated on both the original amount and any previously earned interest each period.", "display_order": 5 },
+            { "keyword": "Simple interest", "definition": "Interest calculated only on the original principal each period: I = PRT/100.", "display_order": 6 },
+            { "keyword": "Multiplier", "definition": "The decimal factor used to calculate a percentage increase or decrease in one step.", "display_order": 7 },
+            { "keyword": "Percentage increase", "definition": "Adding a percentage of the original value: new value = original × (1 + r/100).", "display_order": 8 },
+            { "keyword": "Percentage decrease", "definition": "Subtracting a percentage of the original value: new value = original × (1 − r/100).", "display_order": 9 },
+            { "keyword": "Reverse percentage", "definition": "Finding the original value before a percentage change by dividing by the multiplier.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geometry & Measures",
+      "paper": "Paper 2 & 3",
+      "display_order": 4,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Angles & Lines",
+          "cards": [
+            { "keyword": "Acute angle", "definition": "An angle that is greater than 0° and less than 90°.", "display_order": 1 },
+            { "keyword": "Obtuse angle", "definition": "An angle that is greater than 90° and less than 180°.", "display_order": 2 },
+            { "keyword": "Reflex angle", "definition": "An angle that is greater than 180° and less than 360°.", "display_order": 3 },
+            { "keyword": "Vertically opposite angles", "definition": "Angles formed opposite each other when two lines cross; they are always equal.", "display_order": 4 },
+            { "keyword": "Alternate angles", "definition": "Equal angles formed on opposite sides of a transversal cutting parallel lines ('Z-angles').", "display_order": 5 },
+            { "keyword": "Co-interior angles", "definition": "Angles on the same side of a transversal between parallel lines that add up to 180° ('C-angles').", "display_order": 6 },
+            { "keyword": "Corresponding angles", "definition": "Equal angles in matching positions when a transversal crosses parallel lines ('F-angles').", "display_order": 7 },
+            { "keyword": "Bearing", "definition": "A direction measured clockwise from north, always written as a three-digit number, e.g. 045°.", "display_order": 8 },
+            { "keyword": "Interior angle", "definition": "An angle inside a polygon between two adjacent sides.", "display_order": 9 },
+            { "keyword": "Exterior angle", "definition": "The angle formed outside a polygon between one side and the extension of the adjacent side.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Polygons & Circles",
+          "cards": [
+            { "keyword": "Polygon", "definition": "A closed 2D shape with straight sides.", "display_order": 1 },
+            { "keyword": "Regular polygon", "definition": "A polygon where all sides are equal in length and all interior angles are equal.", "display_order": 2 },
+            { "keyword": "Sum of interior angles", "definition": "For any polygon with n sides: sum = (n − 2) × 180°.", "display_order": 3 },
+            { "keyword": "Quadrilateral", "definition": "A polygon with four sides; interior angles always sum to 360°.", "display_order": 4 },
+            { "keyword": "Circumference", "definition": "The perimeter of a circle; C = πd or C = 2πr.", "display_order": 5 },
+            { "keyword": "Arc", "definition": "A part of the circumference of a circle.", "display_order": 6 },
+            { "keyword": "Sector", "definition": "A 'pie-slice' region of a circle bounded by two radii and an arc.", "display_order": 7 },
+            { "keyword": "Chord", "definition": "A straight line connecting two points on the circumference of a circle.", "display_order": 8 },
+            { "keyword": "Tangent (circle)", "definition": "A straight line that touches a circle at exactly one point and is perpendicular to the radius at that point.", "display_order": 9 },
+            { "keyword": "Segment", "definition": "A region of a circle bounded by a chord and the arc it cuts off.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Area, Volume & Units",
+          "cards": [
+            { "keyword": "Perimeter", "definition": "The total length of the boundary of a 2D shape.", "display_order": 1 },
+            { "keyword": "Area", "definition": "The amount of space enclosed within a 2D shape, measured in square units.", "display_order": 2 },
+            { "keyword": "Surface area", "definition": "The total area of all the faces of a 3D solid.", "display_order": 3 },
+            { "keyword": "Volume", "definition": "The amount of 3D space enclosed within a solid, measured in cubic units.", "display_order": 4 },
+            { "keyword": "Prism", "definition": "A 3D solid with a uniform cross-section; volume = area of cross-section × length.", "display_order": 5 },
+            { "keyword": "Cylinder", "definition": "A prism with a circular cross-section; volume = πr²h.", "display_order": 6 },
+            { "keyword": "Cone", "definition": "A solid with a circular base tapering to a point; volume = ⅓πr²h.", "display_order": 7 },
+            { "keyword": "Sphere", "definition": "A perfectly round 3D solid; volume = (4/3)πr³, surface area = 4πr².", "display_order": 8 },
+            { "keyword": "Pyramid", "definition": "A solid with a polygon base and triangular faces meeting at an apex; volume = ⅓ × base area × height.", "display_order": 9 },
+            { "keyword": "Compound shape", "definition": "A shape made up of two or more standard shapes joined together.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 4,
+          "block_name": "Transformations & Similarity",
+          "cards": [
+            { "keyword": "Translation", "definition": "A transformation that moves every point of a shape the same distance in the same direction, described by a vector.", "display_order": 1 },
+            { "keyword": "Reflection", "definition": "A transformation that flips a shape in a mirror line, producing a congruent image.", "display_order": 2 },
+            { "keyword": "Rotation", "definition": "A transformation that turns a shape through an angle about a fixed centre point.", "display_order": 3 },
+            { "keyword": "Enlargement", "definition": "A transformation that changes the size of a shape by a scale factor from a centre of enlargement.", "display_order": 4 },
+            { "keyword": "Congruent", "definition": "Shapes that are identical in size and shape; one can be mapped onto the other by a rigid transformation.", "display_order": 5 },
+            { "keyword": "Similar", "definition": "Shapes that are the same shape but different sizes; all corresponding angles are equal and sides are in proportion.", "display_order": 6 },
+            { "keyword": "Vector", "definition": "A quantity with both magnitude and direction, written as a column vector or using bold letters.", "display_order": 7 },
+            { "keyword": "Centre of enlargement", "definition": "The fixed point from which an enlargement is made.", "display_order": 8 },
+            { "keyword": "Negative scale factor", "definition": "An enlargement where the image is on the opposite side of the centre and inverted.", "display_order": 9 },
+            { "keyword": "Invariant point", "definition": "A point that does not change position under a transformation.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 5,
+          "block_name": "Pythagoras & Trigonometry",
+          "cards": [
+            { "keyword": "Pythagoras' theorem", "definition": "In a right-angled triangle: a² + b² = c², where c is the hypotenuse.", "display_order": 1 },
+            { "keyword": "Hypotenuse", "definition": "The longest side of a right-angled triangle, always opposite the right angle.", "display_order": 2 },
+            { "keyword": "Sine (sin)", "definition": "In a right-angled triangle: sin θ = opposite ÷ hypotenuse.", "display_order": 3 },
+            { "keyword": "Cosine (cos)", "definition": "In a right-angled triangle: cos θ = adjacent ÷ hypotenuse.", "display_order": 4 },
+            { "keyword": "Tangent (tan)", "definition": "In a right-angled triangle: tan θ = opposite ÷ adjacent.", "display_order": 5 },
+            { "keyword": "Sine rule", "definition": "A rule relating sides and angles in any triangle: a/sin A = b/sin B = c/sin C.", "display_order": 6 },
+            { "keyword": "Cosine rule", "definition": "A rule for any triangle: a² = b² + c² − 2bc cos A.", "display_order": 7 },
+            { "keyword": "Area of a triangle (trig)", "definition": "Area = ½ab sin C, used when two sides and the included angle are known.", "display_order": 8 },
+            { "keyword": "Exact trigonometric values", "definition": "Known exact values: sin 30° = ½, sin 45° = √2/2, sin 60° = √3/2, and equivalents for cos and tan.", "display_order": 9 },
+            { "keyword": "Angle of elevation/depression", "definition": "The angle measured upward (elevation) or downward (depression) from the horizontal.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Probability",
+      "paper": "Paper 2 & 3",
+      "display_order": 5,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Probability",
+          "cards": [
+            { "keyword": "Probability", "definition": "A measure of how likely an event is to occur, expressed as a value between 0 and 1.", "display_order": 1 },
+            { "keyword": "Theoretical probability", "definition": "Probability calculated from equally likely outcomes: P(event) = favourable outcomes ÷ total outcomes.", "display_order": 2 },
+            { "keyword": "Experimental probability (relative frequency)", "definition": "Probability estimated from trials: frequency of event ÷ total number of trials.", "display_order": 3 },
+            { "keyword": "Mutually exclusive events", "definition": "Events that cannot both occur at the same time; P(A or B) = P(A) + P(B).", "display_order": 4 },
+            { "keyword": "Independent events", "definition": "Events where the outcome of one does not affect the other; P(A and B) = P(A) × P(B).", "display_order": 5 },
+            { "keyword": "Tree diagram", "definition": "A diagram showing all possible outcomes of combined events as branches, with probabilities on each branch.", "display_order": 6 },
+            { "keyword": "Venn diagram", "definition": "A diagram using overlapping circles to show the relationship between sets of outcomes.", "display_order": 7 },
+            { "keyword": "Conditional probability", "definition": "The probability of an event given that another event has already occurred; P(A|B) = P(A∩B)/P(B).", "display_order": 8 },
+            { "keyword": "Sample space", "definition": "The set of all possible outcomes of a random experiment.", "display_order": 9 },
+            { "keyword": "Expected frequency", "definition": "The number of times an event is expected to occur: probability × number of trials.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Statistics",
+      "paper": "Paper 2 & 3",
+      "display_order": 6,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Averages & Spread",
+          "cards": [
+            { "keyword": "Mean", "definition": "The sum of all values divided by the number of values.", "display_order": 1 },
+            { "keyword": "Median", "definition": "The middle value when all data is arranged in order; for an even count, the mean of the two middle values.", "display_order": 2 },
+            { "keyword": "Mode", "definition": "The value that appears most frequently in a data set.", "display_order": 3 },
+            { "keyword": "Range", "definition": "The difference between the highest and lowest values in a data set; a measure of spread.", "display_order": 4 },
+            { "keyword": "Interquartile range (IQR)", "definition": "The difference between the upper quartile (Q3) and the lower quartile (Q1); IQR = Q3 − Q1.", "display_order": 5 },
+            { "keyword": "Quartiles", "definition": "Values that divide an ordered dataset into four equal parts: Q1 (25%), Q2 (50%), Q3 (75%).", "display_order": 6 },
+            { "keyword": "Outlier", "definition": "A data value that lies far outside the general pattern of the rest of the data.", "display_order": 7 },
+            { "keyword": "Frequency table", "definition": "A table showing how many times each value or group of values occurs in a dataset.", "display_order": 8 },
+            { "keyword": "Grouped frequency", "definition": "Data organised into class intervals when the range of values is large.", "display_order": 9 },
+            { "keyword": "Estimated mean", "definition": "The mean calculated from grouped data using the midpoint of each class interval.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Representing Data",
+          "cards": [
+            { "keyword": "Frequency diagram (bar chart)", "definition": "A chart using bars of equal width to show the frequency of each category or class interval.", "display_order": 1 },
+            { "keyword": "Histogram", "definition": "A chart for continuous data where area of each bar represents frequency; bars can have different widths.", "display_order": 2 },
+            { "keyword": "Frequency density", "definition": "The value used on the y-axis of a histogram: frequency density = frequency ÷ class width.", "display_order": 3 },
+            { "keyword": "Cumulative frequency", "definition": "A running total of frequencies; plotted as a curve to find medians and quartiles.", "display_order": 4 },
+            { "keyword": "Box plot (box-and-whisker)", "definition": "A diagram showing the minimum, Q1, median, Q3, and maximum of a dataset.", "display_order": 5 },
+            { "keyword": "Scatter graph", "definition": "A graph that plots pairs of values to show a possible relationship (correlation) between two variables.", "display_order": 6 },
+            { "keyword": "Correlation", "definition": "The relationship between two variables; can be positive, negative, or none.", "display_order": 7 },
+            { "keyword": "Line of best fit", "definition": "A straight line drawn through a scatter graph that best represents the trend in the data.", "display_order": 8 },
+            { "keyword": "Interpolation", "definition": "Using a line of best fit to estimate a value within the range of the data.", "display_order": 9 },
+            { "keyword": "Extrapolation", "definition": "Using a line of best fit to estimate a value outside the range of the data; less reliable.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

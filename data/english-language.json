@@ -1,0 +1,32 @@
+{
+  "subject": {
+    "name": "English Language",
+    "slug": "english-language",
+    "colour": "#3b82f6"
+  },
+  "topics": [
+    {
+      "name": "Language & Structure Techniques",
+      "paper": "Paper 1 & 2",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Language & Structure Techniques",
+          "cards": [
+            { "keyword": "Simile", "definition": "A comparison using 'like' or 'as' to describe something by linking it to something else.", "display_order": 1 },
+            { "keyword": "Metaphor", "definition": "A direct comparison stating one thing is another, not using 'like' or 'as'.", "display_order": 2 },
+            { "keyword": "Personification", "definition": "Giving human qualities, feelings or actions to an object, animal or idea.", "display_order": 3 },
+            { "keyword": "Alliteration", "definition": "Repetition of the same consonant sound at the start of closely connected words.", "display_order": 4 },
+            { "keyword": "Sibilance", "definition": "Repetition of soft 's' or 'sh' sounds to create a hissing or whispering effect.", "display_order": 5 },
+            { "keyword": "Onomatopoeia", "definition": "A word that phonetically imitates the sound it describes, e.g. 'crash', 'buzz'.", "display_order": 6 },
+            { "keyword": "Oxymoron", "definition": "Two contradictory terms placed together for effect, e.g. 'deafening silence'.", "display_order": 7 },
+            { "keyword": "Hyperbole", "definition": "Deliberate exaggeration used for emphasis or dramatic effect, not meant literally.", "display_order": 8 },
+            { "keyword": "Juxtaposition", "definition": "Placing two contrasting ideas, images or characters side by side to highlight difference.", "display_order": 9 },
+            { "keyword": "Symbolism", "definition": "Using an object, person or place to represent a wider idea or concept beyond its literal meaning.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}
