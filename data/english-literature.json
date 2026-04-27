@@ -9,6 +9,7 @@
       "name": "Macbeth — Tragedy Terminology",
       "paper": "Paper 1",
       "display_order": 1,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -31,6 +32,7 @@
       "name": "Macbeth — Characters",
       "paper": "Paper 1",
       "display_order": 2,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -53,6 +55,7 @@
       "name": "Macbeth — Themes",
       "paper": "Paper 1",
       "display_order": 3,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -75,6 +78,7 @@
       "name": "Macbeth — Key Quotes",
       "paper": "Paper 1",
       "display_order": 4,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -97,6 +101,7 @@
       "name": "Macbeth — Context",
       "paper": "Paper 1",
       "display_order": 5,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -119,6 +124,7 @@
       "name": "A Christmas Carol — Terminology",
       "paper": "Paper 1",
       "display_order": 6,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -141,6 +147,7 @@
       "name": "A Christmas Carol — Characters",
       "paper": "Paper 1",
       "display_order": 7,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -163,6 +170,7 @@
       "name": "A Christmas Carol — Themes",
       "paper": "Paper 1",
       "display_order": 8,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -185,6 +193,7 @@
       "name": "A Christmas Carol — Key Quotes",
       "paper": "Paper 1",
       "display_order": 9,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -207,6 +216,7 @@
       "name": "A Christmas Carol — Context",
       "paper": "Paper 1",
       "display_order": 10,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -229,6 +239,7 @@
       "name": "An Inspector Calls — Terminology",
       "paper": "Paper 2",
       "display_order": 11,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -251,6 +262,7 @@
       "name": "An Inspector Calls — Characters",
       "paper": "Paper 2",
       "display_order": 12,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -273,6 +285,7 @@
       "name": "An Inspector Calls — Themes",
       "paper": "Paper 2",
       "display_order": 13,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -295,6 +308,7 @@
       "name": "An Inspector Calls — Key Quotes",
       "paper": "Paper 2",
       "display_order": 14,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -317,6 +331,7 @@
       "name": "An Inspector Calls — Context",
       "paper": "Paper 2",
       "display_order": 15,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -339,6 +354,7 @@
       "name": "Power & Conflict — Terminology & Themes",
       "paper": "Paper 2",
       "display_order": 16,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -376,6 +392,7 @@
       "name": "Power & Conflict — Ozymandias & London",
       "paper": "Paper 2",
       "display_order": 17,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -398,6 +415,7 @@
       "name": "Power & Conflict — Remains & Poppies",
       "paper": "Paper 2",
       "display_order": 18,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -420,6 +438,7 @@
       "name": "Power & Conflict — Exposure & Bayonet Charge",
       "paper": "Paper 2",
       "display_order": 19,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,

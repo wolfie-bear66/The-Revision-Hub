@@ -89,7 +89,7 @@ async function seedFile(filePath) {
     if (existing) {
       await supabase
         .from('topics')
-        .update({ paper: topicFields.paper ?? null, display_order: topicFields.display_order ?? 0 })
+        .update({ paper: topicFields.paper ?? null, display_order: topicFields.display_order ?? 0, exam_board: topicFields.exam_board ?? null })
         .eq('id', existing.id)
       topicId = existing.id
     } else {
@@ -100,6 +100,7 @@ async function seedFile(filePath) {
           name: topicFields.name,
           paper: topicFields.paper ?? null,
           display_order: topicFields.display_order ?? 0,
+          exam_board: topicFields.exam_board ?? null,
         })
         .select('id')
         .single()

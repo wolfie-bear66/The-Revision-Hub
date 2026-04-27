@@ -9,6 +9,7 @@
       "name": "Medicine Through Time",
       "paper": "Paper 1",
       "display_order": 1,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -96,6 +97,7 @@
       "name": "Early Elizabethan England",
       "paper": "Paper 2",
       "display_order": 2,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -135,6 +137,7 @@
       "name": "Conflict & Tension: The First World War",
       "paper": "Paper 2",
       "display_order": 3,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -174,6 +177,7 @@
       "name": "Germany 1890–1945: Democracy & Dictatorship",
       "paper": "Paper 3",
       "display_order": 4,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
