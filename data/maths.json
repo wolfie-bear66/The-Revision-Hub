@@ -9,6 +9,7 @@
       "name": "Number",
       "paper": "Paper 1, 2 & 3",
       "display_order": 1,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -64,6 +65,7 @@
       "name": "Algebra",
       "paper": "Paper 1, 2 & 3",
       "display_order": 2,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -135,6 +137,7 @@
       "name": "Ratio, Proportion & Rates of Change",
       "paper": "Paper 1, 2 & 3",
       "display_order": 3,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -174,6 +177,7 @@
       "name": "Geometry & Measures",
       "paper": "Paper 2 & 3",
       "display_order": 4,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -261,6 +265,7 @@
       "name": "Probability",
       "paper": "Paper 2 & 3",
       "display_order": 5,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -284,6 +289,7 @@
       "name": "Statistics",
       "paper": "Paper 2 & 3",
       "display_order": 6,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,

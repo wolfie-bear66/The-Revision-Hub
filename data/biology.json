@@ -9,6 +9,7 @@
       "name": "Cell Biology",
       "paper": "Paper 1",
       "display_order": 1,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -48,6 +49,7 @@
       "name": "Photosynthesis",
       "paper": "Paper 1",
       "display_order": 2,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -87,6 +89,7 @@
       "name": "Moving and Changing Materials",
       "paper": "Paper 1",
       "display_order": 3,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -126,6 +129,7 @@
       "name": "Health Matters",
       "paper": "Paper 1",
       "display_order": 4,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -165,6 +169,7 @@
       "name": "Coordination & Control",
       "paper": "Paper 2",
       "display_order": 5,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -204,6 +209,7 @@
       "name": "Genetics",
       "paper": "Paper 2",
       "display_order": 6,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -227,6 +233,7 @@
       "name": "Evolution and Variation",
       "paper": "Paper 2",
       "display_order": 7,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
@@ -266,6 +273,7 @@
       "name": "Ecology in Action",
       "paper": "Paper 2",
       "display_order": 8,
+      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
