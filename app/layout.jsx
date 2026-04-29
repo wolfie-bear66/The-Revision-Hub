@@ -1,4 +1,5 @@
 import './globals.css'
+import { Analytics } from '@vercel/analytics/next'
 
 export const metadata = {
   title: 'The Revision Hub',
@@ -15,6 +16,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className="antialiased min-h-screen">
         {children}
+        <Analytics />
       </body>
     </html>
   )
