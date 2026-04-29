@@ -9,10 +9,11 @@
     "seed": "node scripts/seed.js"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "@vercel/analytics": "^2.0.1",
     "next": "15.5.15",
     "react": "^18",
-    "react-dom": "^18",
-    "@supabase/supabase-js": "^2.39.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
