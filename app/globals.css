@@ -2,17 +2,87 @@
 @tailwind components;
 @tailwind utilities;
 
+[data-theme="dark"] {
+  --bg-page: #0f0e1a;
+  --bg-card: #1c1b2e;
+  --bg-card-hover: #242338;
+  --bg-icon: rgba(167, 139, 250, 0.12);
+  --border-card: rgba(255, 255, 255, 0.07);
+  --border-card-hover: rgba(255, 255, 255, 0.13);
+  --text-heading: #c4b5fd;
+  --text-body: #f1f0ff;
+  --text-muted: #7c7a9a;
+  --text-label: #4e4c6a;
+  --accent-primary: #7f77dd;
+  --accent-primary-hover: #9088e5;
+  --accent-pill-bg: rgba(167, 139, 250, 0.12);
+  --accent-pill-border: rgba(167, 139, 250, 0.25);
+  --accent-pill-text: #c4b5fd;
+  --accent-step: #a78bfa;
+  --tips-bg: #16152a;
+  --tips-border: rgba(167, 139, 250, 0.13);
+  --tips-badge-bg: rgba(167, 139, 250, 0.1);
+  --tips-badge-border: rgba(167, 139, 250, 0.2);
+  --tips-badge-text: #c4b5fd;
+}
+
+[data-theme="light"] {
+  --bg-page: #f8f7ff;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f0effe;
+  --bg-icon: #eeedfb;
+  --border-card: #d3d1c7;
+  --border-card-hover: #afa9ec;
+  --text-heading: #26215c;
+  --text-body: #2c2c2a;
+  --text-muted: #888780;
+  --text-label: #5f5e5a;
+  --accent-primary: #534ab7;
+  --accent-primary-hover: #3c3489;
+  --accent-pill-bg: #eeedfb;
+  --accent-pill-border: #afa9ec;
+  --accent-pill-text: #3c3489;
+  --accent-step: #534ab7;
+  --tips-bg: #eeedfb;
+  --tips-border: #cecbf6;
+  --tips-badge-bg: #eeedfb;
+  --tips-badge-border: #afa9ec;
+  --tips-badge-text: #3c3489;
+}
+
+[data-theme="reading"] {
+  --bg-page: #f5f0e8;
+  --bg-card: #fffdf7;
+  --bg-card-hover: #f5f0e8;
+  --bg-icon: #ede8df;
+  --border-card: #d4c9b5;
+  --border-card-hover: #c4a96e;
+  --text-heading: #412402;
+  --text-body: #2c2c2a;
+  --text-muted: #888780;
+  --text-label: #5f5e5a;
+  --accent-primary: #854f0b;
+  --accent-primary-hover: #633806;
+  --accent-pill-bg: #ede8df;
+  --accent-pill-border: #c4a96e;
+  --accent-pill-text: #633806;
+  --accent-step: #854f0b;
+  --tips-bg: #ede8df;
+  --tips-border: #d4c9b5;
+  --tips-badge-bg: #ede8df;
+  --tips-badge-border: #c4a96e;
+  --tips-badge-text: #633806;
+}
+
 @layer base {
   html {
     min-height: 100%;
   }
 
   body {
-    background-color: #0d0c18;
-    /* warm vignette matching the original */
-    box-shadow: inset 0 0 180px rgba(110, 35, 10, 0.22);
+    background-color: var(--bg-page);
     min-height: 100vh;
-    color: #f8fafc;
+    color: var(--text-body);
   }
 }
 

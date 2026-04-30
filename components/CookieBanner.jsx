@@ -25,21 +25,32 @@ export default function CookieBanner() {
 
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 p-4">
-      <div className="max-w-2xl mx-auto bg-dark-card border border-slate-700/30 rounded-2xl px-5 py-4 flex flex-col sm:flex-row sm:items-center gap-4">
-        <p className="text-sm text-gray-300 flex-1">
+      <div
+        className="max-w-2xl mx-auto rounded-2xl px-5 py-4 flex flex-col sm:flex-row sm:items-center gap-4"
+        style={{
+          backgroundColor: 'var(--bg-card)',
+          border: '1px solid var(--border-card)',
+        }}
+      >
+        <p className="text-sm flex-1" style={{ color: 'var(--text-muted)' }}>
           We use cookies to improve your experience and remember your preferences.{' '}
-          <span className="text-gray-500">Your data is never sold.</span>
+          <span style={{ color: 'var(--text-label)' }}>Your data is never sold.</span>
         </p>
         <div className="flex gap-2 shrink-0">
           <button
             onClick={decline}
-            className="px-4 py-2 rounded-xl text-sm font-semibold bg-dark-inner hover:bg-dark-muted text-gray-400 hover:text-gray-200 transition-colors active:scale-95"
+            className="px-4 py-2 rounded-xl text-sm font-semibold transition-colors active:scale-95"
+            style={{
+              backgroundColor: 'var(--bg-card-hover)',
+              color: 'var(--text-muted)',
+            }}
           >
             Decline
           </button>
           <button
             onClick={accept}
-            className="px-4 py-2 rounded-xl text-sm font-bold bg-violet-600 hover:bg-violet-500 text-white transition-colors active:scale-95"
+            className="px-4 py-2 rounded-xl text-sm font-bold text-white transition-colors active:scale-95"
+            style={{ backgroundColor: 'var(--accent-primary)' }}
           >
             Accept All
           </button>

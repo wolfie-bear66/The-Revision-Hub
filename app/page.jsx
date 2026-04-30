@@ -1,5 +1,6 @@
 import { createClient } from '@/lib/supabase'
 import SubjectSelector from '@/components/SubjectSelector'
+import ThemeToggle from '@/components/ThemeToggle'
 
 export const dynamic = 'force-dynamic'
 
@@ -35,29 +36,35 @@ export default async function HomePage() {
     .order('name')
 
   return (
-    <main
-      className="min-h-screen px-4 py-10 flex flex-col items-center"
-      style={{ backgroundColor: '#0f0e1a' }}
-    >
+    <main className="min-h-screen px-4 py-10 flex flex-col items-center">
       <div className="w-full max-w-[390px] flex flex-col gap-6">
 
+        {/* Theme toggle */}
+        <div className="flex justify-end pt-2">
+          <ThemeToggle />
+        </div>
+
         {/* Hero */}
-        <section className="text-center flex flex-col items-center gap-3 pt-4">
+        <section className="text-center flex flex-col items-center gap-3">
           <span
             className="text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full"
-            style={{ backgroundColor: 'rgba(127,119,221,0.15)', color: '#c4b5fd' }}
+            style={{
+              backgroundColor: 'var(--accent-pill-bg)',
+              border: '1px solid var(--accent-pill-border)',
+              color: 'var(--accent-pill-text)',
+            }}
           >
             GCSE Flashcards
           </span>
-          <h1 className="text-3xl font-extrabold tracking-tight" style={{ color: '#c4b5fd' }}>
+          <h1 className="text-3xl font-extrabold tracking-tight" style={{ color: 'var(--text-heading)' }}>
             The Revision Hub
           </h1>
-          <p className="text-sm" style={{ color: '#7c7a9a' }}>Small Steps, Giant Leaps</p>
+          <p className="text-sm" style={{ color: 'var(--text-muted)' }}>Small Steps, Giant Leaps</p>
         </section>
 
         {/* How it works */}
         <section className="flex flex-col gap-3">
-          <p className="text-xs font-semibold uppercase tracking-wider" style={{ color: '#7c7a9a' }}>
+          <p className="text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-muted)' }}>
             How it works
           </p>
           {steps.map((step) => (
@@ -65,21 +72,21 @@ export default async function HomePage() {
               key={step.number}
               className="flex items-center gap-4 rounded-2xl px-4 py-3"
               style={{
-                backgroundColor: '#1c1b2e',
-                border: '1px solid rgba(255,255,255,0.07)',
+                backgroundColor: 'var(--bg-card)',
+                border: '1px solid var(--border-card)',
               }}
             >
               <div
                 className="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0"
-                style={{ backgroundColor: 'rgba(127,119,221,0.15)' }}
+                style={{ backgroundColor: 'var(--bg-icon)' }}
               >
                 {step.icon}
               </div>
               <div>
-                <p className="text-xs font-semibold" style={{ color: '#a78bfa' }}>
+                <p className="text-xs font-semibold" style={{ color: 'var(--accent-step)' }}>
                   Step {step.number}
                 </p>
-                <p className="text-sm font-medium" style={{ color: '#f1f0ff' }}>
+                <p className="text-sm font-medium" style={{ color: 'var(--text-body)' }}>
                   {step.title}
                 </p>
               </div>
@@ -91,11 +98,11 @@ export default async function HomePage() {
         <section
           className="rounded-2xl px-4 py-5 flex flex-col gap-4"
           style={{
-            backgroundColor: '#1c1b2e',
-            border: '1px solid rgba(255,255,255,0.07)',
+            backgroundColor: 'var(--bg-card)',
+            border: '1px solid var(--border-card)',
           }}
         >
-          <p className="text-sm font-semibold" style={{ color: '#f1f0ff' }}>
+          <p className="text-sm font-semibold" style={{ color: 'var(--text-body)' }}>
             What are you revising today?
           </p>
           <SubjectSelector subjects={subjects || []} />
@@ -105,7 +112,11 @@ export default async function HomePage() {
         <section className="flex flex-col gap-3">
           <span
             className="self-start text-xs font-semibold px-3 py-1 rounded-full"
-            style={{ backgroundColor: 'rgba(127,119,221,0.15)', color: '#c4b5fd' }}
+            style={{
+              backgroundColor: 'var(--tips-badge-bg)',
+              border: '1px solid var(--tips-badge-border)',
+              color: 'var(--tips-badge-text)',
+            }}
           >
             ★ Tips for success
           </span>
@@ -114,24 +125,24 @@ export default async function HomePage() {
               key={tip.label}
               className="flex items-start gap-4 rounded-2xl px-4 py-3"
               style={{
-                backgroundColor: '#1c1b2e',
-                border: '1px solid rgba(255,255,255,0.07)',
+                backgroundColor: 'var(--tips-bg)',
+                border: '1px solid var(--tips-border)',
               }}
             >
               <div
                 className="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0"
-                style={{ backgroundColor: 'rgba(127,119,221,0.15)' }}
+                style={{ backgroundColor: 'var(--bg-icon)' }}
               >
                 {tip.icon}
               </div>
               <div>
                 <p
                   className="text-xs font-semibold uppercase tracking-wide mb-0.5"
-                  style={{ color: '#a78bfa' }}
+                  style={{ color: 'var(--accent-step)' }}
                 >
                   {tip.label}
                 </p>
-                <p className="text-sm" style={{ color: '#7c7a9a' }}>
+                <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
                   {tip.text}
                 </p>
               </div>
@@ -141,7 +152,7 @@ export default async function HomePage() {
 
         {/* Footer */}
         <p className="text-center pb-6">
-          <a href="/dashboard" className="text-xs transition-colors" style={{ color: '#7c7a9a' }}>
+          <a href="/dashboard" className="text-xs transition-colors" style={{ color: 'var(--text-muted)' }}>
             Progress dashboard →
           </a>
         </p>

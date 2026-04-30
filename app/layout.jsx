@@ -1,4 +1,5 @@
 import './globals.css'
+import ThemeProvider from '../components/ThemeProvider'
 import CookieBanner from '../components/CookieBanner'
 
 export const metadata = {
@@ -13,10 +14,12 @@ export const viewport = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="dark" suppressHydrationWarning>
       <body className="antialiased min-h-screen">
-        {children}
-        <CookieBanner />
+        <ThemeProvider>
+          {children}
+          <CookieBanner />
+        </ThemeProvider>
       </body>
     </html>
   )

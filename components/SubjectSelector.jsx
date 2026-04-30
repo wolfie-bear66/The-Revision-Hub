@@ -14,15 +14,19 @@ export default function SubjectSelector({ subjects }) {
         onChange={(e) => setSelected(e.target.value)}
         className="w-full rounded-xl px-4 py-3 text-sm appearance-none"
         style={{
-          backgroundColor: '#0f0e1a',
-          border: '1px solid rgba(255,255,255,0.1)',
-          color: selected ? '#f1f0ff' : '#7c7a9a',
+          backgroundColor: 'var(--bg-page)',
+          border: '1px solid var(--border-card)',
+          color: selected ? 'var(--text-body)' : 'var(--text-muted)',
           outline: 'none',
         }}
       >
         <option value="" disabled>Choose a subject...</option>
         {subjects.map((subject) => (
-          <option key={subject.id} value={subject.slug} style={{ color: '#f1f0ff', backgroundColor: '#1c1b2e' }}>
+          <option
+            key={subject.id}
+            value={subject.slug}
+            style={{ color: 'var(--text-body)', backgroundColor: 'var(--bg-card)' }}
+          >
             {subject.name}
           </option>
         ))}
@@ -32,8 +36,8 @@ export default function SubjectSelector({ subjects }) {
         disabled={!selected}
         className="w-full py-3 rounded-xl text-sm font-semibold transition-opacity"
         style={{
-          backgroundColor: '#7f77dd',
-          color: '#f1f0ff',
+          backgroundColor: 'var(--accent-primary)',
+          color: '#ffffff',
           opacity: selected ? 1 : 0.45,
           cursor: selected ? 'pointer' : 'not-allowed',
         }}
