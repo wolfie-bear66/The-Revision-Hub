@@ -1,7 +1,31 @@
 import { createClient } from '@/lib/supabase'
-import Link from 'next/link'
+import SubjectSelector from '@/components/SubjectSelector'
 
 export const dynamic = 'force-dynamic'
+
+const steps = [
+  { icon: '📚', number: 1, title: 'Pick a subject and topic' },
+  { icon: '🔄', number: 2, title: 'Choose word → meaning or meaning → word' },
+  { icon: '✅', number: 3, title: 'Repeat to remember more' },
+]
+
+const tips = [
+  {
+    icon: '🕐',
+    label: 'Make it a habit',
+    text: 'Open the app at the same time every day — even 5 minutes helps',
+  },
+  {
+    icon: '🤫',
+    label: 'Find your spot',
+    text: 'Find a quiet place where you can concentrate',
+  },
+  {
+    icon: '🔊',
+    label: 'Use your ears',
+    text: "Tap a word to hear it read aloud if you're not sure how to say it",
+  },
+]
 
 export default async function HomePage() {
   const supabase = createClient()
@@ -11,50 +35,117 @@ export default async function HomePage() {
     .order('name')
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center px-4 py-16">
-      <div className="w-full max-w-lg">
-        {/* Header */}
-        <div className="text-center mb-10">
-          <h1 className="gradient-title text-4xl font-extrabold tracking-tight mb-2">
+    <main
+      className="min-h-screen px-4 py-10 flex flex-col items-center"
+      style={{ backgroundColor: '#0f0e1a' }}
+    >
+      <div className="w-full max-w-[390px] flex flex-col gap-6">
+
+        {/* Hero */}
+        <section className="text-center flex flex-col items-center gap-3 pt-4">
+          <span
+            className="text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full"
+            style={{ backgroundColor: 'rgba(127,119,221,0.15)', color: '#c4b5fd' }}
+          >
+            GCSE Flashcards
+          </span>
+          <h1 className="text-3xl font-extrabold tracking-tight" style={{ color: '#c4b5fd' }}>
             The Revision Hub
           </h1>
-          <p className="text-gray-500 text-sm">GCSE Revision Flashcards</p>
-        </div>
+          <p className="text-sm" style={{ color: '#7c7a9a' }}>Small Steps, Giant Leaps</p>
+        </section>
 
-        {/* Subject grid */}
-        {subjects && subjects.length > 0 ? (
-          <div className="grid grid-cols-2 gap-3">
-            {subjects.map((subject) => (
-              <Link
-                key={subject.id}
-                href={`/${subject.slug}`}
-                className="bg-dark-card border border-slate-700/30 rounded-2xl p-5 hover:bg-dark-muted transition-colors group"
+        {/* How it works */}
+        <section className="flex flex-col gap-3">
+          <p className="text-xs font-semibold uppercase tracking-wider" style={{ color: '#7c7a9a' }}>
+            How it works
+          </p>
+          {steps.map((step) => (
+            <div
+              key={step.number}
+              className="flex items-center gap-4 rounded-2xl px-4 py-3"
+              style={{
+                backgroundColor: '#1c1b2e',
+                border: '1px solid rgba(255,255,255,0.07)',
+              }}
+            >
+              <div
+                className="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0"
+                style={{ backgroundColor: 'rgba(127,119,221,0.15)' }}
               >
-                <div
-                  className="w-3 h-3 rounded-full mb-3"
-                  style={{ backgroundColor: subject.colour || '#818cf8' }}
-                />
-                <p className="text-white font-semibold text-sm group-hover:text-slate-200">
-                  {subject.name}
+                {step.icon}
+              </div>
+              <div>
+                <p className="text-xs font-semibold" style={{ color: '#a78bfa' }}>
+                  Step {step.number}
                 </p>
-              </Link>
-            ))}
-          </div>
-        ) : (
-          <div className="bg-dark-card border border-slate-700/30 rounded-2xl p-10 text-center">
-            <p className="text-gray-500 text-sm">No subjects yet.</p>
-            <p className="text-gray-600 text-xs mt-1">
-              Run <code className="text-indigo-400">npm run seed</code> to load content.
-            </p>
-          </div>
-        )}
+                <p className="text-sm font-medium" style={{ color: '#f1f0ff' }}>
+                  {step.title}
+                </p>
+              </div>
+            </div>
+          ))}
+        </section>
 
-        {/* Footer link */}
-        <p className="text-center mt-10">
-          <Link href="/dashboard" className="text-xs text-gray-600 hover:text-gray-400 transition-colors">
+        {/* Subject selector */}
+        <section
+          className="rounded-2xl px-4 py-5 flex flex-col gap-4"
+          style={{
+            backgroundColor: '#1c1b2e',
+            border: '1px solid rgba(255,255,255,0.07)',
+          }}
+        >
+          <p className="text-sm font-semibold" style={{ color: '#f1f0ff' }}>
+            What are you revising today?
+          </p>
+          <SubjectSelector subjects={subjects || []} />
+        </section>
+
+        {/* Tips for success */}
+        <section className="flex flex-col gap-3">
+          <span
+            className="self-start text-xs font-semibold px-3 py-1 rounded-full"
+            style={{ backgroundColor: 'rgba(127,119,221,0.15)', color: '#c4b5fd' }}
+          >
+            ★ Tips for success
+          </span>
+          {tips.map((tip) => (
+            <div
+              key={tip.label}
+              className="flex items-start gap-4 rounded-2xl px-4 py-3"
+              style={{
+                backgroundColor: '#1c1b2e',
+                border: '1px solid rgba(255,255,255,0.07)',
+              }}
+            >
+              <div
+                className="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0"
+                style={{ backgroundColor: 'rgba(127,119,221,0.15)' }}
+              >
+                {tip.icon}
+              </div>
+              <div>
+                <p
+                  className="text-xs font-semibold uppercase tracking-wide mb-0.5"
+                  style={{ color: '#a78bfa' }}
+                >
+                  {tip.label}
+                </p>
+                <p className="text-sm" style={{ color: '#7c7a9a' }}>
+                  {tip.text}
+                </p>
+              </div>
+            </div>
+          ))}
+        </section>
+
+        {/* Footer */}
+        <p className="text-center pb-6">
+          <a href="/dashboard" className="text-xs transition-colors" style={{ color: '#7c7a9a' }}>
             Progress dashboard →
-          </Link>
+          </a>
         </p>
+
       </div>
     </main>
   )
