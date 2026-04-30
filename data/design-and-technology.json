@@ -1,0 +1,241 @@
+{
+  "subject": {
+    "name": "Design and Technology",
+    "slug": "design-and-technology",
+    "colour": "#64748b"
+  },
+  "topics": [
+    {
+      "name": "Materials and their Properties",
+      "paper": "Written Exam",
+      "display_order": 1,
+      "exam_board": "AQA",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Materials and their Properties (1)",
+          "cards": [
+            { "keyword": "Ferrous metal", "definition": "A metal containing iron, such as steel and cast iron; generally magnetic and prone to rusting.", "display_order": 1 },
+            { "keyword": "Non-ferrous metal", "definition": "A metal that does not contain iron, such as aluminium, copper and brass; generally resistant to corrosion.", "display_order": 2 },
+            { "keyword": "Alloy", "definition": "A mixture of two or more elements, at least one of which is a metal, to improve properties; e.g. steel (iron + carbon).", "display_order": 3 },
+            { "keyword": "Thermoplastic", "definition": "A plastic that can be repeatedly heated and reshaped; examples include PET, ABS, acrylic and nylon.", "display_order": 4 },
+            { "keyword": "Thermosetting plastic", "definition": "A plastic that sets permanently when heated and cannot be reshaped; examples include melamine, epoxy resin and urea formaldehyde.", "display_order": 5 },
+            { "keyword": "Hardwood", "definition": "Timber from broad-leaved, deciduous trees, e.g. oak, mahogany and beech; generally denser and slower growing than softwood.", "display_order": 6 },
+            { "keyword": "Softwood", "definition": "Timber from coniferous, evergreen trees, e.g. pine, spruce and fir; generally less dense and faster growing than hardwood.", "display_order": 7 },
+            { "keyword": "Composite material", "definition": "A material made from two or more constituent materials with different properties, e.g. glass-reinforced plastic (GRP) or MDF.", "display_order": 8 },
+            { "keyword": "Smart material", "definition": "A material that responds to changes in its environment, such as thermochromic ink (changes colour with temperature) or shape memory alloy.", "display_order": 9 },
+            { "keyword": "Modern material", "definition": "A material developed through new technologies, such as graphene, Kevlar or conductive thread, offering enhanced performance.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Materials and their Properties (2)",
+          "cards": [
+            { "keyword": "Tensile strength", "definition": "The maximum stress a material can withstand when being stretched or pulled before breaking.", "display_order": 1 },
+            { "keyword": "Compressive strength", "definition": "The ability of a material to withstand forces that push or compress it without breaking or deforming.", "display_order": 2 },
+            { "keyword": "Hardness", "definition": "A material's ability to resist scratching, indentation or wear.", "display_order": 3 },
+            { "keyword": "Malleability", "definition": "The ability of a material to be hammered, pressed or rolled into shape without cracking.", "display_order": 4 },
+            { "keyword": "Ductility", "definition": "The ability of a material to be drawn out into a wire or thread without breaking.", "display_order": 5 },
+            { "keyword": "Toughness", "definition": "A material's ability to absorb energy and resist fracturing when subjected to impact or shock forces.", "display_order": 6 },
+            { "keyword": "Elasticity", "definition": "The ability of a material to return to its original shape after a deforming force is removed.", "display_order": 7 },
+            { "keyword": "Conductivity (thermal)", "definition": "The ability of a material to transfer heat; metals are good thermal conductors, wood and plastics are insulators.", "display_order": 8 },
+            { "keyword": "Electrical conductivity", "definition": "The ability of a material to carry an electric current; copper and aluminium are good conductors, plastics are insulators.", "display_order": 9 },
+            { "keyword": "Density", "definition": "Mass per unit volume; a key property when selecting materials for lightweight or load-bearing applications.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Materials and their Properties (3)",
+          "cards": [
+            { "keyword": "Natural fibres", "definition": "Textile fibres obtained from plants or animals, e.g. cotton (plant), wool and silk (animal).", "display_order": 1 },
+            { "keyword": "Synthetic fibres", "definition": "Textile fibres made from chemical processes, typically derived from petrochemicals, e.g. polyester, nylon and acrylic.", "display_order": 2 },
+            { "keyword": "Woven fabric", "definition": "Fabric produced by interlacing warp and weft threads at right angles on a loom; durable and relatively non-stretch.", "display_order": 3 },
+            { "keyword": "Knitted fabric", "definition": "Fabric produced by interlocking loops of yarn; stretchy and comfortable, used in clothing and sportswear.", "display_order": 4 },
+            { "keyword": "Non-woven fabric", "definition": "Fabric made by bonding fibres together by heat, pressure or adhesive rather than weaving; e.g. felt and interfacing.", "display_order": 5 },
+            { "keyword": "Surface finish (metals)", "definition": "Treatment applied to a metal surface to protect or decorate it, e.g. painting, galvanising, anodising or electroplating.", "display_order": 6 },
+            { "keyword": "Surface finish (wood)", "definition": "Treatment applied to protect or enhance wood, e.g. varnish, lacquer, wax, paint or oil.", "display_order": 7 },
+            { "keyword": "Seasoning (timber)", "definition": "The process of drying wood to reduce its moisture content before use, preventing warping and splitting.", "display_order": 8 },
+            { "keyword": "Laminating", "definition": "Bonding layers of material together to improve strength or appearance, e.g. laminated timber beams or laminated plastics.", "display_order": 9 },
+            { "keyword": "Electronic components", "definition": "Individual parts used to build electronic circuits, including resistors, capacitors, diodes, transistors and LEDs.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Design Processes",
+      "paper": "Written Exam",
+      "display_order": 2,
+      "exam_board": "AQA",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Design Processes (1)",
+          "cards": [
+            { "keyword": "Design brief", "definition": "A short statement that outlines the problem a designer must solve and the purpose of the product to be designed.", "display_order": 1 },
+            { "keyword": "Design specification", "definition": "A detailed list of criteria that the final product must meet, covering function, size, materials, cost and target user.", "display_order": 2 },
+            { "keyword": "Iterative design", "definition": "A cyclical process of designing, prototyping, testing and refining, repeating the cycle until the best solution is reached.", "display_order": 3 },
+            { "keyword": "Ergonomics", "definition": "Designing products to fit the human body and its capabilities, making them comfortable, safe and efficient to use.", "display_order": 4 },
+            { "keyword": "Anthropometrics", "definition": "Data about human body dimensions and proportions used to ensure products are the right size for the intended user.", "display_order": 5 },
+            { "keyword": "User-centred design", "definition": "A design approach that keeps the needs, wants and limitations of the end user at the centre of every design decision.", "display_order": 6 },
+            { "keyword": "Prototype", "definition": "An early model or sample of a product built to test and evaluate a design concept before full production.", "display_order": 7 },
+            { "keyword": "Modelling", "definition": "Creating a physical or digital representation of a design to test ideas, proportions and functionality before manufacture.", "display_order": 8 },
+            { "keyword": "CAD (Computer-Aided Design)", "definition": "Using software to create, modify, analyse and optimise a design; allows accurate 2D drawings and 3D models.", "display_order": 9 },
+            { "keyword": "Mood board", "definition": "A visual collage of images, colours, textures and materials used to communicate the aesthetic direction of a design.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Design Processes (2)",
+          "cards": [
+            { "keyword": "Market research", "definition": "Gathering information about the needs and preferences of potential customers to inform product design decisions.", "display_order": 1 },
+            { "keyword": "Primary research", "definition": "Original data collected first-hand by the designer through methods such as surveys, interviews and observations.", "display_order": 2 },
+            { "keyword": "Secondary research", "definition": "Data gathered from existing sources such as books, websites and reports, rather than collected directly by the designer.", "display_order": 3 },
+            { "keyword": "Target market", "definition": "The specific group of people a product is designed for, defined by characteristics such as age, lifestyle and income.", "display_order": 4 },
+            { "keyword": "Aesthetic", "definition": "Relating to the visual appearance and style of a product; how it looks and whether it appeals to the target user.", "display_order": 5 },
+            { "keyword": "Function", "definition": "What a product is designed to do; a primary criterion in any design specification.", "display_order": 6 },
+            { "keyword": "Evaluation", "definition": "Testing and assessing a product against the design specification to identify how well it meets its criteria.", "display_order": 7 },
+            { "keyword": "Design for manufacture (DFM)", "definition": "Designing products so they can be produced efficiently, cost-effectively and with minimal waste.", "display_order": 8 },
+            { "keyword": "Intellectual property (IP)", "definition": "Legal protection for creative work, including patents (inventions), trademarks (brands) and copyright (artistic works).", "display_order": 9 },
+            { "keyword": "British Standards (BS)", "definition": "Official standards produced by the British Standards Institution (BSI) to ensure products are safe, reliable and fit for purpose.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manufacturing Techniques",
+      "paper": "Written Exam",
+      "display_order": 3,
+      "exam_board": "AQA",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Manufacturing Techniques (1)",
+          "cards": [
+            { "keyword": "Wasting process", "definition": "A manufacturing method that involves removing material from a workpiece, e.g. cutting, drilling, filing and turning.", "display_order": 1 },
+            { "keyword": "Forming process", "definition": "A manufacturing method that reshapes material without removing it, e.g. bending, pressing, casting and forging.", "display_order": 2 },
+            { "keyword": "Additive process", "definition": "A manufacturing method that builds up a product by adding material, e.g. 3D printing and welding.", "display_order": 3 },
+            { "keyword": "Casting", "definition": "A process where liquid material (e.g. molten metal) is poured into a mould and allowed to solidify into shape.", "display_order": 4 },
+            { "keyword": "Injection moulding", "definition": "A process where molten plastic is injected under pressure into a mould and cooled to produce a component; used for high-volume production.", "display_order": 5 },
+            { "keyword": "Vacuum forming", "definition": "A process where a sheet of thermoplastic is heated until soft and then drawn over a mould using suction.", "display_order": 6 },
+            { "keyword": "Blow moulding", "definition": "A process used to produce hollow plastic items by inflating a heated plastic tube inside a mould, e.g. bottles.", "display_order": 7 },
+            { "keyword": "Extrusion", "definition": "A process where material is pushed through a shaped die to produce a continuous length of a fixed cross-section, e.g. plastic pipes.", "display_order": 8 },
+            { "keyword": "Laser cutting", "definition": "A CNC process that uses a focused laser beam to cut or engrave materials; accurate and suitable for prototyping and production.", "display_order": 9 },
+            { "keyword": "3D printing (FDM)", "definition": "Fused Deposition Modelling; an additive manufacturing process that builds objects layer by layer from a thermoplastic filament.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Manufacturing Techniques (2)",
+          "cards": [
+            { "keyword": "CNC machining", "definition": "Computer Numerical Control — automated machine tools controlled by computer programs to cut, drill or shape materials accurately.", "display_order": 1 },
+            { "keyword": "Milling", "definition": "A machining process that uses a rotating cutter to remove material from a workpiece to produce complex shapes and flat surfaces.", "display_order": 2 },
+            { "keyword": "Turning (lathe)", "definition": "A machining process where a workpiece is rotated while a cutting tool removes material to produce cylindrical shapes.", "display_order": 3 },
+            { "keyword": "Drilling", "definition": "Creating holes in a material using a rotating drill bit; the most common manufacturing operation.", "display_order": 4 },
+            { "keyword": "Welding", "definition": "Joining metal components by melting the materials at the joint, usually with a filler metal, to form a strong bond.", "display_order": 5 },
+            { "keyword": "Soldering", "definition": "Joining metal components using a lower-melting-point filler (solder) without melting the base metal; used in electronics.", "display_order": 6 },
+            { "keyword": "Brazing", "definition": "Joining metals using a brass-based filler metal at a higher temperature than soldering but lower than welding.", "display_order": 7 },
+            { "keyword": "Adhesive bonding", "definition": "Joining materials using glue or adhesive; types include PVA (wood), epoxy resin (metals/plastics) and contact adhesives.", "display_order": 8 },
+            { "keyword": "Press fitting / mechanical fasteners", "definition": "Joining components using screws, nuts and bolts, rivets or snap-fits — methods that are often non-permanent and allow disassembly.", "display_order": 9 },
+            { "keyword": "Quality control (QC)", "definition": "Checking products during and after manufacture against specifications to ensure they meet required standards, using gauges and inspection.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "block_name": "Manufacturing Techniques (3)",
+          "cards": [
+            { "keyword": "One-off production", "definition": "Manufacturing a single, unique item to a customer's specification; highly skilled and expensive, e.g. bespoke furniture.", "display_order": 1 },
+            { "keyword": "Batch production", "definition": "Making a specific quantity of identical products in one run before switching to a different product; flexible and cost-effective.", "display_order": 2 },
+            { "keyword": "Mass production", "definition": "Manufacturing large quantities of the same product continuously using automated machinery; low unit cost but inflexible.", "display_order": 3 },
+            { "keyword": "Continuous production", "definition": "Non-stop manufacturing of the same product 24/7, e.g. steel rolling or paper making; used for commodities.", "display_order": 4 },
+            { "keyword": "Jig", "definition": "A device that holds a workpiece in place and guides a cutting tool to ensure accurate and repeatable operations.", "display_order": 5 },
+            { "keyword": "Template", "definition": "A pattern or shape used to mark out or check a component to ensure accurate replication.", "display_order": 6 },
+            { "keyword": "Tolerance", "definition": "The acceptable variation in the size of a manufactured component above or below a stated dimension.", "display_order": 7 },
+            { "keyword": "CAM (Computer-Aided Manufacture)", "definition": "Using computer software to control manufacturing machinery, e.g. CNC routers, laser cutters and 3D printers.", "display_order": 8 },
+            { "keyword": "Planned obsolescence", "definition": "Designing a product with a deliberately limited lifespan to encourage consumers to buy replacements.", "display_order": 9 },
+            { "keyword": "Lean manufacturing", "definition": "A production philosophy that aims to minimise waste (time, materials and effort) while maximising value and efficiency.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics and Systems",
+      "paper": "Written Exam",
+      "display_order": 4,
+      "exam_board": "AQA",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Electronics and Systems (1)",
+          "cards": [
+            { "keyword": "System", "definition": "A set of connected parts that work together to perform a function; described using input, process and output.", "display_order": 1 },
+            { "keyword": "Input", "definition": "A signal or component that provides data or energy into a system, e.g. a switch, sensor or microphone.", "display_order": 2 },
+            { "keyword": "Process", "definition": "The part of a system that receives the input signal and performs an operation on it, e.g. a microcontroller or timer.", "display_order": 3 },
+            { "keyword": "Output", "definition": "The result or action produced by a system, e.g. a light, buzzer, motor or display.", "display_order": 4 },
+            { "keyword": "Resistor", "definition": "A component that limits the flow of electric current in a circuit; measured in ohms (Ω).", "display_order": 5 },
+            { "keyword": "Capacitor", "definition": "A component that stores electrical charge and releases it; used for smoothing, timing and filtering in circuits.", "display_order": 6 },
+            { "keyword": "LED (Light Emitting Diode)", "definition": "A semiconductor device that emits light when current flows through it in the correct direction.", "display_order": 7 },
+            { "keyword": "Transistor", "definition": "A semiconductor device used to amplify or switch electronic signals; fundamental to modern electronics.", "display_order": 8 },
+            { "keyword": "Microcontroller", "definition": "A small computer on a single chip that can be programmed to control inputs and outputs; e.g. Arduino.", "display_order": 9 },
+            { "keyword": "Sensor", "definition": "An electronic input device that detects changes in the environment (light, temperature, sound) and converts them to electrical signals.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Electronics and Systems (2)",
+          "cards": [
+            { "keyword": "Ohm's Law", "definition": "V = IR; the voltage across a component equals the current through it multiplied by its resistance.", "display_order": 1 },
+            { "keyword": "Series circuit", "definition": "A circuit in which components are connected one after another in a single path; current is the same throughout.", "display_order": 2 },
+            { "keyword": "Parallel circuit", "definition": "A circuit in which components are connected across the same two points; voltage is the same across each branch.", "display_order": 3 },
+            { "keyword": "PCB (Printed Circuit Board)", "definition": "A board that mechanically supports and electrically connects electronic components using conductive tracks.", "display_order": 4 },
+            { "keyword": "Logic gate", "definition": "An electronic switch that performs a logical operation (AND, OR, NOT) on one or more binary inputs to produce an output.", "display_order": 5 },
+            { "keyword": "Feedback", "definition": "Using information from the output of a system to adjust the input and improve or stabilise the system's performance.", "display_order": 6 },
+            { "keyword": "Programmable component", "definition": "An electronic component that can be programmed to perform specific tasks, such as a microcontroller or PIC chip.", "display_order": 7 },
+            { "keyword": "Actuator", "definition": "A device that converts an electrical signal into a physical action, such as a motor, solenoid or servo.", "display_order": 8 },
+            { "keyword": "Voltage divider", "definition": "A circuit using two resistors in series to produce an output voltage that is a fraction of the input voltage.", "display_order": 9 },
+            { "keyword": "Internet of Things (IoT)", "definition": "A network of physical devices embedded with sensors and software that connect and exchange data over the internet.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sustainability and Society",
+      "paper": "Written Exam",
+      "display_order": 5,
+      "exam_board": "AQA",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Sustainability and Society (1)",
+          "cards": [
+            { "keyword": "Sustainable design", "definition": "Designing products that minimise environmental impact throughout their lifecycle, from material extraction to disposal.", "display_order": 1 },
+            { "keyword": "Life cycle assessment (LCA)", "definition": "An evaluation of the environmental impact of a product at every stage of its life: extraction, manufacture, use and disposal.", "display_order": 2 },
+            { "keyword": "6 Rs of sustainability", "definition": "A framework for sustainable design: Reduce, Reuse, Recycle, Rethink, Refuse and Repair.", "display_order": 3 },
+            { "keyword": "Carbon footprint", "definition": "The total amount of greenhouse gases produced during the manufacture, transport, use and disposal of a product.", "display_order": 4 },
+            { "keyword": "Finite resources", "definition": "Natural resources that exist in limited quantities and cannot be replaced once used, e.g. oil, coal and metal ores.", "display_order": 5 },
+            { "keyword": "Renewable resources", "definition": "Materials or energy sources that are naturally replenished, e.g. timber from managed forests and solar energy.", "display_order": 6 },
+            { "keyword": "Fair trade", "definition": "A trading system ensuring workers in developing countries receive fair wages and safe conditions for producing goods.", "display_order": 7 },
+            { "keyword": "Design for disassembly", "definition": "Designing products so components can be easily separated at end-of-life for reuse, recycling or safe disposal.", "display_order": 8 },
+            { "keyword": "Circular economy", "definition": "An economic model designed to eliminate waste by keeping materials in use as long as possible through reuse and recycling.", "display_order": 9 },
+            { "keyword": "Planned obsolescence", "definition": "Intentionally designing products to become outdated or fail after a set period, driving repeat purchases at an environmental cost.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Sustainability and Society (2)",
+          "cards": [
+            { "keyword": "Social, moral and ethical issues", "definition": "Considerations about the impact of design and manufacturing on people, communities and values, e.g. exploitation of workers or cultural sensitivity.", "display_order": 1 },
+            { "keyword": "Inclusive design", "definition": "Designing products usable by as many people as possible regardless of age, disability or other factors.", "display_order": 2 },
+            { "keyword": "Globalisation", "definition": "The process by which businesses and products operate internationally; enables cheaper production but may exploit low-wage economies.", "display_order": 3 },
+            { "keyword": "Cultural influences on design", "definition": "How the traditions, values and aesthetics of different cultures shape the style and function of designed products.", "display_order": 4 },
+            { "keyword": "Regulation and legislation", "definition": "Laws and standards that designers and manufacturers must comply with, e.g. CE marking, REACH regulations and the Health & Safety at Work Act.", "display_order": 5 },
+            { "keyword": "Product safety standards", "definition": "Requirements that products must meet to be considered safe for sale and use, enforced by bodies such as the BSI and Trading Standards.", "display_order": 6 },
+            { "keyword": "Recycling symbols", "definition": "International symbols on packaging and products indicating the material type and whether it is recyclable.", "display_order": 7 },
+            { "keyword": "Upcycling", "definition": "Transforming waste materials or old products into something of higher quality or value rather than simply recycling.", "display_order": 8 },
+            { "keyword": "Cradle-to-grave", "definition": "A model that considers all impacts of a product from raw material extraction ('cradle') to disposal ('grave').", "display_order": 9 },
+            { "keyword": "Cradle-to-cradle", "definition": "A design philosophy where all materials are cycled back safely into the environment or industry at end-of-life, eliminating waste.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

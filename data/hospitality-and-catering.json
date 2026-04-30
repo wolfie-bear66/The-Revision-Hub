@@ -1,0 +1,241 @@
+{
+  "subject": {
+    "name": "Hospitality and Catering",
+    "slug": "hospitality-and-catering",
+    "colour": "#f97316"
+  },
+  "topics": [
+    {
+      "name": "The Hospitality and Catering Industry",
+      "paper": "Unit 1",
+      "display_order": 1,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "The Hospitality and Catering Industry (1)",
+          "cards": [
+            { "keyword": "Hospitality", "definition": "The provision of food, drink, accommodation and entertainment to guests, customers or visitors.", "display_order": 1 },
+            { "keyword": "Catering", "definition": "The business of providing food and drink at events, in institutions, or at commercial establishments.", "display_order": 2 },
+            { "keyword": "Commercial sector", "definition": "Hospitality and catering businesses that operate to make a profit, e.g. restaurants, hotels and fast-food chains.", "display_order": 3 },
+            { "keyword": "Non-commercial sector", "definition": "Hospitality and catering provision not primarily run for profit, e.g. hospitals, schools and care homes.", "display_order": 4 },
+            { "keyword": "Front of house", "definition": "The area of a hospitality business where customers are served, including reception, dining room and bar.", "display_order": 5 },
+            { "keyword": "Back of house", "definition": "The area of a hospitality business not visible to customers, including kitchens, stores and offices.", "display_order": 6 },
+            { "keyword": "Table d'hôte", "definition": "A set menu offering a limited number of courses at a fixed price, commonly used in restaurants and hotels.", "display_order": 7 },
+            { "keyword": "À la carte", "definition": "A menu where each dish is individually priced and customers choose from a wide selection.", "display_order": 8 },
+            { "keyword": "Hospitality job roles", "definition": "Positions within the industry range from executive chef and hotel manager to waiting staff and kitchen porter.", "display_order": 9 },
+            { "keyword": "Customer service", "definition": "The assistance and experience provided to customers before, during and after their visit to ensure satisfaction.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "The Hospitality and Catering Industry (2)",
+          "cards": [
+            { "keyword": "Mise en place", "definition": "French for 'putting in place'; the preparation of ingredients, equipment and the kitchen before service begins.", "display_order": 1 },
+            { "keyword": "Gross profit", "definition": "Revenue minus the cost of food and drink sold; a key measure of a catering business's profitability.", "display_order": 2 },
+            { "keyword": "Portion control", "definition": "Measuring or standardising the amount of food served per customer to control costs and ensure consistency.", "display_order": 3 },
+            { "keyword": "Wastage", "definition": "Food or ingredients that are discarded or spoiled, increasing costs and reducing profitability.", "display_order": 4 },
+            { "keyword": "Seasonal menu", "definition": "A menu that changes according to the time of year, featuring ingredients that are in season and therefore fresher and cheaper.", "display_order": 5 },
+            { "keyword": "Hospitality trends", "definition": "Current developments in the industry such as plant-based menus, sustainable sourcing, technology ordering and health-conscious dining.", "display_order": 6 },
+            { "keyword": "Franchise", "definition": "A business model where an operator runs a branch under an established brand's name and systems, e.g. McDonald's.", "display_order": 7 },
+            { "keyword": "Sole trader", "definition": "A business owned and run by one person who takes all the profits and bears all the risks.", "display_order": 8 },
+            { "keyword": "Staffing levels", "definition": "The number of employees needed to operate a hospitality business efficiently at different times of day or year.", "display_order": 9 },
+            { "keyword": "Trading hours", "definition": "The hours during which a hospitality business is open to customers; affects staffing, supplies and profitability.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food Safety and Hygiene",
+      "paper": "Unit 1",
+      "display_order": 2,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Food Safety and Hygiene (1)",
+          "cards": [
+            { "keyword": "Food poisoning", "definition": "Illness caused by eating contaminated food, typically producing symptoms such as nausea, vomiting and diarrhoea.", "display_order": 1 },
+            { "keyword": "Bacteria", "definition": "Microscopic organisms that can multiply rapidly in food and cause food poisoning; examples include Salmonella and E. coli.", "display_order": 2 },
+            { "keyword": "Danger zone", "definition": "The temperature range between 5°C and 63°C in which bacteria multiply most rapidly in food.", "display_order": 3 },
+            { "keyword": "Cross-contamination", "definition": "The transfer of harmful bacteria from one food or surface to another, often via hands, equipment or raw meat.", "display_order": 4 },
+            { "keyword": "Personal hygiene", "definition": "Practices that prevent contamination of food, including handwashing, wearing clean protective clothing and covering cuts.", "display_order": 5 },
+            { "keyword": "HACCP", "definition": "Hazard Analysis and Critical Control Points; a food safety management system that identifies and controls hazards in food production.", "display_order": 6 },
+            { "keyword": "Critical control point (CCP)", "definition": "A step in food preparation where a hazard can be controlled or eliminated, e.g. cooking to a safe core temperature.", "display_order": 7 },
+            { "keyword": "High-risk food", "definition": "Foods that support the rapid growth of bacteria, such as cooked meat, dairy products, seafood and cooked rice.", "display_order": 8 },
+            { "keyword": "Food poisoning bacteria", "definition": "Common causes include Salmonella (poultry), Campylobacter (chicken), Listeria (soft cheese) and Staphylococcus aureus (skin contact).", "display_order": 9 },
+            { "keyword": "Safe core temperature", "definition": "The internal temperature food must reach to destroy harmful bacteria; typically 75°C for at least 2 minutes.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Food Safety and Hygiene (2)",
+          "cards": [
+            { "keyword": "Food Hygiene Regulations", "definition": "UK law (based on EU Regulation 852/2004) requiring food businesses to ensure food is produced, handled and stored safely.", "display_order": 1 },
+            { "keyword": "Environmental Health Officer (EHO)", "definition": "A local authority inspector who checks that food businesses comply with food safety and hygiene legislation.", "display_order": 2 },
+            { "keyword": "Food Standards Agency (FSA)", "definition": "The government body responsible for food safety and hygiene standards in the UK.", "display_order": 3 },
+            { "keyword": "Food Hygiene Rating Scheme", "definition": "A public rating (0–5 stars) given to food businesses after EHO inspection, displayed to inform consumers.", "display_order": 4 },
+            { "keyword": "Stock rotation (FIFO)", "definition": "First In, First Out — using older stock before newer deliveries to reduce wastage and ensure freshness.", "display_order": 5 },
+            { "keyword": "Use-by date", "definition": "The date after which a food product should not be eaten due to food safety risks; a legal requirement on high-risk foods.", "display_order": 6 },
+            { "keyword": "Best before date", "definition": "The date up to which a food product is at its best quality; after this date it may be safe but of lower quality.", "display_order": 7 },
+            { "keyword": "Pest control", "definition": "Measures to prevent or eliminate pests such as rats, mice and insects from food premises to avoid contamination.", "display_order": 8 },
+            { "keyword": "Temperature probe", "definition": "A calibrated thermometer inserted into food to check its core temperature has reached a safe level.", "display_order": 9 },
+            { "keyword": "Cleaning schedule", "definition": "A written plan specifying what surfaces or equipment must be cleaned, how, and how often, to maintain hygienic premises.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nutrition and Health",
+      "paper": "Unit 1",
+      "display_order": 3,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Nutrition and Health (1)",
+          "cards": [
+            { "keyword": "Macronutrients", "definition": "Nutrients needed in large amounts for energy and body function: carbohydrates, proteins and fats.", "display_order": 1 },
+            { "keyword": "Micronutrients", "definition": "Vitamins and minerals needed in small amounts for health; they do not provide energy but support body functions.", "display_order": 2 },
+            { "keyword": "Protein", "definition": "A macronutrient needed for growth, repair and maintenance of body tissues; found in meat, fish, eggs, pulses and dairy.", "display_order": 3 },
+            { "keyword": "Carbohydrate", "definition": "The body's main energy source; divided into simple sugars (quick energy) and complex starches (slow-release energy).", "display_order": 4 },
+            { "keyword": "Fat", "definition": "A macronutrient providing energy, insulation and fat-soluble vitamins; saturated fats are linked to heart disease.", "display_order": 5 },
+            { "keyword": "Fibre (NSP)", "definition": "Non-starch polysaccharide; aids digestion and helps prevent constipation and bowel disease.", "display_order": 6 },
+            { "keyword": "Vitamin C", "definition": "A water-soluble vitamin essential for the immune system and iron absorption; found in citrus fruits and vegetables.", "display_order": 7 },
+            { "keyword": "Vitamin D", "definition": "A fat-soluble vitamin needed for calcium absorption and bone health; obtained from sunlight, oily fish and eggs.", "display_order": 8 },
+            { "keyword": "Iron", "definition": "A mineral needed for haemoglobin in red blood cells; deficiency causes anaemia. Found in red meat, spinach and lentils.", "display_order": 9 },
+            { "keyword": "Calcium", "definition": "A mineral essential for strong bones and teeth and for nerve and muscle function; found in dairy, fortified plant milks and leafy greens.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Nutrition and Health (2)",
+          "cards": [
+            { "keyword": "Eatwell Guide", "definition": "A UK government guide showing the proportions of different food groups needed for a balanced diet.", "display_order": 1 },
+            { "keyword": "Reference Nutrient Intake (RNI)", "definition": "The amount of a nutrient that is sufficient to meet the needs of most of the population.", "display_order": 2 },
+            { "keyword": "Obesity", "definition": "A medical condition caused by excessive body fat, linked to overconsumption of energy-dense foods and insufficient activity.", "display_order": 3 },
+            { "keyword": "Type 2 diabetes", "definition": "A condition where the body cannot regulate blood sugar effectively, often linked to poor diet and obesity.", "display_order": 4 },
+            { "keyword": "Cardiovascular disease", "definition": "Diseases of the heart and blood vessels, often linked to high saturated fat and salt intake.", "display_order": 5 },
+            { "keyword": "Vegetarian diet", "definition": "A diet that excludes meat and fish; must be carefully planned to ensure adequate protein, iron and B12.", "display_order": 6 },
+            { "keyword": "Vegan diet", "definition": "A diet excluding all animal products; requires careful planning for protein, iron, calcium, vitamin B12 and vitamin D.", "display_order": 7 },
+            { "keyword": "Food intolerance", "definition": "An adverse reaction to a specific food that does not involve the immune system, e.g. lactose intolerance.", "display_order": 8 },
+            { "keyword": "Food allergy", "definition": "An immune system reaction to a food protein; the 14 major allergens include nuts, gluten, dairy and shellfish.", "display_order": 9 },
+            { "keyword": "Nutritional labelling", "definition": "Information on food packaging showing energy, fat, saturated fat, carbohydrate, sugar, protein and salt content per 100g.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Menu Planning",
+      "paper": "Unit 2",
+      "display_order": 4,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Menu Planning (1)",
+          "cards": [
+            { "keyword": "Target market", "definition": "The specific group of customers a business aims to serve, e.g. families, business clients or health-conscious diners.", "display_order": 1 },
+            { "keyword": "Dietary requirements", "definition": "The nutritional needs or food restrictions of a customer, such as allergies, intolerances, or religious and ethical preferences.", "display_order": 2 },
+            { "keyword": "Costing a dish", "definition": "Calculating the cost of all ingredients used in a recipe to determine the selling price and profit margin.", "display_order": 3 },
+            { "keyword": "Selling price", "definition": "The price a customer pays for a dish; must cover ingredient costs, overheads, staff and profit.", "display_order": 4 },
+            { "keyword": "Food cost percentage", "definition": "The ratio of ingredient cost to selling price, expressed as a percentage; typically 25–35% in the catering industry.", "display_order": 5 },
+            { "keyword": "Nutritional balance", "definition": "Ensuring that a menu offers dishes that together provide a range of macro and micronutrients for a healthy diet.", "display_order": 6 },
+            { "keyword": "Colour and presentation", "definition": "Using a variety of colours and plating techniques to make dishes visually appealing and professional-looking.", "display_order": 7 },
+            { "keyword": "Complementary flavours", "definition": "Flavours that work well together, e.g. lemon with fish, or mint with lamb, to create a balanced dish.", "display_order": 8 },
+            { "keyword": "Texture contrast", "definition": "Combining different textures in a dish (e.g. crunchy croutons on smooth soup) to add variety and interest.", "display_order": 9 },
+            { "keyword": "Cooking method variety", "definition": "Offering dishes prepared by different methods (roasting, steaming, grilling) to give customers range and avoid repetition.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Menu Planning (2)",
+          "cards": [
+            { "keyword": "Special dietary menus", "definition": "Menus that cater for specific needs such as gluten-free, halal, kosher, vegan or low-calorie requirements.", "display_order": 1 },
+            { "keyword": "Allergen information", "definition": "Businesses must clearly declare the 14 major allergens in dishes, either on the menu or via staff; required by law.", "display_order": 2 },
+            { "keyword": "Provenance", "definition": "The origin of food ingredients; customers increasingly expect information about where food has been sourced.", "display_order": 3 },
+            { "keyword": "Local sourcing", "definition": "Obtaining ingredients from local suppliers to reduce food miles, support local farmers and improve freshness.", "display_order": 4 },
+            { "keyword": "Menu engineering", "definition": "Analysing the profitability and popularity of each dish to decide which items to promote, keep or remove.", "display_order": 5 },
+            { "keyword": "Star dish", "definition": "A menu item that is both popular with customers and highly profitable; a key focus of menu engineering.", "display_order": 6 },
+            { "keyword": "Covers", "definition": "The number of customers served in a service period; covers per hour is a measure of restaurant efficiency.", "display_order": 7 },
+            { "keyword": "Turnaround time", "definition": "The time between one group of customers leaving a table and the next group being seated; affects revenue.", "display_order": 8 },
+            { "keyword": "Upselling", "definition": "Encouraging customers to purchase higher-value items or extras, e.g. a dessert or premium wine.", "display_order": 9 },
+            { "keyword": "Yield", "definition": "The usable portion of an ingredient after trimming, peeling or cooking; important for accurate costing.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kitchen Equipment and Tools",
+      "paper": "Unit 2",
+      "display_order": 5,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Kitchen Equipment and Tools",
+          "cards": [
+            { "keyword": "Bain-marie", "definition": "A container of hot water used to keep food warm or to melt ingredients gently without direct heat.", "display_order": 1 },
+            { "keyword": "Mandoline", "definition": "A kitchen tool with an adjustable blade used to slice vegetables thinly and evenly.", "display_order": 2 },
+            { "keyword": "Blast chiller", "definition": "Equipment that rapidly reduces the temperature of cooked food to below 5°C, preventing bacterial growth.", "display_order": 3 },
+            { "keyword": "Combi oven", "definition": "A commercial oven that combines conventional heat, steam and fan-forced heat for versatile cooking methods.", "display_order": 4 },
+            { "keyword": "Salamander grill", "definition": "A commercial overhead grill used for browning, glazing and finishing dishes quickly.", "display_order": 5 },
+            { "keyword": "Colour-coded chopping boards", "definition": "Different coloured boards used for different food types to prevent cross-contamination, e.g. red for raw meat, green for salad.", "display_order": 6 },
+            { "keyword": "Knife safety", "definition": "Procedures to prevent injury when using kitchen knives, including keeping knives sharp, using a guard and storing safely.", "display_order": 7 },
+            { "keyword": "PPE (personal protective equipment)", "definition": "Clothing and equipment to protect workers in the kitchen, such as oven gloves, aprons and non-slip footwear.", "display_order": 8 },
+            { "keyword": "COSHH", "definition": "Control of Substances Hazardous to Health — regulations covering safe storage, use and disposal of chemicals in the kitchen.", "display_order": 9 },
+            { "keyword": "Risk assessment", "definition": "A formal process of identifying potential hazards in the kitchen and putting measures in place to reduce or eliminate them.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cooking Methods",
+      "paper": "Unit 2",
+      "display_order": 6,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Cooking Methods",
+          "cards": [
+            { "keyword": "Dry heat methods", "definition": "Cooking without water or moisture, e.g. roasting, baking, grilling and frying.", "display_order": 1 },
+            { "keyword": "Moist heat methods", "definition": "Cooking using water or steam, e.g. boiling, steaming, poaching and braising.", "display_order": 2 },
+            { "keyword": "Roasting", "definition": "Cooking food uncovered in an oven using fat; suitable for large joints of meat and root vegetables.", "display_order": 3 },
+            { "keyword": "Grilling", "definition": "Cooking food under or over direct radiant heat; quick and suitable for meat, fish and vegetables.", "display_order": 4 },
+            { "keyword": "Steaming", "definition": "Cooking food using steam from boiling water; preserves nutrients and colour better than boiling.", "display_order": 5 },
+            { "keyword": "Braising", "definition": "Slow-cooking food in a small amount of liquid in a covered pan; ideal for tougher cuts of meat.", "display_order": 6 },
+            { "keyword": "Deep frying", "definition": "Cooking food by fully submerging it in hot oil; produces a crispy exterior. Requires temperature control for safety.", "display_order": 7 },
+            { "keyword": "Shallow frying", "definition": "Cooking food in a small amount of fat in a pan; suitable for fish, eggs and thin cuts of meat.", "display_order": 8 },
+            { "keyword": "Poaching", "definition": "Gently cooking food in simmering liquid (below boiling point); suitable for eggs, fish and fruit.", "display_order": 9 },
+            { "keyword": "Sous vide", "definition": "Cooking vacuum-sealed food in a precisely controlled water bath; produces consistent results and retains moisture.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food Provenance and Sustainability",
+      "paper": "Unit 1",
+      "display_order": 7,
+      "exam_board": "WJEC",
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Food Provenance and Sustainability",
+          "cards": [
+            { "keyword": "Food miles", "definition": "The distance food travels from where it is produced to where it is eaten; shorter food miles reduce carbon emissions.", "display_order": 1 },
+            { "keyword": "Sustainability", "definition": "Producing and consuming food in a way that meets current needs without compromising the ability of future generations to meet theirs.", "display_order": 2 },
+            { "keyword": "Organic produce", "definition": "Food grown without synthetic pesticides or fertilisers and with high animal welfare standards; certified by bodies like the Soil Association.", "display_order": 3 },
+            { "keyword": "Fairtrade", "definition": "A certification ensuring producers in developing countries receive a fair price and decent working conditions for their goods.", "display_order": 4 },
+            { "keyword": "Seasonal produce", "definition": "Food that is grown and harvested at a particular time of year; seasonal produce is fresher, cheaper and has lower food miles.", "display_order": 5 },
+            { "keyword": "Farm-to-fork", "definition": "The complete journey of food from production on the farm through processing, distribution and retail to the consumer.", "display_order": 6 },
+            { "keyword": "Red Tractor", "definition": "A UK food assurance scheme that guarantees food has been produced to UK standards of food safety, animal welfare and environmental protection.", "display_order": 7 },
+            { "keyword": "Food waste reduction", "definition": "Strategies to minimise food thrown away, including stock rotation, portion control, creative use of trimmings and composting.", "display_order": 8 },
+            { "keyword": "Carbon footprint", "definition": "The total greenhouse gas emissions caused by the production, transport and consumption of food.", "display_order": 9 },
+            { "keyword": "Plant-based diet", "definition": "A diet centred on plant foods with little or no animal products; generally has a lower environmental impact than meat-heavy diets.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

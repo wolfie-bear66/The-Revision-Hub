@@ -1,0 +1,34 @@
+{
+  "subject": {
+    "name": "Geography",
+    "slug": "geography",
+    "colour": "#10b981"
+  },
+  "topics": [
+    {
+      "name": "Natural Hazards",
+      "paper": "Paper 1",
+      "exam_board": "AQA",
+      "exam_board_code": "8035",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Tectonic Hazards",
+          "cards": [
+            { "keyword": "Tectonic plate", "definition": "A large section of the Earth's crust and upper mantle that moves slowly over the mantle below.", "display_order": 1 },
+            { "keyword": "Plate boundary", "definition": "The edge where two tectonic plates meet; the location of most earthquakes and volcanoes.", "display_order": 2 },
+            { "keyword": "Constructive boundary", "definition": "Where two plates move apart, allowing magma to rise and form new crust, e.g. Mid-Atlantic Ridge.", "display_order": 3 },
+            { "keyword": "Destructive boundary", "definition": "Where two plates converge and one is forced beneath the other (subduction), often causing earthquakes and volcanoes.", "display_order": 4 },
+            { "keyword": "Conservative boundary", "definition": "Where two plates slide past each other horizontally, causing earthquakes but no volcanic activity.", "display_order": 5 },
+            { "keyword": "Subduction", "definition": "The process where a denser oceanic plate is forced beneath a less dense continental plate into the mantle.", "display_order": 6 },
+            { "keyword": "Focus", "definition": "The point inside the Earth where an earthquake originates.", "display_order": 7 },
+            { "keyword": "Epicentre", "definition": "The point on the Earth's surface directly above the focus of an earthquake.", "display_order": 8 },
+            { "keyword": "Richter scale", "definition": "A logarithmic scale used to measure the magnitude (energy released) of an earthquake.", "display_order": 9 },
+            { "keyword": "Seismic wave", "definition": "Vibrations that travel outward from the focus of an earthquake through the Earth's crust.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

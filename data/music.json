@@ -1,0 +1,377 @@
+{
+  "subject": {
+    "name": "Music",
+    "slug": "music",
+    "colour": "#9333ea"
+  },
+  "topics": [
+    {
+      "name": "Melody",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Anacrusis", "definition": "One or more notes that come before the first full bar of a piece; also called a pick-up or upbeat.", "display_order": 1 },
+            { "keyword": "Conjunct", "definition": "Stepwise melodic movement where notes move by small intervals (one or two semitones), creating a smooth, flowing melody.", "display_order": 2 },
+            { "keyword": "Disjunct", "definition": "Angular melodic movement where notes leap by larger intervals, creating a more dramatic or jagged effect.", "display_order": 3 },
+            { "keyword": "Arpeggio / Broken Chord", "definition": "The notes of a chord played one after another rather than simultaneously, creating a rippling effect.", "display_order": 4 },
+            { "keyword": "Scalic", "definition": "A melody that moves up or down a scale in stepwise motion; can be ascending or descending.", "display_order": 5 },
+            { "keyword": "Range", "definition": "The distance between the highest and lowest notes in a melody; a wide range gives more expressive possibility.", "display_order": 6 },
+            { "keyword": "Sequence", "definition": "A melodic or harmonic pattern that is repeated at a higher or lower pitch level.", "display_order": 7 },
+            { "keyword": "Imitation", "definition": "When a melodic idea introduced by one part is echoed or repeated by another part, often at a different pitch.", "display_order": 8 },
+            { "keyword": "Leitmotif", "definition": "A short recurring musical theme associated with a character, place or idea, especially in film and opera.", "display_order": 9 },
+            { "keyword": "Motif", "definition": "A short, recurring melodic or rhythmic idea that forms the basis of a longer piece of music.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Octave", "definition": "The interval between one musical pitch and another with double its frequency; 12 semitones apart.", "display_order": 1 },
+            { "keyword": "Tone / Major 2nd", "definition": "An interval of two semitones; the distance between adjacent notes in most major and minor scales.", "display_order": 2 },
+            { "keyword": "Major 3rd", "definition": "An interval of four semitones; creates a bright, happy sound when used harmonically.", "display_order": 3 },
+            { "keyword": "Perfect 4th", "definition": "An interval of five semitones; has a strong, open sound and is found in many fanfares.", "display_order": 4 },
+            { "keyword": "Perfect 5th", "definition": "An interval of seven semitones; a very stable, hollow-sounding interval used in power chords and drones.", "display_order": 5 },
+            { "keyword": "Major 6th", "definition": "An interval of nine semitones; often sounds warm and expressive in melodic writing.", "display_order": 6 },
+            { "keyword": "Major 7th", "definition": "An interval of eleven semitones; creates tension that resolves to the octave.", "display_order": 7 },
+            { "keyword": "Semitone", "definition": "The smallest standard interval in Western music; the distance between adjacent keys on a piano.", "display_order": 8 },
+            { "keyword": "Chromatic Movement", "definition": "Melody that moves in semitone steps using notes outside the main key, creating colour and tension.", "display_order": 9 },
+            { "keyword": "Pentatonic", "definition": "A five-note scale (e.g. C D E G A) widely used in folk, blues, rock and non-Western music.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "cards": [
+            { "keyword": "Blue Notes", "definition": "Flattened 3rd, 5th or 7th scale degrees used in blues and jazz to create an expressive, bending sound.", "display_order": 1 },
+            { "keyword": "Trill / Ornamentation", "definition": "Rapid alternation between a note and the one above it; decoration added to a melody for expressive effect.", "display_order": 2 },
+            { "keyword": "Countermelody", "definition": "A secondary melody played at the same time as the main melody, providing harmonic and rhythmic contrast.", "display_order": 3 },
+            { "keyword": "Answering Phrase", "definition": "A melodic phrase that responds to an opening phrase, creating a question-and-answer effect.", "display_order": 4 },
+            { "keyword": "Thematic", "definition": "Music built around a recognisable theme that is developed, varied and revisited throughout a piece.", "display_order": 5 },
+            { "keyword": "Fanfare", "definition": "A short, loud melodic passage using the notes of a major chord, typically performed by brass instruments.", "display_order": 6 },
+            { "keyword": "Microtone", "definition": "An interval smaller than a semitone; common in non-Western music and some contemporary classical works.", "display_order": 7 },
+            { "keyword": "Repetition", "definition": "Repeating a melodic or rhythmic idea to create unity and help listeners recognise a theme.", "display_order": 8 },
+            { "keyword": "Contrast", "definition": "Introducing new or opposing musical ideas (e.g. different pitch, tempo or dynamics) to maintain interest.", "display_order": 9 },
+            { "keyword": "High Pitch / Low Pitch", "definition": "The frequency of a sound; high pitch is fast vibration, low pitch is slow vibration — affects mood and register.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tonality and Harmony",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 2,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Major", "definition": "A scale or key with a bright, happy sound, built on the pattern T T S T T T S (tones and semitones).", "display_order": 1 },
+            { "keyword": "Minor", "definition": "A scale or key with a darker, sadder sound; has a flattened third degree compared to major.", "display_order": 2 },
+            { "keyword": "Modulation", "definition": "Changing from one key to another during a piece of music.", "display_order": 3 },
+            { "keyword": "Dominant", "definition": "The fifth degree of the scale; the dominant chord (V) creates tension that resolves to the tonic.", "display_order": 4 },
+            { "keyword": "Relative Major / Minor", "definition": "Major and minor keys that share the same key signature; e.g. C major and A minor are relatives.", "display_order": 5 },
+            { "keyword": "Primary Chords", "definition": "The three most important chords in a key: tonic (I), subdominant (IV) and dominant (V).", "display_order": 6 },
+            { "keyword": "Secondary Chords", "definition": "The less common chords built on other degrees of the scale (II, III, VI, VII).", "display_order": 7 },
+            { "keyword": "Inversion", "definition": "A chord where a note other than the root is in the bass; 1st inversion has the 3rd in the bass.", "display_order": 8 },
+            { "keyword": "Diatonic", "definition": "Music using only the notes of the key; does not use accidentals or notes outside the scale.", "display_order": 9 },
+            { "keyword": "Tonic", "definition": "The first and most important note/chord of a key; the home note to which music naturally returns.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Subdominant", "definition": "The fourth degree of the scale and its chord (IV); creates a softer, less tense feeling than the dominant.", "display_order": 1 },
+            { "keyword": "Dominant 7th", "definition": "A dominant chord with an added flattened 7th, creating strong tension that resolves to the tonic.", "display_order": 2 },
+            { "keyword": "Perfect Cadence", "definition": "A chord progression moving from V to I; sounds final and conclusive, like a full stop in music.", "display_order": 3 },
+            { "keyword": "Imperfect Cadence", "definition": "A cadence that ends on chord V; sounds unfinished or questioning, like a comma in music.", "display_order": 4 },
+            { "keyword": "Plagal Cadence", "definition": "A cadence moving from chord IV to I; has a gentle, 'Amen' quality often used in hymns.", "display_order": 5 },
+            { "keyword": "Interrupted Cadence", "definition": "A cadence that moves from V to any chord other than I (often VI), creating a surprise effect.", "display_order": 6 },
+            { "keyword": "Chord Progression", "definition": "A sequence of chords played in a specific order, forming the harmonic foundation of a piece.", "display_order": 7 },
+            { "keyword": "Harmonic Rhythm", "definition": "The rate at which chords change in a piece; fast harmonic rhythm creates energy, slow creates stability.", "display_order": 8 },
+            { "keyword": "Drone", "definition": "A sustained note, usually in the bass, held while other parts move above it.", "display_order": 9 },
+            { "keyword": "Pedal", "definition": "A sustained or repeated note (usually the tonic or dominant) in the bass while harmonies change above.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "cards": [
+            { "keyword": "Dissonance", "definition": "A harsh, clashing sound created by intervals or chords that create tension and want to resolve.", "display_order": 1 },
+            { "keyword": "Power Chords", "definition": "A chord using only the root and perfect 5th (no 3rd), common in rock music; neither major nor minor.", "display_order": 2 },
+            { "keyword": "Pentatonic Scale (Tonality)", "definition": "A five-note scale with no semitones; used widely in folk, blues, rock and non-Western music for its open sound.", "display_order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form and Structure",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 3,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Binary Form", "definition": "A two-section structure (A B) where each section is usually repeated; common in Baroque dance movements.", "display_order": 1 },
+            { "keyword": "Ternary Form", "definition": "A three-section structure (A B A) where the opening section returns after a contrasting middle section.", "display_order": 2 },
+            { "keyword": "Rondo", "definition": "A structure where a main theme (A) keeps returning between contrasting episodes: A B A C A D A.", "display_order": 3 },
+            { "keyword": "Minuet and Trio", "definition": "A three-section form (Minuet – Trio – Minuet) in triple time, common in Classical symphonies and sonatas.", "display_order": 4 },
+            { "keyword": "Theme and Variations", "definition": "A form where an opening theme is followed by a series of varied versions of that theme.", "display_order": 5 },
+            { "keyword": "Strophic", "definition": "A song structure where the same music is used for each verse of the text.", "display_order": 6 },
+            { "keyword": "32-bar Song Form / AABA", "definition": "A popular song structure with four 8-bar sections: verse, verse, bridge, verse — common in jazz standards.", "display_order": 7 },
+            { "keyword": "12-bar Blues", "definition": "A chord progression lasting 12 bars using chords I, IV and V; the foundation of blues and early rock and roll.", "display_order": 8 },
+            { "keyword": "Call and Response", "definition": "A musical conversation where a phrase (call) is answered by another phrase (response); common in blues and gospel.", "display_order": 9 },
+            { "keyword": "Ostinato", "definition": "A short melodic, harmonic or rhythmic pattern that is persistently repeated throughout a piece.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Bridge", "definition": "A contrasting section in a song that links verses or provides harmonic/melodic variety before the final chorus.", "display_order": 1 },
+            { "keyword": "Break", "definition": "A short solo or instrumental passage in popular music where the main accompaniment drops out.", "display_order": 2 },
+            { "keyword": "Loop", "definition": "A repeated section of audio or MIDI that forms the rhythmic or harmonic basis of electronic and dance music.", "display_order": 3 },
+            { "keyword": "Improvisation", "definition": "Creating and performing music spontaneously without written notation, central to jazz and blues.", "display_order": 4 },
+            { "keyword": "Verse", "definition": "A repeated section of a song with the same music but different lyrics each time, advancing the narrative.", "display_order": 5 },
+            { "keyword": "Chorus", "definition": "A repeated section of a song with the same music and lyrics, usually the most memorable part.", "display_order": 6 },
+            { "keyword": "Middle 8", "definition": "An eight-bar contrasting section in a pop song that provides variety before the final chorus.", "display_order": 7 },
+            { "keyword": "Fill", "definition": "A short rhythmic or melodic flourish (often by drums or guitar) that bridges sections or fills gaps.", "display_order": 8 },
+            { "keyword": "Introduction", "definition": "An opening passage before the main theme or verse begins, setting the mood and key of the piece.", "display_order": 9 },
+            { "keyword": "Outro / Coda", "definition": "A concluding section that brings a piece to an end; a coda is a formal ending often extending beyond the main structure.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "cards": [
+            { "keyword": "Riff", "definition": "A short, repeated melodic or rhythmic pattern in rock or jazz that forms the backbone of a piece.", "display_order": 1 },
+            { "keyword": "Phrasing", "definition": "How musical sentences are shaped and grouped; regular phrasing uses equal-length phrases, irregular phrasing varies their length.", "display_order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Texture",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 4,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Monophonic", "definition": "A single melodic line with no accompaniment; the simplest texture.", "display_order": 1 },
+            { "keyword": "Homophonic", "definition": "A main melody supported by chords or a harmonic accompaniment moving in a similar rhythm.", "display_order": 2 },
+            { "keyword": "Polyphonic", "definition": "Two or more independent melodic lines sounding simultaneously, each of equal importance.", "display_order": 3 },
+            { "keyword": "Unison", "definition": "All parts playing or singing the same notes at the same pitch (or in octaves).", "display_order": 4 },
+            { "keyword": "Chordal", "definition": "A texture where all parts move together rhythmically, like a chorale or hymn.", "display_order": 5 },
+            { "keyword": "Layered Texture", "definition": "Building up texture by adding parts one at a time, common in minimalism and electronic music.", "display_order": 6 },
+            { "keyword": "Melody and Accompaniment", "definition": "A homophonic texture with a clear tune on top and a harmonic or rhythmic accompaniment below.", "display_order": 7 },
+            { "keyword": "Descant", "definition": "A high decorative melody sung or played above the main tune.", "display_order": 8 },
+            { "keyword": "Round", "definition": "A simple canon where voices enter at regular intervals singing the same melody, e.g. 'Frère Jacques'.", "display_order": 9 },
+            { "keyword": "Canon", "definition": "A form of imitation where a melody is introduced by one part and then imitated by others after a set delay.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Alberti Bass", "definition": "A broken chord accompaniment pattern (low-high-middle-high) commonly used in Classical-era keyboard music.", "display_order": 1 },
+            { "keyword": "Stab Chords", "definition": "Short, sharp chords played on an off-beat, common in jazz, funk and pop music.", "display_order": 2 },
+            { "keyword": "Walking Bass", "definition": "A bass line that moves in steady crotchets with a smooth, stepwise or arpeggiated pattern; typical in jazz.", "display_order": 3 },
+            { "keyword": "Basso Continuo", "definition": "A Baroque accompaniment technique using a bass instrument and a keyboard to improvise harmonies from a figured bass.", "display_order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tempo and Rhythm",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 5,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Allegro / Vivace", "definition": "Fast tempo markings; Allegro means lively and quick, Vivace means very lively and brisk.", "display_order": 1 },
+            { "keyword": "Allegretto", "definition": "A moderately fast tempo, slightly slower than Allegro.", "display_order": 2 },
+            { "keyword": "Moderato / Andante", "definition": "Moderate tempo markings; Moderato means at a moderate pace, Andante means walking pace.", "display_order": 3 },
+            { "keyword": "Adagio / Lento", "definition": "Slow tempo markings; Adagio means slow and stately, Lento means very slow.", "display_order": 4 },
+            { "keyword": "Accelerando", "definition": "A gradual increase in tempo, getting faster.", "display_order": 5 },
+            { "keyword": "Ritardando / Rallentando", "definition": "A gradual decrease in tempo, getting slower; both terms are interchangeable in most contexts.", "display_order": 6 },
+            { "keyword": "Rubato", "definition": "Flexibility in tempo where notes are pushed and pulled for expressive effect, common in Romantic music.", "display_order": 7 },
+            { "keyword": "Pause (Fermata)", "definition": "A symbol indicating the performer should hold a note or rest for longer than its written value.", "display_order": 8 },
+            { "keyword": "Semibreve", "definition": "A note worth four beats in 4/4 time; the longest standard note value.", "display_order": 9 },
+            { "keyword": "Minim", "definition": "A note worth two beats in 4/4 time; half the value of a semibreve.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Crotchet", "definition": "A note worth one beat in 4/4 time; the most common beat unit.", "display_order": 1 },
+            { "keyword": "Quaver", "definition": "A note worth half a beat in 4/4 time; two quavers equal one crotchet.", "display_order": 2 },
+            { "keyword": "Semiquaver", "definition": "A note worth a quarter of a beat in 4/4 time; four semiquavers equal one crotchet.", "display_order": 3 },
+            { "keyword": "Dotted Note", "definition": "A note followed by a dot, which adds half its value again (e.g. a dotted crotchet = 1.5 beats).", "display_order": 4 },
+            { "keyword": "Syncopation", "definition": "Placing rhythmic stress on normally weak beats or between beats, creating a surprise or off-beat feel.", "display_order": 5 },
+            { "keyword": "Swing Rhythms", "definition": "A performance style where paired quavers are played unevenly (long-short), common in jazz.", "display_order": 6 },
+            { "keyword": "Triplet", "definition": "Three notes played in the time of two of the same value, creating a flowing or galloping feel.", "display_order": 7 },
+            { "keyword": "Chaal", "definition": "A rhythmic pattern from Bhangra music; a driving 8-beat cycle played on the dhol drum.", "display_order": 8 },
+            { "keyword": "Driving Rhythms", "definition": "Energetic, relentless rhythmic patterns that propel music forward, common in rock and dance music.", "display_order": 9 },
+            { "keyword": "Dance Rhythms", "definition": "Rhythmic patterns associated with specific dances, e.g. waltz (3/4), tango, samba.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metre and Dynamics",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 6,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Regular Metre", "definition": "A consistent, predictable pattern of strong and weak beats organised into equal-length bars.", "display_order": 1 },
+            { "keyword": "Irregular Metre", "definition": "Time signatures that do not divide equally into groups of two or three, e.g. 5/4 or 7/8.", "display_order": 2 },
+            { "keyword": "Simple Time", "definition": "Time signatures where the beat divides into two equal parts, e.g. 2/4, 3/4, 4/4.", "display_order": 3 },
+            { "keyword": "Compound Time", "definition": "Time signatures where the beat divides into three equal parts, e.g. 6/8, 9/8, 12/8.", "display_order": 4 },
+            { "keyword": "Duple", "definition": "Metre with two beats per bar, e.g. 2/4.", "display_order": 5 },
+            { "keyword": "Triple", "definition": "Metre with three beats per bar, e.g. 3/4; gives a waltz-like feeling.", "display_order": 6 },
+            { "keyword": "Quadruple", "definition": "Metre with four beats per bar, e.g. 4/4; the most common time signature in Western music.", "display_order": 7 },
+            { "keyword": "Accent", "definition": "Extra emphasis placed on a note or beat, making it stand out; shown by the symbol >.", "display_order": 8 },
+            { "keyword": "Pianissimo (pp)", "definition": "Very quiet; one of the softest dynamic markings.", "display_order": 9 },
+            { "keyword": "Piano (p)", "definition": "Quiet; a soft dynamic level.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Mezzo Piano (mp)", "definition": "Moderately quiet; louder than piano but quieter than mezzo forte.", "display_order": 1 },
+            { "keyword": "Mezzo Forte (mf)", "definition": "Moderately loud; the most common dynamic level in everyday performance.", "display_order": 2 },
+            { "keyword": "Forte (f)", "definition": "Loud; a strong, full dynamic level.", "display_order": 3 },
+            { "keyword": "Fortissimo (ff)", "definition": "Very loud; one of the loudest standard dynamic markings.", "display_order": 4 },
+            { "keyword": "Crescendo", "definition": "A gradual increase in volume, getting louder.", "display_order": 5 },
+            { "keyword": "Diminuendo", "definition": "A gradual decrease in volume, getting quieter; also called decrescendo.", "display_order": 6 },
+            { "keyword": "Sforzando (sfz)", "definition": "A sudden, strong accent on a single note or chord, giving it extra force.", "display_order": 7 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musical Styles",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 7,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Western Classical Tradition", "definition": "The broad tradition of composed music in Europe from the Medieval period to the present day.", "display_order": 1 },
+            { "keyword": "Baroque", "definition": "A period of Western classical music (c.1600–1750) characterised by ornamentation, basso continuo and counterpoint, e.g. Bach, Handel.", "display_order": 2 },
+            { "keyword": "Classical", "definition": "A period of Western classical music (c.1750–1820) characterised by balance, clarity and formal structures, e.g. Mozart, Haydn.", "display_order": 3 },
+            { "keyword": "Romantic", "definition": "A period of Western classical music (c.1820–1900) characterised by emotional expression, large orchestras and programme music, e.g. Beethoven, Brahms.", "display_order": 4 },
+            { "keyword": "Chamber Music", "definition": "Classical music written for a small ensemble to be performed in an intimate setting, e.g. a string quartet.", "display_order": 5 },
+            { "keyword": "Jazz", "definition": "A genre originating in early 20th-century America, characterised by improvisation, swing rhythms and complex harmonies.", "display_order": 6 },
+            { "keyword": "Blues", "definition": "An African-American music genre using the 12-bar blues, blue notes and call and response; influenced rock and jazz.", "display_order": 7 },
+            { "keyword": "Musical Theatre", "definition": "A theatrical genre combining songs, spoken dialogue, acting and dance to tell a story on stage.", "display_order": 8 },
+            { "keyword": "Film Music", "definition": "Music composed specifically to accompany and enhance a film, using leitmotifs and orchestral scoring.", "display_order": 9 },
+            { "keyword": "Rock", "definition": "A genre developed from rock and roll in the 1960s, typically using electric guitars, bass and drums with a strong backbeat.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Soul", "definition": "A genre combining gospel and R&B, characterised by passionate vocals, call and response and strong rhythmic feel.", "display_order": 1 },
+            { "keyword": "Hip-hop", "definition": "A genre originating in 1970s New York, featuring rap vocals, turntablism, sampling and electronic beats.", "display_order": 2 },
+            { "keyword": "Reggae", "definition": "A Jamaican genre characterised by off-beat rhythms (skank), heavy bass and lyrics often addressing social issues.", "display_order": 3 },
+            { "keyword": "Ballad", "definition": "A slow, emotional song that tells a story; common in pop, rock and classical traditions.", "display_order": 4 },
+            { "keyword": "Pop", "definition": "Popular music aimed at a mainstream audience, characterised by verse-chorus structure, catchy melodies and simple harmonies.", "display_order": 5 },
+            { "keyword": "Bhangra", "definition": "A vibrant Punjabi music and dance genre, featuring the dhol drum, rapid tempo and energetic performance.", "display_order": 6 },
+            { "keyword": "Fusion", "definition": "Music that combines elements from two or more different genres or cultural traditions.", "display_order": 7 },
+            { "keyword": "Minimalism", "definition": "A 20th-century style using simple repeated patterns (ostinati) with gradual change over long periods, e.g. Philip Glass.", "display_order": 8 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sonority: Instruments, Voices and Groupings",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 8,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Solo", "definition": "A single performer playing or singing alone, or taking a prominent melodic role.", "display_order": 1 },
+            { "keyword": "Duet", "definition": "A piece performed by two musicians.", "display_order": 2 },
+            { "keyword": "Soprano", "definition": "The highest female or treble voice type.", "display_order": 3 },
+            { "keyword": "Alto", "definition": "The lower female voice type; also used to describe instruments in a middle register.", "display_order": 4 },
+            { "keyword": "Tenor", "definition": "The higher male voice type.", "display_order": 5 },
+            { "keyword": "Bass", "definition": "The lowest male voice type; also refers to the lowest instrument in a group.", "display_order": 6 },
+            { "keyword": "Backing Vocals", "definition": "Voices that support the lead vocalist, often singing harmonies or repeated phrases.", "display_order": 7 },
+            { "keyword": "A Cappella", "definition": "Singing without instrumental accompaniment.", "display_order": 8 },
+            { "keyword": "Orchestra", "definition": "A large ensemble of instruments grouped into strings, woodwind, brass and percussion sections.", "display_order": 9 },
+            { "keyword": "String Quartet", "definition": "A chamber ensemble of two violins, viola and cello; a standard classical grouping.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Pop/Rock Group", "definition": "A small ensemble typically including electric guitar, bass guitar, drums and vocals.", "display_order": 1 },
+            { "keyword": "Synthesised / Electronic", "definition": "Sounds produced or modified electronically, using synthesisers, samplers or digital audio workstations.", "display_order": 2 },
+            { "keyword": "Panning", "definition": "Placing sounds to the left or right of the stereo field in a recording.", "display_order": 3 },
+            { "keyword": "Phasing", "definition": "An electronic effect where two identical sounds are gradually moved out of sync, creating a sweeping effect.", "display_order": 4 },
+            { "keyword": "Sample", "definition": "A recording of a sound or piece of music used in a new composition; central to hip-hop and electronic music.", "display_order": 5 },
+            { "keyword": "Reverb", "definition": "An effect that simulates the sound of a space by adding reflected echoes to a sound.", "display_order": 6 },
+            { "keyword": "Echo", "definition": "A distinct repetition of a sound after a delay; can be natural or added electronically.", "display_order": 7 },
+            { "keyword": "Amplified", "definition": "Sound that has been electronically increased in volume using microphones or pickups.", "display_order": 8 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Performance Techniques and Articulation",
+      "paper": "Written Exam",
+      "exam_board": "Eduqas",
+      "display_order": 9,
+      "blocks": [
+        {
+          "block_number": 1,
+          "cards": [
+            { "keyword": "Syllabic", "definition": "A vocal style where each syllable of text is set to one note.", "display_order": 1 },
+            { "keyword": "Melismatic", "definition": "A vocal style where a single syllable is sung over many notes, creating an ornamental, flowing effect.", "display_order": 2 },
+            { "keyword": "Scat", "definition": "A jazz vocal technique using improvised nonsense syllables instead of words.", "display_order": 3 },
+            { "keyword": "Vibrato", "definition": "A rapid, slight variation in pitch used by singers and instrumentalists to add warmth and expression.", "display_order": 4 },
+            { "keyword": "Falsetto", "definition": "A male singing technique that extends the voice above its normal range into a lighter, head-voice register.", "display_order": 5 },
+            { "keyword": "Belt", "definition": "A powerful, chest-driven singing technique used in musical theatre to project strongly.", "display_order": 6 },
+            { "keyword": "Rap", "definition": "A rhythmic, spoken or chanted vocal style used in hip-hop, often with rhyme and wordplay over a beat.", "display_order": 7 },
+            { "keyword": "Staccato", "definition": "Playing notes in a short, detached manner, indicated by a dot above or below the note.", "display_order": 8 },
+            { "keyword": "Legato", "definition": "Playing notes in a smooth, connected manner with no gaps between them.", "display_order": 9 },
+            { "keyword": "Pizzicato", "definition": "Plucking the strings of a bowed instrument instead of using the bow.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Arco / Bowed", "definition": "Playing a stringed instrument with the bow, as opposed to pizzicato.", "display_order": 1 },
+            { "keyword": "Divisi", "definition": "An instruction for a string section to split into two or more parts, each playing different notes.", "display_order": 2 },
+            { "keyword": "Double Stopping", "definition": "Playing two strings simultaneously on a bowed instrument, creating a fuller, harmonic sound.", "display_order": 3 },
+            { "keyword": "Tremolo", "definition": "Rapid repetition of a single note (strings: rapid bowing; other instruments: rapid restriking).", "display_order": 4 },
+            { "keyword": "Distortion", "definition": "An electronic effect that clips or overdrives a signal, creating a gritty or fuzzy guitar sound common in rock.", "display_order": 5 },
+            { "keyword": "Hammer-on", "definition": "A guitar technique where a note is produced by tapping a finger onto the fretboard without picking.", "display_order": 6 },
+            { "keyword": "Rim Shot", "definition": "Striking the rim and head of a drum simultaneously, producing a sharp cracking sound.", "display_order": 7 },
+            { "keyword": "Slap Bass", "definition": "A bass guitar technique where the thumb slaps the string against the fretboard for a percussive attack.", "display_order": 8 },
+            { "keyword": "Muted", "definition": "Dampening the strings or instrument to reduce sustain and create a softer, more muffled tone.", "display_order": 9 },
+            { "keyword": "Glissando / Slide", "definition": "Sliding continuously between two pitches, either on a stringed instrument or voice.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 3,
+          "cards": [
+            { "keyword": "Pitch Bend", "definition": "Smoothly changing the pitch of a note above or below its standard value, common in blues guitar and electronic music.", "display_order": 1 },
+            { "keyword": "Humming", "definition": "Singing with the mouth closed, producing a warm, resonant tone.", "display_order": 2 },
+            { "keyword": "Sustained", "definition": "Holding a note for its full duration or beyond, creating a continuous, smooth sound.", "display_order": 3 },
+            { "keyword": "Drum Roll", "definition": "Rapid alternating strokes on a drum creating a continuous, sustained sound.", "display_order": 4 }
+          ]
+        }
+      ]
+    }
+  ]
+}

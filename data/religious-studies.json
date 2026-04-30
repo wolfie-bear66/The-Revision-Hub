@@ -1,0 +1,243 @@
+{
+  "subject": {
+    "name": "Religious Studies",
+    "slug": "religious-studies",
+    "colour": "#8b5cf6"
+  },
+  "topics": [
+    {
+      "name": "Origins and Meaning",
+      "paper": "Paper 1",
+      "display_order": 1,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Origins and Meaning (1)",
+          "cards": [
+            { "keyword": "Creation ex nihilo", "definition": "The Catholic belief that God created the universe out of nothing, with no pre-existing matter.", "display_order": 1 },
+            { "keyword": "Genesis", "definition": "The first book of the Bible, containing two accounts of Creation and the story of Adam and Eve.", "display_order": 2 },
+            { "keyword": "Literal interpretation", "definition": "Reading the Bible as factually and historically accurate in every detail, including the six-day creation account.", "display_order": 3 },
+            { "keyword": "Non-literal interpretation", "definition": "Reading the Bible as conveying religious truths through symbolism or metaphor, not as a scientific account.", "display_order": 4 },
+            { "keyword": "Evolution", "definition": "The scientific theory, associated with Darwin, that species developed over millions of years through natural selection.", "display_order": 5 },
+            { "keyword": "Theistic evolution", "definition": "The belief held by many Catholics that God used the process of evolution as the means of creation.", "display_order": 6 },
+            { "keyword": "Stewardship", "definition": "The Catholic responsibility to care for and protect God's creation on His behalf.", "display_order": 7 },
+            { "keyword": "Dominion", "definition": "The God-given authority over the natural world given to humans, as described in Genesis 1:28.", "display_order": 8 },
+            { "keyword": "Sanctity of life", "definition": "The belief that all human life is holy and sacred because it is created by God in His image.", "display_order": 9 },
+            { "keyword": "Imago Dei", "definition": "Latin for 'image of God'; the Catholic belief that humans are uniquely created in the likeness of God.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Origins and Meaning (2)",
+          "cards": [
+            { "keyword": "Soul", "definition": "The spiritual and immortal part of a human being, believed by Catholics to be given by God at conception.", "display_order": 1 },
+            { "keyword": "The Fall", "definition": "The Catholic teaching that Adam and Eve disobeyed God in the Garden of Eden, introducing sin into the world.", "display_order": 2 },
+            { "keyword": "Original sin", "definition": "The inherited tendency towards sin that Catholics believe all humans are born with as a result of the Fall.", "display_order": 3 },
+            { "keyword": "Big Bang theory", "definition": "The scientific theory that the universe began approximately 13.8 billion years ago from a single point of infinite density.", "display_order": 4 },
+            { "keyword": "Cosmological argument", "definition": "An argument for God's existence based on the idea that everything has a cause, so the universe must have a first cause — God.", "display_order": 5 },
+            { "keyword": "Design argument", "definition": "An argument for God's existence based on the apparent order and purpose in the universe, suggesting an intelligent designer.", "display_order": 6 },
+            { "keyword": "Teleological", "definition": "Related to the idea that the universe has purpose or direction; used to describe arguments for God's existence from design.", "display_order": 7 },
+            { "keyword": "Omnipotent", "definition": "All-powerful; a key attribute of God in Catholic theology, meaning God has unlimited power.", "display_order": 8 },
+            { "keyword": "Omniscient", "definition": "All-knowing; the Catholic belief that God has complete knowledge of everything, including past, present and future.", "display_order": 9 },
+            { "keyword": "Benevolent", "definition": "All-good and loving; the belief that God is perfectly good and acts out of love for humanity.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good and Evil",
+      "paper": "Paper 1",
+      "display_order": 2,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Good and Evil (1)",
+          "cards": [
+            { "keyword": "Moral evil", "definition": "Evil and suffering caused by the free actions and choices of human beings, such as murder or war.", "display_order": 1 },
+            { "keyword": "Natural evil", "definition": "Evil and suffering caused by events in the natural world, such as earthquakes, disease, or floods.", "display_order": 2 },
+            { "keyword": "The Problem of Evil", "definition": "The philosophical challenge of explaining how an omnipotent, omniscient and benevolent God can allow evil and suffering to exist.", "display_order": 3 },
+            { "keyword": "Theodicy", "definition": "An attempt to justify or defend God's goodness in the face of evil and suffering in the world.", "display_order": 4 },
+            { "keyword": "Free will", "definition": "The God-given ability for humans to make their own choices; Catholics believe this explains why God allows moral evil.", "display_order": 5 },
+            { "keyword": "Devil (Satan)", "definition": "A supernatural force of evil in Catholic teaching, a fallen angel who tempts humans to sin.", "display_order": 6 },
+            { "keyword": "Temptation", "definition": "The desire or enticement to do something wrong or sinful, which Catholics believe can come from the Devil.", "display_order": 7 },
+            { "keyword": "Conscience", "definition": "The inner sense of right and wrong; Catholics believe it is the voice of God guiding moral decision-making.", "display_order": 8 },
+            { "keyword": "Natural law", "definition": "The Catholic moral principle that right and wrong can be determined through reason and understanding of human nature, as taught by Aquinas.", "display_order": 9 },
+            { "keyword": "Situation ethics", "definition": "The moral theory developed by Joseph Fletcher that the most loving action in any situation is always the right one.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Good and Evil (2)",
+          "cards": [
+            { "keyword": "Absolute morality", "definition": "The belief that certain actions are always right or wrong regardless of the circumstances or consequences.", "display_order": 1 },
+            { "keyword": "Relative morality", "definition": "The belief that whether an action is right or wrong depends on the context, culture or circumstances.", "display_order": 2 },
+            { "keyword": "Ten Commandments", "definition": "The laws given by God to Moses on Mount Sinai, forming the foundation of Catholic moral teaching.", "display_order": 3 },
+            { "keyword": "Sermon on the Mount", "definition": "Jesus' teaching in Matthew 5–7, including the Beatitudes, which outline how Catholics should live moral lives.", "display_order": 4 },
+            { "keyword": "The Beatitudes", "definition": "A series of blessings taught by Jesus in the Sermon on the Mount, describing the values of God's Kingdom.", "display_order": 5 },
+            { "keyword": "Virtues", "definition": "Positive moral qualities or habits Catholics should develop; the cardinal virtues are prudence, justice, fortitude and temperance.", "display_order": 6 },
+            { "keyword": "Golden Rule", "definition": "The teaching of Jesus to 'treat others as you would wish to be treated yourself' (Matthew 7:12).", "display_order": 7 },
+            { "keyword": "Irenaeus' theodicy", "definition": "The argument that God allows suffering because it helps humans develop morally and spiritually towards perfection.", "display_order": 8 },
+            { "keyword": "Augustine's theodicy", "definition": "The argument that God is not responsible for evil; evil entered the world through the free choices of humans and angels.", "display_order": 9 },
+            { "keyword": "Magisterium", "definition": "The official teaching authority of the Catholic Church, through which the Pope and bishops guide Catholics on moral issues.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sin and Forgiveness",
+      "paper": "Paper 2",
+      "display_order": 3,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Sin and Forgiveness (1)",
+          "cards": [
+            { "keyword": "Sin", "definition": "An action, thought or omission that goes against God's will and damages the relationship between humans and God.", "display_order": 1 },
+            { "keyword": "Mortal sin", "definition": "A very serious sin that completely destroys a person's relationship with God; it must be deliberate and freely chosen.", "display_order": 2 },
+            { "keyword": "Venial sin", "definition": "A less serious sin that weakens but does not destroy a person's relationship with God.", "display_order": 3 },
+            { "keyword": "Sacrament of Reconciliation", "definition": "The Catholic sacrament in which a person confesses their sins to a priest and receives God's forgiveness and absolution.", "display_order": 4 },
+            { "keyword": "Absolution", "definition": "The formal forgiveness of sins given by a priest during the Sacrament of Reconciliation.", "display_order": 5 },
+            { "keyword": "Contrition", "definition": "Genuine sorrow for sins committed; Catholics believe true contrition is required before sins can be forgiven.", "display_order": 6 },
+            { "keyword": "Penance", "definition": "An act given by a priest after confession, such as prayers or good deeds, to show repentance and make amends.", "display_order": 7 },
+            { "keyword": "Redemption", "definition": "The Catholic belief that Jesus' death on the cross freed humanity from sin and restored the relationship with God.", "display_order": 8 },
+            { "keyword": "Atonement", "definition": "The reconciliation between God and humanity brought about by Jesus' sacrifice on the cross.", "display_order": 9 },
+            { "keyword": "The Prodigal Son", "definition": "A parable told by Jesus (Luke 15) illustrating God's unconditional forgiveness and welcome for those who repent.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Sin and Forgiveness (2)",
+          "cards": [
+            { "keyword": "Parable of the Lost Sheep", "definition": "Jesus' parable in Luke 15 showing that God actively seeks out sinners and rejoices when they return to Him.", "display_order": 1 },
+            { "keyword": "Repentance", "definition": "Turning away from sin and returning to God; Catholics believe repentance is necessary for forgiveness.", "display_order": 2 },
+            { "keyword": "Grace", "definition": "God's free and undeserved love and help given to humans, enabling them to live according to God's will.", "display_order": 3 },
+            { "keyword": "Baptism", "definition": "The first sacrament in the Catholic Church, through which original sin is removed and a person becomes part of the Church.", "display_order": 4 },
+            { "keyword": "Lord's Prayer", "definition": "The prayer taught by Jesus (Matthew 6:9–13) including the petition 'forgive us our trespasses as we forgive others'.", "display_order": 5 },
+            { "keyword": "Restorative justice", "definition": "An approach to wrongdoing that focuses on repairing harm and restoring relationships rather than purely on punishment.", "display_order": 6 },
+            { "keyword": "Capital punishment", "definition": "The use of the death penalty as punishment for a crime; the Catholic Church opposes capital punishment as incompatible with human dignity.", "display_order": 7 },
+            { "keyword": "Corporal punishment", "definition": "Physical punishment, such as caning; Catholics debate this in light of human dignity and the purpose of punishment.", "display_order": 8 },
+            { "keyword": "Aims of punishment", "definition": "The reasons for punishing wrongdoers: retribution, deterrence, reformation, protection and vindication.", "display_order": 9 },
+            { "keyword": "CAFOD", "definition": "Catholic Agency for Overseas Development; a Catholic organisation working for justice, peace and against poverty worldwide.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Life and Death",
+      "paper": "Paper 2",
+      "display_order": 4,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Life and Death (1)",
+          "cards": [
+            { "keyword": "Resurrection", "definition": "The Catholic belief that Jesus rose bodily from the dead on the third day, and that all humans will rise at the end of time.", "display_order": 1 },
+            { "keyword": "Afterlife", "definition": "Existence after physical death; Catholics believe in Heaven, Hell and Purgatory as possible destinations after death.", "display_order": 2 },
+            { "keyword": "Heaven", "definition": "The state of eternal happiness and union with God, given to those who die in a state of grace.", "display_order": 3 },
+            { "keyword": "Hell", "definition": "The state of eternal separation from God, freely chosen by those who die in a state of mortal sin.", "display_order": 4 },
+            { "keyword": "Purgatory", "definition": "In Catholic teaching, a state of purification after death for those who are saved but not yet fully prepared for Heaven.", "display_order": 5 },
+            { "keyword": "Judgement", "definition": "The Catholic belief that after death, all humans will be judged by God for their actions in life.", "display_order": 6 },
+            { "keyword": "Particular judgement", "definition": "The Catholic belief that each soul is judged individually by God immediately after death.", "display_order": 7 },
+            { "keyword": "Last Judgement", "definition": "The final judgement of all humanity at the end of time, when God will judge the living and the dead.", "display_order": 8 },
+            { "keyword": "Euthanasia", "definition": "Deliberately ending a person's life to relieve suffering; the Catholic Church teaches this is always wrong.", "display_order": 9 },
+            { "keyword": "Assisted suicide", "definition": "Helping someone to take their own life, usually by providing the means; opposed by the Catholic Church.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Life and Death (2)",
+          "cards": [
+            { "keyword": "Palliative care", "definition": "Medical care focused on relieving pain and improving quality of life for those who are terminally ill, supported by the Catholic Church.", "display_order": 1 },
+            { "keyword": "Abortion", "definition": "The deliberate termination of a pregnancy; the Catholic Church teaches that abortion is always gravely wrong.", "display_order": 2 },
+            { "keyword": "Ensoulment", "definition": "The point at which Catholics believe God gives a soul to a developing human being; traditionally believed to be at conception.", "display_order": 3 },
+            { "keyword": "Near-death experience", "definition": "Reports by some people of experiences during clinical death, sometimes used as evidence for life after death.", "display_order": 4 },
+            { "keyword": "Immortality of the soul", "definition": "The belief that the soul survives death and continues to exist eternally, separate from the physical body.", "display_order": 5 },
+            { "keyword": "Parousia", "definition": "The Second Coming of Christ at the end of time, when Catholics believe Jesus will return to judge the living and the dead.", "display_order": 6 },
+            { "keyword": "Requiem Mass", "definition": "A Catholic funeral Mass offered for the soul of a deceased person, asking God for mercy and eternal rest.", "display_order": 7 },
+            { "keyword": "Commitment to life", "definition": "The Catholic principle that human life must be protected from conception to natural death.", "display_order": 8 },
+            { "keyword": "1 Corinthians 15", "definition": "A key New Testament passage in which St Paul teaches about the resurrection of the body and the hope of eternal life.", "display_order": 9 },
+            { "keyword": "John 11:25", "definition": "Jesus' statement 'I am the resurrection and the life', a key verse affirming Catholic belief in resurrection and eternal life.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Judaism - Beliefs and Teachings",
+      "paper": "Paper 3",
+      "display_order": 5,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Judaism – Beliefs and Teachings (1)",
+          "cards": [
+            { "keyword": "Monotheism", "definition": "The belief in one God; the foundation of Jewish faith, expressed in the Shema: 'Hear O Israel, the Lord is our God, the Lord is One.'", "display_order": 1 },
+            { "keyword": "Shema", "definition": "The central prayer of Judaism (Deuteronomy 6:4–9) affirming belief in one God, recited morning and evening.", "display_order": 2 },
+            { "keyword": "Torah", "definition": "The first five books of the Hebrew Bible (also called the Five Books of Moses), containing God's laws and teachings for Jewish life.", "display_order": 3 },
+            { "keyword": "Covenant", "definition": "A sacred agreement between God and the Jewish people; key covenants include those with Abraham and Moses.", "display_order": 4 },
+            { "keyword": "Mitzvot", "definition": "The 613 commandments given by God in the Torah that Jewish people are obligated to follow.", "display_order": 5 },
+            { "keyword": "Thirteen Principles of Faith", "definition": "A summary of core Jewish beliefs written by Maimonides, including belief in God's oneness, the Torah, and the coming of the Messiah.", "display_order": 6 },
+            { "keyword": "Messiah", "definition": "In Judaism, the expected future leader anointed by God who will bring peace and redemption to Israel and the world.", "display_order": 7 },
+            { "keyword": "The Talmud", "definition": "A central text of Rabbinic Judaism consisting of the Mishnah and Gemara, containing Jewish law, ethics and debate.", "display_order": 8 },
+            { "keyword": "Orthodox Judaism", "definition": "A branch of Judaism that strictly adheres to traditional Jewish law and practice as divinely commanded.", "display_order": 9 },
+            { "keyword": "Reform Judaism", "definition": "A branch of Judaism that reinterprets traditional practices in light of modern life, emphasising ethical principles.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Judaism – Beliefs and Teachings (2)",
+          "cards": [
+            { "keyword": "Pikuach nefesh", "definition": "The Jewish principle that preserving human life overrides almost all other religious commandments.", "display_order": 1 },
+            { "keyword": "Tzedakah", "definition": "Charity and justice in Judaism; giving to those in need is considered a religious obligation, not merely a kind act.", "display_order": 2 },
+            { "keyword": "Tikkun Olam", "definition": "A Hebrew phrase meaning 'repairing the world'; the Jewish responsibility to act for justice and improve society.", "display_order": 3 },
+            { "keyword": "Abraham", "definition": "The first patriarch of Judaism, with whom God made the covenant of circumcision, promising him many descendants and the land of Canaan.", "display_order": 4 },
+            { "keyword": "Moses", "definition": "The most important prophet in Judaism, who led the Israelites out of Egypt and received the Torah from God on Mount Sinai.", "display_order": 5 },
+            { "keyword": "The Exodus", "definition": "The Jewish account of God freeing the Israelites from slavery in Egypt under Moses' leadership, a foundational event in Jewish identity.", "display_order": 6 },
+            { "keyword": "Sheol", "definition": "In early Hebrew thought, the shadowy underworld where all the dead exist; later Jewish belief developed ideas of resurrection.", "display_order": 7 },
+            { "keyword": "Olam Ha-Ba", "definition": "Hebrew for 'the World to Come'; the Jewish belief in a future age of peace, or the afterlife and resurrection of the dead.", "display_order": 8 },
+            { "keyword": "Free will", "definition": "The Jewish belief that humans are given the freedom to choose between good and evil, and are therefore responsible for their actions.", "display_order": 9 },
+            { "keyword": "Yetzer ha-tov / Yetzer ha-ra", "definition": "Jewish concepts for the good inclination and evil inclination that exist within every person, between which humans must choose.", "display_order": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Judaism - Practices",
+      "paper": "Paper 3",
+      "display_order": 6,
+      "blocks": [
+        {
+          "block_number": 1,
+          "block_name": "Judaism – Practices (1)",
+          "cards": [
+            { "keyword": "Shabbat", "definition": "The Jewish day of rest observed from Friday sunset to Saturday nightfall, marked by synagogue worship, family and rest from work.", "display_order": 1 },
+            { "keyword": "Synagogue", "definition": "The Jewish place of worship, study and community gathering; the central institution of Jewish communal life.", "display_order": 2 },
+            { "keyword": "Rabbi", "definition": "A Jewish religious teacher and leader of the community, responsible for interpreting Jewish law and providing spiritual guidance.", "display_order": 3 },
+            { "keyword": "Kashrut", "definition": "The Jewish dietary laws that determine which foods are permissible (kosher) and how they must be prepared.", "display_order": 4 },
+            { "keyword": "Kosher", "definition": "Food that meets the requirements of Jewish dietary law; for example, meat and dairy must not be eaten together.", "display_order": 5 },
+            { "keyword": "Bar/Bat Mitzvah", "definition": "The coming-of-age ceremony for Jewish boys (13) and girls (12/13), marking their responsibility for following Jewish law.", "display_order": 6 },
+            { "keyword": "Circumcision (Brit Milah)", "definition": "The Jewish practice of circumcising male babies on the 8th day after birth as a sign of the covenant with Abraham.", "display_order": 7 },
+            { "keyword": "Rosh Hashanah", "definition": "The Jewish New Year, a time of reflection and repentance, marked by the blowing of the shofar (ram's horn).", "display_order": 8 },
+            { "keyword": "Yom Kippur", "definition": "The Day of Atonement; the holiest day in the Jewish calendar, involving fasting, prayer and asking forgiveness from God.", "display_order": 9 },
+            { "keyword": "Passover (Pesach)", "definition": "A major Jewish festival commemorating the Exodus from Egypt, celebrated with the Seder meal and retelling of the story.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "block_name": "Judaism – Practices (2)",
+          "cards": [
+            { "keyword": "Seder", "definition": "The ritual meal held on Passover in which the story of the Exodus is retold using symbolic foods and the Haggadah.", "display_order": 1 },
+            { "keyword": "Haggadah", "definition": "The text read during the Passover Seder, telling the story of the Exodus from Egypt.", "display_order": 2 },
+            { "keyword": "Sukkot", "definition": "The Jewish festival of Tabernacles commemorating the 40 years the Israelites spent in the desert, celebrated in temporary shelters.", "display_order": 3 },
+            { "keyword": "Hanukkah", "definition": "The Jewish festival of lights celebrating the rededication of the Temple in Jerusalem and the miracle of the oil.", "display_order": 4 },
+            { "keyword": "Mezuzah", "definition": "A small case containing a scroll with verses from the Torah (Shema), attached to doorposts of Jewish homes as a sign of faith.", "display_order": 5 },
+            { "keyword": "Tefillin", "definition": "Small black leather boxes containing Torah passages, worn by observant Jewish men during morning weekday prayers.", "display_order": 6 },
+            { "keyword": "Tallit", "definition": "A Jewish prayer shawl with fringes (tzitzit) worn during morning prayers as a reminder of the commandments.", "display_order": 7 },
+            { "keyword": "Kippah (Yarmulke)", "definition": "A small head covering worn by Jewish men as a sign of respect before God.", "display_order": 8 },
+            { "keyword": "Pikuach nefesh (practice)", "definition": "The practical application of preserving life in Jewish law; e.g. Shabbat rules may be broken to save a life.", "display_order": 9 },
+            { "keyword": "Jewish burial practices", "definition": "Jewish tradition requires prompt and simple burial, with the body treated with respect; cremation is traditionally opposed.", "display_order": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

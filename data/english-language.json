@@ -9,11 +9,9 @@
       "name": "Language & Structure Techniques",
       "paper": "Paper 1 & 2",
       "display_order": 1,
-      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
-          "block_name": "Language & Structure Techniques",
           "cards": [
             { "keyword": "Simile", "definition": "A comparison using 'like' or 'as' to describe something by linking it to something else.", "display_order": 1 },
             { "keyword": "Metaphor", "definition": "A direct comparison stating one thing is another, not using 'like' or 'as'.", "display_order": 2 },

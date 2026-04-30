@@ -1,4 +1,5 @@
 import './globals.css'
+import CookieBanner from '../components/CookieBanner'
 
 export const metadata = {
   title: 'The Revision Hub',
@@ -15,6 +16,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className="antialiased min-h-screen">
         {children}
+        <CookieBanner />
       </body>
     </html>
   )

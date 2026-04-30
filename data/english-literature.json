@@ -2,457 +2,157 @@
   "subject": {
     "name": "English Literature",
     "slug": "english-literature",
-    "colour": "#8b5cf6"
+    "colour": "#3b82f6"
   },
   "topics": [
     {
-      "name": "Macbeth — Tragedy Terminology",
+      "name": "Romeo and Juliet",
       "paper": "Paper 1",
+      "exam_board": "AQA",
       "display_order": 1,
-      "exam_board": "AQA",
       "blocks": [
         {
           "block_number": 1,
           "cards": [
-            { "keyword": "Tragedy", "definition": "A dramatic genre ending in the downfall or death of the protagonist, often caused by a fatal flaw.", "display_order": 1 },
-            { "keyword": "Tragic hero", "definition": "A central character of high status whose fatal flaw leads to their downfall and death.", "display_order": 2 },
-            { "keyword": "Hamartia", "definition": "The fatal flaw or error in judgement of a tragic hero that causes their downfall.", "display_order": 3 },
-            { "keyword": "Hubris", "definition": "Excessive pride or self-confidence in a tragic hero, often the cause of their destruction.", "display_order": 4 },
-            { "keyword": "Nemesis", "definition": "The inevitable punishment or downfall that follows a tragic hero's pride or crimes.", "display_order": 5 },
-            { "keyword": "Soliloquy", "definition": "A dramatic speech delivered alone on stage, revealing a character's innermost thoughts to the audience.", "display_order": 6 },
-            { "keyword": "Aside", "definition": "A remark made by a character heard by the audience but not by other characters on stage.", "display_order": 7 },
-            { "keyword": "Dramatic irony", "definition": "When the audience knows something a character does not, creating tension or dark humour.", "display_order": 8 },
-            { "keyword": "Motif", "definition": "A recurring element — image, symbol or idea — that carries thematic significance throughout a text.", "display_order": 9 },
-            { "keyword": "Catharsis", "definition": "The emotional release felt by the audience at the end of a tragedy, purging pity and fear.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Macbeth — Characters",
-      "paper": "Paper 1",
-      "display_order": 2,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Macbeth", "definition": "The tragic hero; a brave general whose unchecked ambition and susceptibility to manipulation lead to tyranny and death.", "display_order": 1 },
-            { "keyword": "Lady Macbeth", "definition": "Macbeth's wife; initially ruthless and manipulative, she plans Duncan's murder but is later destroyed by guilt.", "display_order": 2 },
-            { "keyword": "Duncan", "definition": "The virtuous, trusting King of Scotland; his murder by Macbeth represents the destruction of divine order.", "display_order": 3 },
-            { "keyword": "Malcolm", "definition": "Duncan's son and rightful heir; he flees after his father's murder and later leads the force to defeat Macbeth.", "display_order": 4 },
-            { "keyword": "Banquo", "definition": "Macbeth's loyal friend; the witches prophesy his descendants will be kings. Macbeth has him murdered out of fear.", "display_order": 5 },
-            { "keyword": "Macduff", "definition": "A Scottish nobleman loyal to Duncan; he eventually kills Macbeth, fulfilling the witches' prophecy.", "display_order": 6 },
-            { "keyword": "The Witches", "definition": "Three supernatural figures who deliver equivocal prophecies that tempt and mislead Macbeth to his destruction.", "display_order": 7 },
-            { "keyword": "Ross", "definition": "A Scottish nobleman who acts as a messenger, conveying news of war and betrayal throughout the play.", "display_order": 8 },
-            { "keyword": "Hecate", "definition": "The goddess of witchcraft; she rebukes the witches for interfering with Macbeth without her authority.", "display_order": 9 },
-            { "keyword": "The Porter", "definition": "A comic figure providing relief after Duncan's murder; his speech on equivocation reinforces a key theme.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Macbeth — Themes",
-      "paper": "Paper 1",
-      "display_order": 3,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Ambition", "definition": "The dangerous desire for power that drives Macbeth and Lady Macbeth; Shakespeare presents it as morally corrupting.", "display_order": 1 },
-            { "keyword": "Guilt", "definition": "Both Macbeth and Lady Macbeth are destroyed by guilt — Macbeth sees Banquo's ghost; Lady Macbeth sleepwalks.", "display_order": 2 },
-            { "keyword": "The supernatural", "definition": "The witches, ghost and visions blur the line between reality and imagination, driving characters to destruction.", "display_order": 3 },
-            { "keyword": "Appearance vs reality", "definition": "Nothing is as it seems — 'Fair is foul and foul is fair'; characters are repeatedly deceived by surfaces.", "display_order": 4 },
-            { "keyword": "Kingship", "definition": "Contrasts good kingship (Duncan, Malcolm) with tyranny (Macbeth); linked to the Jacobean concept of divine right.", "display_order": 5 },
-            { "keyword": "Masculinity", "definition": "Lady Macbeth and Macbeth both wrestle with distorted ideas of what it means to be a man; violence is equated with strength.", "display_order": 6 },
-            { "keyword": "Loyalty and betrayal", "definition": "Macbeth's treachery against Duncan, a kinsman and king, is the ultimate betrayal and sets the tragedy in motion.", "display_order": 7 },
-            { "keyword": "Power", "definition": "The corrupting nature of power is central; Macbeth's seizure of the crown destroys him morally and politically.", "display_order": 8 },
-            { "keyword": "Fate vs free will", "definition": "The witches' prophecies raise the question of whether Macbeth's downfall was inevitable or the result of his own choices.", "display_order": 9 },
-            { "keyword": "Order and disorder", "definition": "Duncan's murder creates chaos in both the natural and political world; order is only restored with Macbeth's death.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Macbeth — Key Quotes",
-      "paper": "Paper 1",
-      "display_order": 4,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Fair is foul, and foul is fair", "definition": "The witches establish the theme of appearance vs reality from the outset — nothing in the play is what it seems.", "display_order": 1 },
-            { "keyword": "Stars, hide your fires", "definition": "Macbeth asks darkness to hide his murderous ambitions from heaven, showing early moral awareness of his intentions.", "display_order": 2 },
-            { "keyword": "Unsex me here", "definition": "Lady Macbeth asks the spirits to remove her femininity so she can commit murder without conscience.", "display_order": 3 },
-            { "keyword": "Is this a dagger which I see before me?", "definition": "Macbeth's hallucination before the murder shows how guilt and ambition are already disturbing his mental state.", "display_order": 4 },
-            { "keyword": "Will all great Neptune's ocean wash this blood clean?", "definition": "Macbeth recognises the enormity of his crime — no amount of water can remove his guilt.", "display_order": 5 },
-            { "keyword": "Out, damned spot!", "definition": "Lady Macbeth's sleepwalking reveals her psychological collapse; she imagines blood she cannot wash away.", "display_order": 6 },
-            { "keyword": "Something wicked this way comes", "definition": "The witches announce Macbeth's arrival, showing his transformation from hero to villain in their eyes.", "display_order": 7 },
-            { "keyword": "Tomorrow, and tomorrow, and tomorrow", "definition": "Macbeth's nihilistic soliloquy on the meaninglessness of life after Lady Macbeth's death.", "display_order": 8 },
-            { "keyword": "None of woman born shall harm Macbeth", "definition": "A witches' prophecy that gives Macbeth false security — undone by Macduff's caesarean birth.", "display_order": 9 },
-            { "keyword": "Too full o' the milk of human kindness", "definition": "Lady Macbeth believes Macbeth lacks the ruthlessness needed to seize the crown — she must drive him on.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Macbeth — Context",
-      "paper": "Paper 1",
-      "display_order": 5,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Jacobean era", "definition": "Macbeth was written c.1606 during the reign of James I; Shakespeare's themes directly engaged with contemporary concerns.", "display_order": 1 },
-            { "keyword": "Divine Right of Kings", "definition": "The belief that kings were appointed by God; murdering Duncan was therefore an act against God as well as man.", "display_order": 2 },
-            { "keyword": "The Gunpowder Plot (1605)", "definition": "A Catholic attempt to blow up Parliament; themes of treason and equivocation resonated strongly with audiences.", "display_order": 3 },
-            { "keyword": "Witchcraft", "definition": "James I wrote Daemonologie (1597) on witchcraft; the witches in Macbeth would have genuinely terrified Jacobean audiences.", "display_order": 4 },
-            { "keyword": "The Great Chain of Being", "definition": "A hierarchical order from God to animals; disrupting it by murdering a king caused chaos in the natural world.", "display_order": 5 },
-            { "keyword": "Regicide", "definition": "The killing of a king; considered the most heinous crime in Jacobean society, damning the murderer to hell.", "display_order": 6 },
-            { "keyword": "Equivocation", "definition": "A doctrine of telling half-truths; debated at the Gunpowder Plot trials and central to the witches' misleading prophecies.", "display_order": 7 },
-            { "keyword": "Patriarchy", "definition": "A society dominated by male authority; Lady Macbeth must reject her femininity to gain power, reflecting Jacobean norms.", "display_order": 8 },
-            { "keyword": "Aristotelian tragedy", "definition": "Shakespeare drew on Aristotle's theory — a noble protagonist falls from grace through hamartia and hubris.", "display_order": 9 },
-            { "keyword": "King James I", "definition": "James was patron of Shakespeare's company and a descendant of Banquo; the play flatters him directly.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "A Christmas Carol — Terminology",
-      "paper": "Paper 1",
-      "display_order": 6,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Novella", "definition": "A work of fiction shorter than a novel but longer than a short story, often focused on one theme.", "display_order": 1 },
-            { "keyword": "Allegory", "definition": "A narrative where characters and events represent broader moral or political meanings beyond the surface story.", "display_order": 2 },
-            { "keyword": "Didactic", "definition": "Intended to teach a moral lesson; A Christmas Carol is explicitly didactic, designed to change readers' attitudes.", "display_order": 3 },
-            { "keyword": "Gothic", "definition": "A literary style using darkness, decay and the supernatural to create fear; used in descriptions of the spirits.", "display_order": 4 },
-            { "keyword": "Pathos", "definition": "An appeal to the emotions of the reader; Dickens uses Tiny Tim and the Cratchits to generate sympathy.", "display_order": 5 },
-            { "keyword": "Stave", "definition": "The term Dickens uses for chapters, evoking music and the festive theme — there are five staves in the novella.", "display_order": 6 },
-            { "keyword": "Third person omniscient", "definition": "The narrator has access to all characters' thoughts and addresses the reader directly, creating intimacy.", "display_order": 7 },
-            { "keyword": "Motif", "definition": "A recurring element; fire, light, cold and warmth recur throughout to symbolise generosity and moral state.", "display_order": 8 },
-            { "keyword": "Foreshadowing", "definition": "Marley's ghost and the heavy chain foreshadow Scrooge's fate if he does not change.", "display_order": 9 },
-            { "keyword": "Accumulation", "definition": "A list of words or phrases piled together for emphasis, e.g. Dickens' description of Scrooge's character.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "A Christmas Carol — Characters",
-      "paper": "Paper 1",
-      "display_order": 7,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Ebenezer Scrooge", "definition": "The protagonist; a cold-hearted miser transformed into a generous benefactor through the visitations of three spirits.", "display_order": 1 },
-            { "keyword": "Jacob Marley", "definition": "Scrooge's deceased business partner; condemned to wander in chains forged by his own greed, he warns Scrooge.", "display_order": 2 },
-            { "keyword": "Ghost of Christmas Past", "definition": "Represents memory and conscience; shows Scrooge the warmth and loss of his earlier years to stir his emotions.", "display_order": 3 },
-            { "keyword": "Ghost of Christmas Present", "definition": "A jolly giant representing generosity; shows Scrooge the joy he is missing and the poverty of the Cratchits.", "display_order": 4 },
-            { "keyword": "Ghost of Christmas Yet to Come", "definition": "A silent, dark, hooded figure representing death and consequence; shows Scrooge his own unmourned death.", "display_order": 5 },
-            { "keyword": "Bob Cratchit", "definition": "Scrooge's underpaid clerk; represents the deserving poor — hardworking, grateful and devoted to his family.", "display_order": 6 },
-            { "keyword": "Tiny Tim", "definition": "Bob's disabled son; a symbol of innocence and the vulnerable poor. His death in the alternative future shocks Scrooge.", "display_order": 7 },
-            { "keyword": "Fred", "definition": "Scrooge's cheerful nephew; embodies the generosity and warmth of Christmas spirit that Scrooge has rejected.", "display_order": 8 },
-            { "keyword": "Belle", "definition": "Scrooge's former fiancée; she breaks off their engagement when she realises he has replaced her with money.", "display_order": 9 },
-            { "keyword": "Fan", "definition": "Scrooge's beloved sister and Fred's mother; her early death is a source of Scrooge's emotional withdrawal from the world.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "A Christmas Carol — Themes",
-      "paper": "Paper 1",
-      "display_order": 8,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Social responsibility", "definition": "Dickens argues the wealthy have a moral duty to help the poor; Scrooge's transformation enacts this message.", "display_order": 1 },
-            { "keyword": "Poverty and inequality", "definition": "Dickens exposes the brutal poverty of Victorian London, contrasting it with the wealth of the upper classes.", "display_order": 2 },
-            { "keyword": "Redemption", "definition": "The novella shows that change is possible for even the most selfish individual if they confront their past.", "display_order": 3 },
-            { "keyword": "Christmas spirit", "definition": "Christmas represents generosity, compassion and community; Scrooge's journey is about reconnecting with these values.", "display_order": 4 },
-            { "keyword": "Greed and materialism", "definition": "Scrooge's obsession with money has left him isolated; Dickens critiques the capitalist values of Victorian society.", "display_order": 5 },
-            { "keyword": "Family and community", "definition": "The Cratchits and Fred's household represent the warmth and happiness that come from human connection.", "display_order": 6 },
-            { "keyword": "Memory", "definition": "The Ghost of Christmas Past uses memory to reconnect Scrooge with his emotions and guilt.", "display_order": 7 },
-            { "keyword": "Time", "definition": "The three ghosts take Scrooge through past, present and future, showing that it is not too late to change.", "display_order": 8 },
-            { "keyword": "Ignorance and want", "definition": "The two allegorical children beneath the Ghost of Christmas Present; Dickens presents them as society's greatest dangers.", "display_order": 9 },
-            { "keyword": "Death", "definition": "Marley's chains and Scrooge's unmourned death warn of the consequences of a life spent in selfishness.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "A Christmas Carol — Key Quotes",
-      "paper": "Paper 1",
-      "display_order": 9,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Mankind was my business", "definition": "Marley's warning to Scrooge: the business of life is human welfare, not commercial profit.", "display_order": 1 },
-            { "keyword": "Hard and sharp as flint", "definition": "The narrator's opening description of Scrooge establishes his cold, unyielding character through extended metaphor.", "display_order": 2 },
-            { "keyword": "Are there no prisons?", "definition": "Scrooge echoes Victorian attitudes toward the poor, exposing the cruel indifference of the wealthy.", "display_order": 3 },
-            { "keyword": "God bless us, every one!", "definition": "Tiny Tim's blessing closes the novella; an expression of universal goodwill embodying the Christmas spirit Scrooge has found.", "display_order": 4 },
-            { "keyword": "I will honour Christmas in my heart", "definition": "Scrooge's vow to carry the lessons of past, present and future always — the climax of his transformation.", "display_order": 5 },
-            { "keyword": "Solitary as an oyster", "definition": "A simile capturing Scrooge's deliberate isolation from society — closed, sealed and self-protective.", "display_order": 6 },
-            { "keyword": "The chains he forged in life", "definition": "Marley's chain, made of cash-boxes and ledgers, metaphorically represents how greed imprisons and punishes its owner.", "display_order": 7 },
-            { "keyword": "This boy is Ignorance. This girl is Want.", "definition": "The Ghost's allegorical children — a direct appeal by Dickens for readers to act on social reform.", "display_order": 8 },
-            { "keyword": "Squeezing, wrenching, grasping, scraping, clutching", "definition": "Dickens' accumulation of adjectives condemns Scrooge's character comprehensively from the outset.", "display_order": 9 },
-            { "keyword": "A golden one (idol)", "definition": "Belle's accusation that Scrooge has chosen money over love — the moment that defines his emotional isolation.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "A Christmas Carol — Context",
-      "paper": "Paper 1",
-      "display_order": 10,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Victorian era", "definition": "The reign of Queen Victoria (1837–1901); rapid industrialisation created huge wealth alongside extreme urban poverty.", "display_order": 1 },
-            { "keyword": "Industrialisation", "definition": "The growth of factories created a new industrial poor; Dickens witnessed and wrote against the resulting deprivation.", "display_order": 2 },
-            { "keyword": "Malthusian theory", "definition": "Malthus argued the poor should not be helped as they would overpopulate; echoed in Scrooge's 'surplus population' speech.", "display_order": 3 },
-            { "keyword": "Poor Law Amendment Act (1834)", "definition": "Forced the poor into workhouses rather than providing outdoor relief; Dickens was furious about its cruelty.", "display_order": 4 },
-            { "keyword": "Workhouses", "definition": "Institutions where the destitute had to work for food and shelter in degrading conditions.", "display_order": 5 },
-            { "keyword": "Child labour", "definition": "Children as young as five worked in mines and factories; Dickens campaigned against it throughout his career.", "display_order": 6 },
-            { "keyword": "Dickens' own poverty", "definition": "At 12, Dickens worked in a blacking factory when his father was imprisoned for debt; this shaped his empathy for the poor.", "display_order": 7 },
-            { "keyword": "Laissez-faire economics", "definition": "The Victorian belief that the market should be left alone and the state should not intervene to help the poor.", "display_order": 8 },
-            { "keyword": "The ragged school movement", "definition": "Voluntary schools for destitute children; Dickens supported them and they inform his concern for ignorance in the novella.", "display_order": 9 },
-            { "keyword": "Publication (1843)", "definition": "Written in six weeks and published in December 1843; Dickens wanted it to reach as wide an audience as possible.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "An Inspector Calls — Terminology",
-      "paper": "Paper 2",
-      "display_order": 11,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Drama", "definition": "A literary form intended to be performed; An Inspector Calls uses theatrical conventions for political effect.", "display_order": 1 },
-            { "keyword": "Morality play", "definition": "A form of drama using characters to represent moral values; AIC has similarities in its didactic, allegorical structure.", "display_order": 2 },
-            { "keyword": "Well-made play", "definition": "A tightly constructed drama building to a revelation; AIC subverts this by leaving questions unresolved.", "display_order": 3 },
-            { "keyword": "Dramatic irony", "definition": "Birling's praise of the Titanic and dismissal of war are key examples — the 1945 audience knew he was wrong.", "display_order": 4 },
-            { "keyword": "Stage directions", "definition": "Priestley's instructions on setting and lighting carry significant meaning, e.g. the Inspector's commanding entrance.", "display_order": 5 },
-            { "keyword": "Exposition", "definition": "Background information given at the start to establish character and situation before the main action.", "display_order": 6 },
-            { "keyword": "Denouement", "definition": "The resolution of the plot; AIC deliberately withholds a satisfying denouement to unsettle the audience.", "display_order": 7 },
-            { "keyword": "Cliff-hanger", "definition": "The final telephone call is one of drama's most famous cliff-hangers, leaving the ending unresolved.", "display_order": 8 },
-            { "keyword": "Dramatic device", "definition": "Technique used for theatrical effect, such as the single set, real-time action or the Inspector's mysterious identity.", "display_order": 9 },
-            { "keyword": "Allegory", "definition": "AIC can be read allegorically: the Inspector represents collective conscience; the Birlings represent capitalist society.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "An Inspector Calls — Characters",
-      "paper": "Paper 2",
-      "display_order": 12,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Inspector Goole", "definition": "A mysterious, authoritative figure; may be supernatural — a moral force, a ghost or Priestley's socialist mouthpiece.", "display_order": 1 },
-            { "keyword": "Arthur Birling", "definition": "A pompous, self-made businessman; represents capitalist complacency and the arrogance of the upper-middle class.", "display_order": 2 },
-            { "keyword": "Sybil Birling", "definition": "Arthur's cold, snobbish wife; she refuses to accept responsibility and is the last to help Eva, making her the most culpable.", "display_order": 3 },
-            { "keyword": "Sheila Birling", "definition": "The Birlings' daughter; initially self-absorbed, she undergoes genuine moral growth and fully accepts responsibility.", "display_order": 4 },
-            { "keyword": "Eric Birling", "definition": "The Birlings' troubled son; he impregnated Eva and stole from his father, but like Sheila he accepts responsibility.", "display_order": 5 },
-            { "keyword": "Gerald Croft", "definition": "Sheila's fiancé and son of a rival businessman; he had an affair with Eva/Daisy. His response is ambiguous and self-serving.", "display_order": 6 },
-            { "keyword": "Eva Smith / Daisy Renton", "definition": "The dead girl; never seen, making her a symbol of all exploited working-class women rather than an individual.", "display_order": 7 },
-            { "keyword": "Edna", "definition": "The Birlings' maid; a minor character whose silent presence as a servant reinforces the household's class assumptions.", "display_order": 8 },
-            { "keyword": "Mr Birling's character arc", "definition": "Birling begins confident and ends relieved nothing is 'real' — he has learned absolutely nothing from the Inspector's visit.", "display_order": 9 },
-            { "keyword": "Sheila's character arc", "definition": "Sheila begins shallow and ends as the play's moral voice — Priestley presents the younger generation as capable of change.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "An Inspector Calls — Themes",
-      "paper": "Paper 2",
-      "display_order": 13,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Social responsibility", "definition": "The central theme; Priestley argues through the Inspector that we are all responsible for each other's welfare.", "display_order": 1 },
-            { "keyword": "Class", "definition": "The rigid Edwardian class system is exposed as cruel and hypocritical; the Birlings exploit those below them.", "display_order": 2 },
-            { "keyword": "Gender", "definition": "Eva has no power as a working-class woman; Sheila's limited agency reflects women's position in 1912 society.", "display_order": 3 },
-            { "keyword": "Capitalism vs socialism", "definition": "Birling embodies selfish capitalism; the Inspector voices Priestley's socialist belief in collective responsibility.", "display_order": 4 },
-            { "keyword": "Age and generation", "definition": "The younger Birlings (Sheila, Eric) are capable of change; the older generation (Arthur, Sybil) refuse to learn.", "display_order": 5 },
-            { "keyword": "Guilt and responsibility", "definition": "Each character bears partial responsibility for Eva's death; Priestley asks which characters the audience resembles.", "display_order": 6 },
-            { "keyword": "Justice", "definition": "The Inspector represents moral justice; whether real or supernatural, justice will eventually arrive.", "display_order": 7 },
-            { "keyword": "Hypocrisy", "definition": "The Birlings present themselves as respectable but their treatment of Eva reveals their moral bankruptcy.", "display_order": 8 },
-            { "keyword": "Power", "definition": "The Birlings abuse their power over Eva at every stage; Priestley shows how the powerful exploit the vulnerable.", "display_order": 9 },
-            { "keyword": "Time and consequence", "definition": "The play's real-time structure and 1912/1945 double setting make its warnings about consequence urgent and unavoidable.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "An Inspector Calls — Key Quotes",
-      "paper": "Paper 2",
-      "display_order": 14,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "We are members of one body", "definition": "The Inspector's final speech; a direct expression of Priestley's socialist belief in collective moral responsibility.", "display_order": 1 },
-            { "keyword": "Fire and blood and anguish", "definition": "The Inspector prophesies WWI and WWII; gives the play urgent political resonance for its 1945 audience.", "display_order": 2 },
-            { "keyword": "A man has to mind his own business", "definition": "Birling's capitalist philosophy is immediately undermined by the Inspector's arrival — Priestley presents it as dangerously wrong.", "display_order": 3 },
-            { "keyword": "The Titanic — unsinkable, absolutely unsinkable", "definition": "Dramatic irony; Birling's confidence signals to the 1945 audience that his judgement cannot be trusted on anything.", "display_order": 4 },
-            { "keyword": "You're beginning to pretend nothing much has happened", "definition": "Sheila challenges her parents' refusal to learn — she represents the younger generation's capacity for change.", "display_order": 5 },
-            { "keyword": "Girls of that class", "definition": "Sybil's dismissal of Eva reveals her class prejudice and total refusal to see Eva as a fellow human being.", "display_order": 6 },
-            { "keyword": "These girls aren't cheap labour — they're people", "definition": "Sheila's moral awakening; she recognises Eva's humanity where her father saw only economic units.", "display_order": 7 },
-            { "keyword": "I'd give thousands — yes thousands", "definition": "Birling's offer of money shows he still thinks wealth can solve moral problems; he has learned nothing.", "display_order": 8 },
-            { "keyword": "Each of you helped to kill her", "definition": "The Inspector's collective accusation links each character's action in a chain of responsibility leading to Eva's death.", "display_order": 9 },
-            { "keyword": "Not the kind of father a chap could go to when he's in trouble", "definition": "Eric exposes Birling's failure as a father; his authority was built on fear, not love or genuine care.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "An Inspector Calls — Context",
-      "paper": "Paper 2",
-      "display_order": 15,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "J.B. Priestley", "definition": "A socialist writer from Bradford; he served in WWI and wrote AIC in 1945 after WWII, having witnessed the cost of inequality.", "display_order": 1 },
-            { "keyword": "1912 setting", "definition": "Set just before WWI in a period of apparent stability; the audience knows the complacency of characters like Birling is fatal.", "display_order": 2 },
-            { "keyword": "1945 production", "definition": "First performed in 1945; audiences had just lived through WWII and were voting Labour — the play's message felt timely.", "display_order": 3 },
-            { "keyword": "Edwardian society", "definition": "Characterised by rigid class divisions, limited rights for women and workers, and entrenched deference to the wealthy.", "display_order": 4 },
-            { "keyword": "The Welfare State", "definition": "Established in 1945; Priestley strongly supported it — AIC was written partly to build public support for collective responsibility.", "display_order": 5 },
-            { "keyword": "Suffragette movement", "definition": "Women were campaigning for the vote in 1912; Eva's powerlessness reflects the vulnerability of unenfranchised women.", "display_order": 6 },
-            { "keyword": "Trade unions", "definition": "Workers were organising for better pay; Birling's sacking of Eva for strike action reflects real class tensions of the era.", "display_order": 7 },
-            { "keyword": "World War One", "definition": "Birling confidently predicts no war; the audience knows millions died — Priestley uses this to undermine capitalist confidence.", "display_order": 8 },
-            { "keyword": "Class system", "definition": "In Edwardian Britain, your birth determined your life chances; Priestley saw this as morally indefensible.", "display_order": 9 },
-            { "keyword": "Collective wartime spirit", "definition": "WWII required collective sacrifice; Priestley argued this spirit of community should continue into peacetime reconstruction.", "display_order": 10 }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Power & Conflict — Terminology & Themes",
-      "paper": "Paper 2",
-      "display_order": 16,
-      "exam_board": "AQA",
-      "blocks": [
-        {
-          "block_number": 1,
-          "cards": [
-            { "keyword": "Volta", "definition": "A turn or shift in argument, tone or perspective within a poem, often at a key structural moment.", "display_order": 1 },
-            { "keyword": "Iambic pentameter", "definition": "A metre with ten syllables per line in an unstressed-stressed pattern; associated with formality and tradition.", "display_order": 2 },
-            { "keyword": "Free verse", "definition": "Poetry without a regular rhyme scheme or metre, allowing for a natural, conversational or fragmented tone.", "display_order": 3 },
-            { "keyword": "Enjambment", "definition": "When a sentence or phrase runs over from one line or stanza to the next without a pause.", "display_order": 4 },
-            { "keyword": "Caesura", "definition": "A deliberate pause within a line of poetry, often shown by punctuation, creating emphasis or tension.", "display_order": 5 },
-            { "keyword": "Half-rhyme", "definition": "Words that almost rhyme but don't quite; used to create dissonance and unease, e.g. in Owen's poetry.", "display_order": 6 },
-            { "keyword": "Dramatic monologue", "definition": "A poem in the voice of a single speaker, often revealing character through what they say and omit.", "display_order": 7 },
-            { "keyword": "Elegy", "definition": "A poem of mourning or lamentation, typically written in response to death or loss.", "display_order": 8 },
-            { "keyword": "Couplet", "definition": "Two consecutive lines of poetry that rhyme, often used to conclude or summarise a point.", "display_order": 9 },
-            { "keyword": "Stanza", "definition": "A grouped set of lines within a poem, equivalent to a paragraph in prose.", "display_order": 10 }
+            { "keyword": "Tragic Hero", "definition": "A central character whose fatal flaw leads to their downfall. Romeo's impulsiveness and Juliet's defiance both contribute to the tragedy.", "display_order": 1 },
+            { "keyword": "Fate and Free Will", "definition": "A central theme exploring whether the lovers are doomed by destiny ('star-crossed') or destroyed by the choices of those around them.", "display_order": 2 },
+            { "keyword": "Prologue", "definition": "The opening sonnet that reveals the tragic ending in advance, creating dramatic irony throughout the play.", "display_order": 3 },
+            { "keyword": "Dramatic Irony", "definition": "When the audience knows something a character does not, e.g. the audience knows Juliet is alive when Romeo believes she is dead.", "display_order": 4 },
+            { "keyword": "Patriarchal Society", "definition": "A social structure where men hold authority. Capulet's control over Juliet's marriage reflects the rigid gender expectations of the era.", "display_order": 5 },
+            { "keyword": "Courtly Love", "definition": "An idealised, worshipping form of love seen in Romeo's infatuation with Rosaline, contrasting with his deeper love for Juliet.", "display_order": 6 },
+            { "keyword": "Honour", "definition": "A key male value — Tybalt and Mercutio's deaths stem from conflicts rooted in the need to protect personal and family honour.", "display_order": 7 },
+            { "keyword": "Conflict", "definition": "Present on multiple levels: family (Capulet vs Montague), internal (Romeo's loyalty vs love), and social (individual desire vs expectation).", "display_order": 8 },
+            { "keyword": "Oxymoron", "definition": "Used repeatedly to reflect contradiction, e.g. 'O brawling love, O loving hate' — showing the paradox of the lovers' situation.", "display_order": 9 },
+            { "keyword": "Sonnet Form", "definition": "14-line poems in iambic pentameter used for the prologue and the lovers' first meeting, elevating their relationship as pure and poetic.", "display_order": 10 }
           ]
         },
         {
           "block_number": 2,
           "cards": [
-            { "keyword": "Power of nature", "definition": "Nature is shown as overwhelming or indifferent to human ambition; seen in Exposure and Storm on the Island.", "display_order": 1 },
-            { "keyword": "Power of humans", "definition": "The capacity of individuals or states to dominate, destroy or control others; seen in Ozymandias and The Emigrée.", "display_order": 2 },
-            { "keyword": "Conflict", "definition": "Internal and external struggles — war, identity, memory — explored across all 15 poems in the cluster.", "display_order": 3 },
-            { "keyword": "Memory", "definition": "How the past is preserved, distorted or mourned; central to Kamikaze, Poppies and War Photographer.", "display_order": 4 },
-            { "keyword": "Loss", "definition": "The experience of losing people, places, identity or innocence; present in Poppies, Remains and Kamikaze.", "display_order": 5 },
-            { "keyword": "Identity", "definition": "How individuals or communities define themselves under pressure; explored in The Emigrée and Checking Out Me History.", "display_order": 6 },
-            { "keyword": "Futility of war", "definition": "War achieves nothing and destroys human potential; central to Exposure, Remains and Bayonet Charge.", "display_order": 7 },
-            { "keyword": "Imperialism", "definition": "The extension of power by conquest; critiqued in Ozymandias and Checking Out Me History.", "display_order": 8 },
-            { "keyword": "Trauma", "definition": "Psychological damage from violent experience; central to Remains, Bayonet Charge and War Photographer.", "display_order": 9 },
-            { "keyword": "Time", "definition": "The passing of time and its effect on power, memory and nature; a linking concept across many poems.", "display_order": 10 }
+            { "keyword": "Mercutio", "definition": "Romeo's witty, cynical friend who dismisses romantic love. His death at Tybalt's hands is the turning point that seals the tragedy.", "display_order": 1 },
+            { "keyword": "Tybalt", "definition": "Juliet's aggressive cousin who embodies the feud. His refusal to compromise drives the play towards tragedy.", "display_order": 2 },
+            { "keyword": "Friar Lawrence", "definition": "A well-intentioned but flawed figure whose plan to reunite the lovers ultimately fails, raising questions about adult responsibility.", "display_order": 3 },
+            { "keyword": "The Nurse", "definition": "Juliet's confidante and maternal figure. Her later advice to marry Paris represents a pragmatic but devastating betrayal of Juliet.", "display_order": 4 },
+            { "keyword": "Lord Capulet", "definition": "Juliet's father whose initial reasonableness turns to aggressive control when she refuses to marry Paris, showing the dangers of patriarchal power.", "display_order": 5 },
+            { "keyword": "Light and Dark Imagery", "definition": "Juliet is Romeo's 'sun', yet their love exists in darkness and secrecy, suggesting its fragility and the danger surrounding it.", "display_order": 6 },
+            { "keyword": "Haste", "definition": "A key theme — the speed of the lovers' relationship, marriage and deaths reflects passion, but also causes their destruction.", "display_order": 7 },
+            { "keyword": "Death as a Lover", "definition": "Death is personified as Juliet's bridegroom, e.g. 'Death is my son-in-law'. This motif foreshadows and contextualises the tragic ending.", "display_order": 8 },
+            { "keyword": "Social Responsibility", "definition": "The Prince, the families and the Friar all bear responsibility for the tragedy. Shakespeare critiques a society that values honour over human life.", "display_order": 9 },
+            { "keyword": "Iambic Pentameter", "definition": "A rhythm of ten syllables per line. Higher-status characters often speak in it; prose is used for lower-status or comic moments.", "display_order": 10 }
           ]
         }
       ]
     },
     {
-      "name": "Power & Conflict — Ozymandias & London",
-      "paper": "Paper 2",
-      "display_order": 17,
+      "name": "A Christmas Carol",
+      "paper": "Paper 1",
       "exam_board": "AQA",
+      "display_order": 2,
       "blocks": [
         {
           "block_number": 1,
           "cards": [
-            { "keyword": "Ozymandias — hubris", "definition": "The shattered statue symbolises how even the greatest human power is temporary; pride leads to inevitable decay.", "display_order": 1 },
-            { "keyword": "Ozymandias — irony", "definition": "The boastful inscription survives surrounded by nothing — a devastating irony that undermines the boast entirely.", "display_order": 2 },
-            { "keyword": "Ozymandias — sonnet form", "definition": "Shelley uses a sonnet — associated with immortality — ironically; the form itself cannot preserve Ozymandias.", "display_order": 3 },
-            { "keyword": "Ozymandias — framing", "definition": "A traveller tells the narrator; the double remove distances the speaker, suggesting the story has become legend.", "display_order": 4 },
-            { "keyword": "Ozymandias — the sculptor", "definition": "The hand that mocked them — the sculptor's art has outlasted the king's power; art may outlast empire.", "display_order": 5 },
-            { "keyword": "London — anaphora", "definition": "Blake's repeated 'In every' creates a relentless rhythm, suggesting the inescapable, systematic nature of suffering.", "display_order": 6 },
-            { "keyword": "London — chartered", "definition": "'Chartered streets' and 'chartered Thames' — even nature has been commodified by commercial control.", "display_order": 7 },
-            { "keyword": "London — marks", "definition": "'Marks of weakness, marks of woe' — both physical and spiritual; the city leaves visible signs of suffering on its people.", "display_order": 8 },
-            { "keyword": "London — chimney sweeper", "definition": "Child labourers whose suffering 'appalls' the Church — a religious institution complicit in exploitation.", "display_order": 9 },
-            { "keyword": "London — mind-forged manacles", "definition": "Blake's metaphor for psychological oppression; people are imprisoned by their own acceptance of authority.", "display_order": 10 }
+            { "keyword": "Redemption", "definition": "The central theme — Scrooge's transformation from a cold, miserly man to a generous one shows Dickens's belief that anyone can change.", "display_order": 1 },
+            { "keyword": "Social Responsibility", "definition": "Dickens's key message — the wealthy have a moral duty to help the poor. Scrooge's neglect of this duty is presented as both wrong and dangerous.", "display_order": 2 },
+            { "keyword": "Ignorance and Want", "definition": "Two allegorical children beneath the Ghost of Christmas Present's robes, representing the suffering caused by society's wilful neglect of the poor.", "display_order": 3 },
+            { "keyword": "Allegory", "definition": "The novella works as an allegory — characters, settings and events symbolise wider moral and social truths about Victorian England.", "display_order": 4 },
+            { "keyword": "Jacob Marley", "definition": "Scrooge's dead business partner who appears in chains — the physical symbol of the spiritual punishment awaiting those who ignore their fellow human beings.", "display_order": 5 },
+            { "keyword": "The Ghost of Christmas Past", "definition": "Represents memory and regret. Shows Scrooge's lonely childhood and lost love, helping the reader understand why he became cold and isolated.", "display_order": 6 },
+            { "keyword": "The Ghost of Christmas Present", "definition": "A jolly, generous figure who shows Scrooge the warmth of others' celebrations including the Cratchits, highlighting what Scrooge has chosen to reject.", "display_order": 7 },
+            { "keyword": "The Ghost of Christmas Yet to Come", "definition": "A silent, shadowy figure representing death and consequence. Shows Scrooge his lonely, unmourned death if he does not change.", "display_order": 8 },
+            { "keyword": "Tiny Tim", "definition": "Bob Cratchit's disabled son who symbolises the innocent poor. His potential death is used to shock Scrooge and the reader into empathy.", "display_order": 9 },
+            { "keyword": "Victorian Context", "definition": "Dickens wrote the novella in 1843 in response to a report on child poverty, using fiction to campaign for social reform.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Scrooge's Transformation", "definition": "Scrooge moves through fear, regret and empathy across the five staves, ending as a man who embraces generosity and community.", "display_order": 1 },
+            { "keyword": "Bob Cratchit", "definition": "Scrooge's underpaid clerk who represents the decent, hardworking poor. His warmth despite poverty contrasts sharply with Scrooge's wealth and coldness.", "display_order": 2 },
+            { "keyword": "Fred", "definition": "Scrooge's cheerful nephew whose repeated invitation to Christmas dinner symbolises forgiveness and the warmth that Scrooge has been shutting out.", "display_order": 3 },
+            { "keyword": "Stave Structure", "definition": "Dickens calls each chapter a 'stave' (part of a musical score), reinforcing the carol theme and suggesting the novella is a joyful moral fable.", "display_order": 4 },
+            { "keyword": "Light and Dark Imagery", "definition": "Darkness represents Scrooge's isolation and moral blindness; light represents generosity and redemption. The novella ends with brightness.", "display_order": 5 },
+            { "keyword": "Christmas as Symbol", "definition": "Christmas represents generosity, community and compassion — a time that exposes the moral state of individuals.", "display_order": 6 },
+            { "keyword": "Fezziwig", "definition": "Scrooge's kind former employer who shows that wealth and generosity are not mutually exclusive, implicitly criticising Scrooge's choices.", "display_order": 7 },
+            { "keyword": "Belle", "definition": "Scrooge's former fiancee who leaves him because he replaced love with money, representing what Scrooge has sacrificed.", "display_order": 8 },
+            { "keyword": "Simile and Metaphor", "definition": "Dickens uses vivid comparisons to establish Scrooge — 'Hard and sharp as flint' — making his character instantly clear to the reader.", "display_order": 9 },
+            { "keyword": "Narrative Voice", "definition": "Dickens uses a warm, intimate narrator who addresses the reader directly, creating a moralistic tone that reinforces the novella's message.", "display_order": 10 }
           ]
         }
       ]
     },
     {
-      "name": "Power & Conflict — Remains & Poppies",
-      "paper": "Paper 2",
-      "display_order": 18,
+      "name": "An Inspector Calls",
+      "paper": "Paper 1",
       "exam_board": "AQA",
+      "display_order": 3,
       "blocks": [
         {
           "block_number": 1,
           "cards": [
-            { "keyword": "Remains — colloquial voice", "definition": "Armitage uses blunt, everyday language to capture a soldier's mindset and the psychological aftermath of killing.", "display_order": 1 },
-            { "keyword": "Remains — present tense", "definition": "The soldier relives the incident in the present tense, suggesting the trauma is ongoing and inescapable.", "display_order": 2 },
-            { "keyword": "Remains — enjambment", "definition": "Lines overflow across stanzas, mimicking the uncontrollable nature of traumatic memory and intrusive thoughts.", "display_order": 3 },
-            { "keyword": "Remains — his bloody life in my bloody hands", "definition": "The ambiguity of 'bloody' (literal and emphatic) captures both the physical reality and emotional burden of killing.", "display_order": 4 },
-            { "keyword": "Remains — final image", "definition": "The looter's body 'tends to stay' — the soldier cannot escape the memory; PTSD is powerfully implied.", "display_order": 5 },
-            { "keyword": "Poppies — extended metaphor", "definition": "A mother's experience of a son leaving for war, told through the metaphor of Remembrance Sunday poppies.", "display_order": 6 },
-            { "keyword": "Poppies — domestic detail", "definition": "Small, intimate details (blazer, sellotape) contrast with the enormity of loss; the personal within the political.", "display_order": 7 },
-            { "keyword": "Poppies — ambiguity", "definition": "It is never stated the son has died; the ambiguity leaves the reader sharing the mother's uncertainty and anguish.", "display_order": 8 },
-            { "keyword": "Poppies — free verse", "definition": "The lack of rigid structure mirrors the mother's emotional fragmentation; grief resists neat, ordered form.", "display_order": 9 },
-            { "keyword": "Poppies — released a song bird", "definition": "The mother imagines her son as a free bird; hopeful yet painful, suggesting her inability to protect him.", "display_order": 10 }
+            { "keyword": "Social Responsibility", "definition": "Priestley's central message — we are all responsible for each other. Each Birling family member's selfishness contributed to Eva Smith's death.", "display_order": 1 },
+            { "keyword": "Inspector Goole", "definition": "A mysterious figure who may represent conscience or socialist ideals. His name ('ghoul') and omniscience suggest he is more than a real detective.", "display_order": 2 },
+            { "keyword": "Eva Smith / Daisy Renton", "definition": "The unseen victim whose death drives the plot. She may be one woman or many — symbolising all exploited working-class women.", "display_order": 3 },
+            { "keyword": "Arthur Birling", "definition": "A pompous businessman who prioritises profit over people. Priestley uses him to satirise capitalist values and wilful ignorance.", "display_order": 4 },
+            { "keyword": "Sybil Birling", "definition": "Arthur's cold, snobbish wife who refuses to accept responsibility. Her dismissal of Eva's charity appeal is presented as especially callous.", "display_order": 5 },
+            { "keyword": "Sheila Birling", "definition": "Initially shallow, she undergoes the greatest change — accepting responsibility and emerging as a moral voice representing hope for a better future.", "display_order": 6 },
+            { "keyword": "Eric Birling", "definition": "The troubled son whose theft and relationship with Eva reveals his weakness and the hypocrisy of the Birlings' respectability.", "display_order": 7 },
+            { "keyword": "Gerald Croft", "definition": "Sheila's fiance whose affair with Daisy Renton reveals his capacity for both kindness and exploitation. His relief at the Inspector's exposure is telling.", "display_order": 8 },
+            { "keyword": "Time and Setting", "definition": "Set in 1912 but written in 1945. The dramatic irony of Birling's wrong predictions about war and the Titanic undermines his authority.", "display_order": 9 },
+            { "keyword": "The Generation Divide", "definition": "Sheila and Eric accept responsibility; Arthur and Sybil do not. Priestley suggests hope lies with the younger generation.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "Dramatic Irony", "definition": "The audience knows Birling is wrong about war and the Titanic, making his dismissal of social responsibility seem even more arrogant.", "display_order": 1 },
+            { "keyword": "Collective Responsibility", "definition": "No single character kills Eva — each plays a part. Priestley argues that society's collective indifference causes suffering.", "display_order": 2 },
+            { "keyword": "Class", "definition": "The Birlings' treatment of Eva is shaped by class prejudice. Priestley exposes how the privileged exploit the vulnerable with impunity.", "display_order": 3 },
+            { "keyword": "Gender", "definition": "Eva is vulnerable partly because she is a woman — she can be dismissed from work, manipulated by men and turned away from charity.", "display_order": 4 },
+            { "keyword": "The Inspector's Final Speech", "definition": "'We are members of one body. We are responsible for each other.' This directly states Priestley's socialist message to the audience.", "display_order": 5 },
+            { "keyword": "Cliff-hanger Ending", "definition": "The final phone call resets the plot, suggesting the cycle of suffering will continue unless attitudes change — a warning to the 1945 audience.", "display_order": 6 },
+            { "keyword": "Unities of Time and Place", "definition": "One location, one evening. This creates intensity and claustrophobia, trapping characters with their guilt.", "display_order": 7 },
+            { "keyword": "Capitalism vs Socialism", "definition": "Birling represents capitalism (individual profit); the Inspector represents socialism (collective responsibility). Priestley clearly sides with the Inspector.", "display_order": 8 },
+            { "keyword": "Priestley's Context", "definition": "Written at the end of WWII, the play argues that post-war Britain must choose a fairer, more equal society — or repeat the mistakes of the past.", "display_order": 9 },
+            { "keyword": "Symbolism of the Inspector", "definition": "The Inspector may represent conscience or moral reckoning. His supernatural qualities suggest the Birlings cannot ultimately escape responsibility.", "display_order": 10 }
           ]
         }
       ]
     },
     {
-      "name": "Power & Conflict — Exposure & Bayonet Charge",
+      "name": "Anthology: Power and Conflict",
       "paper": "Paper 2",
-      "display_order": 19,
       "exam_board": "AQA",
+      "display_order": 4,
       "blocks": [
         {
           "block_number": 1,
           "cards": [
-            { "keyword": "Exposure — merciless iced east winds", "definition": "Personification of wind as an enemy; nature, not the opposing army, is what kills the soldiers in Exposure.", "display_order": 1 },
-            { "keyword": "Exposure — rhetorical question", "definition": "'What are we doing here?' — Owen's repeated question emphasises the futility and purposelessness of soldiers' suffering.", "display_order": 2 },
-            { "keyword": "Exposure — circular structure", "definition": "The poem ends where it begins; the soldiers are no closer to relief — a structural image of hopelessness.", "display_order": 3 },
-            { "keyword": "Exposure — But nothing happens", "definition": "The repeated refrain; the true enemy is inaction and waiting, not the German guns — war as exposure, not heroism.", "display_order": 4 },
-            { "keyword": "Exposure — half-rhyme", "definition": "Owen uses unsatisfying half-rhymes (e.g. 'wire/war') to create dissonance, reflecting the discomfort of the trenches.", "display_order": 5 },
-            { "keyword": "Bayonet Charge — etcetera", "definition": "'King, honour, human dignity, etcetera' — abstractions that drove men to war become meaningless in the moment of terror.", "display_order": 6 },
-            { "keyword": "Bayonet Charge — present tense", "definition": "The immediacy of present-tense verbs puts the reader in the soldier's terrified body, collapsing all distance.", "display_order": 7 },
-            { "keyword": "Bayonet Charge — animal imagery", "definition": "The soldier becomes a 'hare' — a hunted animal. Hughes strips away his humanity to show how war dehumanises.", "display_order": 8 },
-            { "keyword": "Bayonet Charge — dropped him", "definition": "The sudden, abrupt verb; the soldier is ambushed by his own terror — thought is a liability in combat.", "display_order": 9 },
-            { "keyword": "Bayonet Charge — form", "definition": "Three uneven stanzas mirror the soldier's stumbling, chaotic progress; form enacts the disorder of battle.", "display_order": 10 }
+            { "keyword": "Ozymandias (Shelley)", "definition": "A sonnet about a ruined statue in the desert. Explores the idea that political power is temporary and nature/time will always outlast human arrogance.", "display_order": 1 },
+            { "keyword": "London (Blake)", "definition": "A walk through London exposing suffering and oppression. Blake criticises the institutions — church, monarchy, government — that maintain poverty.", "display_order": 2 },
+            { "keyword": "The Prelude: Stealing the Boat (Wordsworth)", "definition": "Explores how nature disciplines and humbles the speaker. A terrifying experience on a lake reveals nature's power over human arrogance.", "display_order": 3 },
+            { "keyword": "My Last Duchess (Browning)", "definition": "A dramatic monologue in which a duke reveals he had his wife killed for not deferring to him. Explores controlling, possessive power.", "display_order": 4 },
+            { "keyword": "The Charge of the Light Brigade (Tennyson)", "definition": "Celebrates soldiers ordered into a suicidal cavalry charge. Explores the tension between military glory and the catastrophic waste of war.", "display_order": 5 },
+            { "keyword": "Exposure (Owen)", "definition": "Soldiers dying from cold and boredom rather than battle. Challenges the idea that war is glorious — nature is the real enemy here.", "display_order": 6 },
+            { "keyword": "Storm on the Island (Heaney)", "definition": "Explores a community's vulnerability to nature's power. The storm becomes a metaphor for any overwhelming, invisible force — including political conflict.", "display_order": 7 },
+            { "keyword": "Bayonet Charge (Hughes)", "definition": "A soldier's chaotic, terrifying experience mid-charge. Hughes strips away patriotism to expose the animal fear and confusion of combat.", "display_order": 8 },
+            { "keyword": "Remains (Armitage)", "definition": "A soldier haunted by shooting a looter. Explores psychological trauma (PTSD) and the lasting damage of conflict on those who fight.", "display_order": 9 },
+            { "keyword": "Poppies (Weir)", "definition": "A mother's grief as her son leaves for war. Explores the domestic, personal cost of conflict — the power of love and loss.", "display_order": 10 }
+          ]
+        },
+        {
+          "block_number": 2,
+          "cards": [
+            { "keyword": "War Photographer (Duffy)", "definition": "Explores the moral tension of documenting suffering. The photographer feels guilt and detachment — the public's indifference is also critiqued.", "display_order": 1 },
+            { "keyword": "Tissue (Dharker)", "definition": "Uses paper as a metaphor to explore the fragility of human power and the structures we build — maps, records, religious texts — to control our lives.", "display_order": 2 },
+            { "keyword": "The Emigree (Rumens)", "definition": "A speaker remembers a city she was forced to leave. Explores the power of memory and identity against political oppression.", "display_order": 3 },
+            { "keyword": "Kamikaze (Garland)", "definition": "A Japanese pilot turns back from a suicide mission. Explores the conflict between duty and the will to live — and the community's punishment of his choice.", "display_order": 4 },
+            { "keyword": "Checking Out Me History (Agard)", "definition": "Challenges a colonial education that erased Black history. Uses dialect and fragmented form to reclaim cultural identity and resist oppression.", "display_order": 5 },
+            { "keyword": "Dramatic Monologue", "definition": "A poem spoken by a single voice, often revealing character unconsciously. Used in My Last Duchess and Remains to expose uncomfortable truths.", "display_order": 6 },
+            { "keyword": "Volta", "definition": "A turn or shift in argument or tone within a poem — often the moment a key idea is challenged, complicated or extended.", "display_order": 7 },
+            { "keyword": "Enjambment", "definition": "When a sentence continues beyond the end of a line without a pause. Can create momentum, breathlessness or a sense of being out of control.", "display_order": 8 },
+            { "keyword": "Nature as Power", "definition": "Several poems use nature to represent an overwhelming force that exposes the limits of human power — Wordsworth, Heaney and Owen all explore this.", "display_order": 9 },
+            { "keyword": "Structural Choices", "definition": "How poets arrange stanzas, lines and punctuation to create meaning. Regular form can suggest control; fragmented form can suggest chaos or oppression.", "display_order": 10 }
           ]
         }
       ]
